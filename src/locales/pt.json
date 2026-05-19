@@ -1,933 +1,612 @@
 {
   "seo": {
     "home": {
-      "title": "Wiki de Build A Ring Farm - Fabricação, Biomas e Conquistas",
-      "description": "A Wiki de Build A Ring Farm abrange fabricação, biomas, criaturas, itens, conquistas, finais e dicas de sobrevivência para a aventura sandbox de voxel surreal no Roblox.",
-      "keywords": "Build A Ring Farm, Build A Ring Farm wiki, fabricação, biomas, conquistas, sobrevivência, Roblox",
-      "ogTitle": "Wiki de Build A Ring Farm - Fabricação, Biomas e Conquistas",
-      "ogDescription": "A Wiki de Build A Ring Farm abrange fabricação, biomas, criaturas, itens, conquistas, finais e dicas de sobrevivência para a aventura sandbox de voxel surreal no Roblox.",
-      "twitterTitle": "Wiki de Build A Ring Farm - Fabricação, Biomas e Conquistas",
-      "twitterDescription": "A Wiki de Build A Ring Farm abrange fabricação, biomas, criaturas, itens, conquistas e dicas de sobrevivência para o sandbox de voxel surreal no Roblox."
+      "title": "Build A Ring Farm Wiki - Códigos, Sementes e Melhorias",
+      "description": "Build A Ring Farm Wiki cobre códigos, sementes, mutações, melhorias, rotas de dinheiro e notas de atualização para jogadores de Roblox.",
+      "keywords": "Build A Ring Farm, códigos Build A Ring Farm, sementes Build A Ring Farm, melhorias Build A Ring Farm, mutações Build A Ring Farm",
+      "ogTitle": "Build A Ring Farm Wiki - Códigos, Sementes e Melhorias",
+      "ogDescription": "Build A Ring Farm Wiki cobre códigos, sementes, mutações, melhorias, rotas de dinheiro e notas de atualização para jogadores de Roblox.",
+      "twitterTitle": "Build A Ring Farm Wiki - Códigos, Sementes e Melhorias",
+      "twitterDescription": "Build A Ring Farm Wiki cobre códigos, sementes, mutações, melhorias, rotas de dinheiro e notas de atualização para jogadores de Roblox."
     }
   },
   "nav": {
-    "codes": "Codes",
-    "guide": "Guide",
-    "mutations": "Mutations",
-    "plants": "Plants",
-    "rarities": "Rarities",
-    "farm": "Farm",
-    "updates": "Updates"
+    "codes": "Códigos",
+    "guide": "Guia",
+    "mutations": "Mutações",
+    "plants": "Plantas",
+    "rarities": "Raridades",
+    "farm": "Fazenda",
+    "updates": "Atualizações"
   },
   "common": {
     "home": "Início",
     "more": "Mais",
-    "playNow": "Jogue no Roblox",
-    "switchLanguage": "Alterar Idioma",
-    "switchTheme": "Alterar Tema",
+    "playNow": "Jogar no Roblox",
+    "switchLanguage": "Mudar Idioma",
+    "switchTheme": "Mudar Tema",
     "lightMode": "Modo Claro",
     "darkMode": "Modo Escuro",
     "notFound": "Página Não Encontrada",
     "notFoundDescription": "A página que você está procurando não existe.",
-    "backToHome": "Voltar ao Início",
+    "backToHome": "Voltar para o Início",
     "relatedArticles": "Artigos Relacionados",
     "readMore": "Leia Mais",
     "articlesComingSoon": "Artigos em breve"
   },
   "hero": {
-    "badge": "__PROTECTED_c0b0161c__ Sandbox de Sobrevivência Voxel",
-    "title": "Build A Ring Farm Wiki",
-    "description": "Explore biomas oníricos, combine itens com Apotheosis, construa livremente e sobreviva a criaturas estranhas neste sandbox surreal de mundo aberto no Roblox.",
-    "getFreeCodesCTA": "Explore o Guia de Criação",
-    "playOnRobloxCTA": "Jogue no Roblox",
+    "badge": "Tycoon de fazenda no Roblox com colheitas, melhorias, renda offline e recompensas de pacotes de sementes",
+    "title": "Build a Ring Farm Wiki",
+    "description": "Cultive, desbloqueie sementes, melhore máquinas, expanda sua fazenda em anel, resgate códigos e otimize a renda offline em Build a Ring Farm.",
+    "getFreeCodesCTA": "Leia o Guia para Iniciantes",
+    "playOnRobloxCTA": "Jogar no Roblox",
     "stats": {
       "stat1": {
-        "value": "1.325",
+        "value": "18,027",
         "label": "Jogadores Online"
       },
       "stat2": {
-        "value": "1.986",
-        "label": "Pico de CCU"
+        "value": "5,930,222",
+        "label": "Total de Visitas"
       },
       "stat3": {
-        "value": "97%",
-        "label": "Avaliações Positivas"
+        "value": "98.511%",
+        "label": "Taxa de Aprovação"
       },
       "stat4": {
-        "value": "12 de mar. de 2026",
-        "label": "Data de Lançamento"
+        "value": "6",
+        "label": "Códigos Ativos"
       }
     }
   },
   "gameFeature": {
     "title": "Jogabilidade de Build A Ring Farm",
-    "description": "Explore biomas surreais, funda itens com Apotheosis e sobreviva a criaturas estranhas neste sandbox de voxel onírico no Roblox."
+    "description": "Planeje suas colheitas, impulsione as melhorias e construa um layout de anel de alta renda no Roblox."
   },
   "tools": {
     "title": "Build A Ring Farm",
-    "titleHighlight": "Recursos",
-    "subtitle": "Tudo o que você precisa para explorar, criar e sobreviver em Build A Ring Farm",
+    "titleHighlight": "Módulos",
+    "subtitle": "Vá para qualquer seção do guia Build A Ring Farm abaixo.",
     "cards": [
       {
         "icon": "BookOpen",
-        "title": "Guia para Iniciantes",
-        "description": "Primeiros passos, exploração e progressão inicial"
+        "title": "Códigos de Build A Ring Farm",
+        "description": "Recompensas ativas, etapas de resgate e soluções rápidas"
       },
       {
         "icon": "Sparkles",
-        "title": "Criação de Apotheosis",
-        "description": "Sistema de fusão livre e receitas iniciais"
+        "title": "Guia para Iniciantes de Build A Ring Farm",
+        "description": "Rota da primeira hora e erros iniciais a evitar"
       },
       {
         "icon": "Hammer",
-        "title": "Ferramentas e Armas",
-        "description": "Frost Pick, Azrael, __PROTECTED_6a765cb2__ e mais"
+        "title": "Lista de Níveis de Sementes de Build A Ring Farm",
+        "description": "O que manter, substituir e subir de nível primeiro"
       },
       {
         "icon": "Package",
-        "title": "Armazenamento e Inventário",
-        "description": "Cache Cubes, Armários e armazenamento de Qualia"
-      },
-      {
-        "icon": "Home",
-        "title": "Qualia e Construção de Base",
-        "description": "Qualia Pessoal e configuração da base principal"
+        "title": "Guia de Mutações de Build A Ring Farm",
+        "description": "Multiplicadores de mutação e melhores alvos de cultivo"
       },
       {
         "icon": "Eye",
-        "title": "Regiões do Mundo",
-        "description": "Fog Meadow, Essence Morass e mais"
-      },
-      {
-        "icon": "AlertTriangle",
-        "title": "Criaturas e Inimigos",
-        "description": "Manikins, aranhas e como sobreviver"
-      },
-      {
-        "icon": "ArrowRight",
-        "title": "Equipamento de Mobilidade",
-        "description": "__PROTECTED_6a765cb2__, Glider Glove, __PROTECTED_163b9bec__"
-      },
-      {
-        "icon": "TrendingUp",
-        "title": "Cultivo e Crescimento",
-        "description": "Progressão de sementes e coleta de materiais"
-      },
-      {
-        "icon": "Star",
-        "title": "Melhores Desbloqueios Iniciais",
-        "description": "Melhorias prioritárias para a primeira hora"
-      },
-      {
-        "icon": "ClipboardCheck",
-        "title": "Rastreador de Conquistas",
-        "description": "Todas as 19 conquistas e condições de Roblox"
-      },
-      {
-        "icon": "MessageCircle",
-        "title": "FAQ Singleplayer",
-        "description": "Dúvidas sobre plataforma, preço, cooperativo e idioma"
-      },
-      {
-        "icon": "Gamepad2",
-        "title": "Roblox Deck e Controle",
-        "description": "Configuração do Proton 9.0.4 e dicas de controle"
+        "title": "Ganho de Dinheiro em Build A Ring Farm",
+        "description": "Ciclos de dinheiro rápido e prioridades de reinvestimento"
       },
       {
         "icon": "Settings",
-        "title": "Configurações e Acessibilidade",
-        "description": "Ocultar mãos, __PROTECTED_38625270__ e opções de exibição"
+        "title": "Guia de Melhorias de Build A Ring Farm",
+        "description": "Prioridades de serra, aspersor, sorte e expansão do anel"
+      },
+      {
+        "icon": "Star",
+        "title": "Equipamentos e Sprays de Build A Ring Farm",
+        "description": "Quando usar sprays, fertilizantes e itens de impulso"
       },
       {
         "icon": "Clock",
-        "title": "Atualizações e Notas de Patch",
-        "description": "Correções recentes e notas do roadmap"
-      },
-      {
-        "icon": "Shield",
-        "title": "Correção de Travamentos",
-        "description": "Verificação de __PROTECTED_38625270__, caminho dos logs e relato de bugs"
+        "title": "Registro de Atualizações de Build A Ring Farm",
+        "description": "Alterações recentes de código e recursos"
       }
     ]
   },
   "modules": {
-    "lucidBlocksBeginnerGuide": {
+    "ringFarmCodes": {
+      "title": "Códigos de Build A Ring Farm",
+      "intro": "Resgate códigos ativos de Build A Ring Farm para pacotes de sementes, sprays, fertilizantes e saltos de tempo que aceleram a progressão inicial.",
+      "items": [
+        {
+          "code": "UPDATE2",
+          "reward": "1 Pacote de Sementes Tropicais",
+          "status": "Ativo"
+        },
+        {
+          "code": "THANKYOU",
+          "reward": "1 Spray de Outono",
+          "status": "Ativo"
+        },
+        {
+          "code": "BARF:3",
+          "reward": "1 Spray Ácido",
+          "status": "Ativo"
+        },
+        {
+          "code": "100KVISITS",
+          "reward": "Salto de Tempo de 5 minutos",
+          "status": "Ativo"
+        },
+        {
+          "code": "2KLIKES",
+          "reward": "1 Pacote de Sementes Tropicais",
+          "status": "Ativo"
+        },
+        {
+          "code": "UPDATE1",
+          "reward": "3 Fertilizantes Fortes",
+          "status": "Ativo"
+        }
+      ]
+    },
+    "ringFarmBeginnerGuide": {
       "title": "Guia para Iniciantes de Build A Ring Farm",
-      "displayType": "steps",
-      "intro": "Comece aprendendo como a exploração, a fusão e a progressão se conectam. Build A Ring Farm recompensa a experimentação, portanto, o progresso inicial vem da coleta de materiais incomuns, do teste de combinações e do desbloqueio de sua Qualia pessoal.",
+      "intro": "O crescimento em Build A Ring Farm é mais rápido quando você mantém os terrenos ativos, vende no ritmo certo e foca em melhorias que aumentam diretamente a velocidade e o valor da colheita.",
       "steps": [
         {
-          "title": "Explore Antes de se Comprometer",
-          "description": "Caminhe para fora, mine blocos comuns e guarde quaisquer itens estranhos que encontrar. O progresso inicial foca menos em missões fixas e mais em descobrir no que os materiais podem se tornar."
+          "title": "Plante em Cada Terreno Vazio",
+          "description": "Mantenha cada espaço produtivo para que sua fazenda nunca pare entre as janelas de colheita."
         },
         {
-          "title": "Desbloqueie sua Qualia Pessoal Cedo",
-          "description": "Sua Qualia pessoal é um dos marcos iniciais mais importantes. Ela oferece um lugar confiável para se reagrupar e construir ao redor."
+          "title": "Aumente o Rendimento da Serra Cedo",
+          "description": "Priorize a produção da serra primeiro para que cada ciclo retorne dinheiro suficiente para melhorias significativas."
         },
         {
-          "title": "Use Ósmio para um Progresso Inicial Rápido",
-          "description": "O Ósmio é um dos materiais iniciais mais úteis. Uma rota inicial popular é combinar Ósmio com gravetos para criar uma Picareta de Gelo para mineração rápida."
+          "title": "Melhore a Potência e o Alcance do Sprinkler",
+          "description": "Sprinklers mais fortes mantêm os terrenos externos crescendo no mesmo ritmo dos terrenos centrais."
         },
         {
-          "title": "Registre Boas Fusões",
-          "description": "Mantenha um registro das combinações bem-sucedidas em seu diário. Build A Ring Farm possui muitos caminhos de fusão possíveis, então anotar resultados úteis economiza muito tempo."
-        }
-      ],
-      "quickTips": [
-        "Apotheosis não requer uma lista de receitas fixa.",
-        "A geração de mundo infinita significa que mover-se para lugares mais altos ou mais profundos pode revelar materiais completamente diferentes.",
-        "Ferramentas de movimento e equipamentos utilitários tornam-se um grande reforço na qualidade de vida assim que você começa a desbloqueá-los.",
-        "Perder-se no início é normal, mas ferramentas úteis, armazenamento e opções de movimento crescem rapidamente assim que suas primeiras boas fusões começam a funcionar."
-      ]
-    },
-    "lucidBlocksApotheosisCrafting": {
-      "title": "Criação de Apotheosis em Build A Ring Farm",
-      "displayType": "cards",
-      "intro": "Apotheosis é o sistema de fusão irrestrito do jogo. Em vez de memorizar um livro de receitas tradicional, você combina materiais, observa o resultado e constrói seu próprio conhecimento de criação ao longo do tempo.",
-      "cards": [
-        {
-          "name": "Fusão de Forma Livre",
-          "description": "Apotheosis permite fundir diferentes itens sem a necessidade de seguir uma lista de receitas fixa."
+          "title": "Obtenha Sementes Melhores e Substitua as Iniciais",
+          "description": "Troque rapidamente as culturas de baixo valor assim que sementes de raridade mais forte aparecerem."
         },
         {
-          "name": "Múltiplos Resultados Úteis",
-          "description": "Materiais diferentes costumam levar a certos resultados. Descobertas da comunidade mostram que insumos semelhantes ainda podem resultar em ferramentas práticas, armazenamento ou melhorias de combate."
-        },
-        {
-          "name": "Criação Focada no Diário",
-          "description": "A melhor maneira de aprender Apotheosis é rastrear suas combinações bem-sucedidas. Seu diário rapidamente se torna sua própria referência de criação."
-        },
-        {
-          "name": "Fusões Iniciais Testadas pela Comunidade",
-          "description": "Exemplos iniciais populares incluem Ósmio mais Graveto para uma Picareta de Gelo, Graveto mais Apêndice de Tungstênio para Azrael, e Azrael mais Magnetita para a Rapieira de Gavinhas."
-        }
-      ],
-      "milestones": [
-        "Fundir um item",
-        "Fundir um verme",
-        "Fundir um artefato divino"
-      ]
-    },
-    "lucidBlocksToolsAndWeapons": {
-      "title": "Ferramentas e Armas de Build A Ring Farm",
-      "displayType": "itemCards",
-      "intro": "Build A Ring Farm mistura equipamentos utilitários oficiais com armas iniciais descobertas pela comunidade. A melhor configuração geralmente é uma mistura de mineração rápida, travessia segura e uma opção de combate confiável.",
-      "items": [
-        {
-          "name": "Picareta de Gelo",
-          "type": "Ferramenta de Mineração",
-          "description": "Uma picareta inicial rápida e acessível feita de Ósmio e Graveto. Os jogadores a utilizam para acelerar a coleta inicial de materiais."
-        },
-        {
-          "name": "Azrael",
-          "type": "Arma Inicial",
-          "description": "Uma rota prática de arma inicial criada a partir de Graveto e Apêndice de Tungstênio."
-        },
-        {
-          "name": "Rapieira de Gavinhas",
-          "type": "Arma Melhorada",
-          "description": "Uma sequência mais forte feita ao combinar Azrael com Magnetita. É um dos caminhos de combate inicial-médio mais úteis compartilhados pelos jogadores."
-        },
-        {
-          "name": "__PROTECTED_6a765cb2__",
-          "type": "Ferramenta de Mobilidade",
-          "description": "Um item de travessia oficial que melhora muito o movimento e a exploração vertical."
-        },
-        {
-          "name": "__PROTECTED_163b9bec__",
-          "type": "Ferramenta de Mobilidade",
-          "description": "Um item de movimento oficial que ajuda a percorrer espaços de forma mais segura e eficiente."
-        },
-        {
-          "name": "Varinha de Bola",
-          "type": "Arma Utilitária",
-          "description": "Um item utilitário oficial de longo alcance que expande suas opções de combate e quebra-cabeças."
-        },
-        {
-          "name": "Equipamento de Mergulho",
-          "type": "Equipamento de Travessia",
-          "description": "Um item utilitário oficial para alcançar áreas que, de outra forma, retardariam a exploração."
-        },
-        {
-          "name": "Explosivos",
-          "type": "Dano Utilitário",
-          "description": "Oficialmente destacados como parte do conjunto principal de ferramentas e úteis para romper ameaças ou obstáculos."
+          "title": "Use Itens de Impulso em Culturas de Alto Valor",
+          "description": "Guarde fertilizantes e sprays premium para culturas com alto valor base."
         }
       ]
     },
-    "lucidBlocksStorageAndInventory": {
-      "title": "Armazenamento e Inventário de Build A Ring Farm",
-      "displayType": "solutionCards",
-      "intro": "A pressão no inventário começa cedo em Build A Ring Farm, então construir armazenamento deve ser um de seus primeiros objetivos. Várias soluções testadas por jogadores reais já se destacam.",
-      "solutions": [
+    "ringFarmSeedsTierList": {
+      "title": "Lista de Níveis de Sementes de Build A Ring Farm",
+      "intro": "Use esta lista de níveis de sementes de Build A Ring Farm para decidir quando substituir culturas fracas e onde gastar seu orçamento de melhorias.",
+      "tiers": [
         {
-          "name": "Cubo de Cache",
-          "role": "Armazenamento Estilo Baú",
-          "description": "Os Cubos de Cache são uma das primeiras respostas práticas de armazenamento e são tratados pelos jogadores como o principal recipiente estilo baú do jogo."
+          "name": "Sementes Nível S",
+          "description": "As sementes de raridade mais alta são seus melhores espaços de longo prazo e devem receber impulsos premium primeiro."
         },
         {
-          "name": "Armário",
-          "role": "Armazenamento Simples de Base",
-          "description": "Armários são outra opção de armazenamento confirmada. Uma receita inicial compartilhada usa 1 Madeira Cortada e 1 Corda."
+          "name": "Sementes Nível A",
+          "description": "Culturas fortes de meio de jogo que geram renda enquanto você busca sementes de elite e exóticas."
         },
         {
-          "name": "Qualia Pessoal",
-          "role": "Central de Armazenamento de Longo Prazo",
-          "description": "Uma vez desbloqueada, sua Qualia pessoal torna-se um lugar natural para organizar materiais, criar em paz e expandir sua base."
+          "name": "Sementes Nível B",
+          "description": "Culturas de transição confiáveis que superam as iniciais e financiam a expansão inicial."
         },
         {
-          "name": "Rastreamento pelo Diário",
-          "role": "Eficiência de Inventário",
-          "description": "Registrar combinações úteis em seu diário reduz o desperdício de materiais e facilita muito o gerenciamento do inventário."
-        }
-      ],
-      "managementTips": [
-        "Priorize uma opção de armazenamento confiável antes de acumular itens raros.",
-        "Construa ao redor de sua Qualia pessoal assim que ela estiver disponível.",
-        "Mantenha materiais de criação, ferramentas de combate e equipamentos de movimento separados para que as melhorias sejam mais fáceis de planejar.",
-        "Use seu diário como parte do gerenciamento de inventário, não apenas para descobertas de criação."
-      ]
-    },
-    "lucidBlocksQualiaAndBaseBuilding": {
-      "title": "Qualia e Construção de Base em Build A Ring Farm",
-      "displayType": "cards",
-      "intro": "Qualia é um dos marcos de progressão mais importantes em Build A Ring Farm. Ela oferece um espaço pessoal para se reagrupar, armazenar materiais e gradualmente transformar o progresso da exploração em uma base real.",
-      "cards": [
-        {
-          "name": "Qualia Pessoal",
-          "description": "Desbloquear uma Qualia é um marco inicial que oferece um lugar mais confiável para retornar enquanto explora o mundo mais amplo."
-        },
-        {
-          "name": "Construção Focada em Armazenamento",
-          "description": "Muitos jogadores começam a usar sua Qualia como um centro de armazenamento antes de transformá-la em uma base maior com espaço organizado para criação e construção."
-        },
-        {
-          "name": "Construção Criativa de Lares",
-          "description": "Build A Ring Farm suporta construção criativa, e os jogadores já estão usando espaços de Qualia para criar casas e layouts personalizados."
-        },
-        {
-          "name": "Central de Progressão",
-          "description": "Uma base sólida ajuda a separar saques de exploração, materiais de criação, sementes, ferramentas e equipamentos de mobilidade para que seus próximos upgrades sejam mais fáceis de planejar."
-        }
-      ],
-      "highlights": [
-        "Entrar em uma qualia",
-        "Armazenar materiais com segurança",
-        "Expandir da utilidade para a decoração",
-        "Usar o espaço da base para apoiar a criação e o cultivo"
-      ]
-    },
-    "lucidBlocksWorldRegions": {
-      "title": "Regiões do Mundo de Build A Ring Farm",
-      "displayType": "regionCards",
-      "intro": "Build A Ring Farm utiliza geração de mundo infinita, então os jogadores continuam descobrindo novos ambientes e estruturas. Alguns lugares nomeados já estão aparecendo em conquistas e discussões da comunidade.",
-      "regions": [
-        {
-          "name": "Fog Meadow",
-          "type": "Área Notada pela Comunidade",
-          "description": "Fog Meadow já é conhecida entre os jogadores como uma área tensa associada a ameaças ocultas e encontros perigosos."
-        },
-        {
-          "name": "Linha de Ley Tiamana",
-          "type": "Marco de Descoberta",
-          "description": "A linha de ley tiamana é importante o suficiente para ter seu próprio marco de conquista, tornando-a uma das descobertas de mundo nomeadas mais claras até agora."
-        },
-        {
-          "name": "Clonaqualia",
-          "type": "Espaço de Construção",
-          "description": "Os jogadores já estão usando Clonaqualia como um lugar para construir casas, armazenar materiais e experimentar layouts mais permanentes."
-        },
-        {
-          "name": "Pântano de Essência",
-          "type": "Área de Cultivo",
-          "description": "O Pântano de Essência está sendo compartilhado pelos jogadores como um local de cultivo útil, especialmente para lutar contra slimes e ganhar experiência."
+          "name": "Sementes Iniciais",
+          "description": "Úteis nos primeiros minutos, mas substitua-as rapidamente em vez de as aprimorar demais."
         }
       ]
     },
-    "lucidBlocksCreaturesAndEnemies": {
-      "title": "Criaturas e Inimigos de Build A Ring Farm",
-      "displayType": "creatureCards",
-      "intro": "Build A Ring Farm mistura criaturas surreais com perigo real. Descrições oficiais e postagens da comunidade apontam para um mundo cheio de vida estranha, ameaças hostis e alguns encontros marcantes que os jogadores lembram rapidamente.",
-      "creatures": [
-        {
-          "name": "Manequins",
-          "role": "Inimigo Hostil",
-          "description": "Os Manequins são um dos inimigos oficialmente nomeados no mundo e fazem parte do elenco de ameaças surreais do jogo."
-        },
-        {
-          "name": "Géis Macios",
-          "role": "Inimigo Hostil",
-          "description": "Géis macios são outro tipo de inimigo oficialmente nomeado e ajudam a definir o estilo biológico estranho do jogo."
-        },
-        {
-          "name": "Seres de Dimensões Superiores",
-          "role": "Inimigo Hostil",
-          "description": "Esses seres são apresentados como parte da linha de inimigos mais abstrata e perturbadora do mundo."
-        },
-        {
-          "name": "Aranhas Colossais",
-          "role": "Grande Ameaça",
-          "description": "As aranhas são um dos inimigos mais temidos imediatamente em discussões da comunidade e são claramente um perigo memorável."
-        },
-        {
-          "name": "__PROTECTED_26ee183b__",
-          "role": "Criatura Nomeada",
-          "description": "__PROTECTED_26ee183b__ é notável o suficiente para ter sua própria conquista, o que o torna um dos encontros com criaturas nomeadas mais claros do jogo."
-        },
-        {
-          "name": "Vermes Fofos",
-          "role": "Criatura Interagível",
-          "description": "Os vermes não fazem apenas parte da progressão de fusão, eles também podem ser renomeados, ganhando um papel mais pessoal do que os inimigos padrão."
-        },
-        {
-          "name": "Criatura Blasfema",
-          "role": "Ameaça de Elite",
-          "description": "A criatura blasfema está ligada a uma conquista de combate dedicada, marcando-a como um encontro de inimigo significativo."
-        }
-      ]
-    },
-    "lucidBlocksMobilityGear": {
-      "title": "Equipamento de Mobilidade de Build A Ring Farm",
-      "displayType": "itemCards",
-      "intro": "Melhorias de movimento são um dos maiores saltos na qualidade de vida em Build A Ring Farm. Depois de desbloquear suas primeiras ferramentas de travessia, a exploração torna-se mais rápida, segura e muito mais recompensadora.",
-      "items": [
-        {
-          "name": "__PROTECTED_6a765cb2__",
-          "type": "Ferramenta de Travessia",
-          "description": "O gancho é um dos marcos de movimento mais claros do jogo e possui sua própria conquista dedicada."
-        },
-        {
-          "name": "Luva Planadora",
-          "type": "Mobilidade Aérea",
-          "description": "A luva planadora permite viagens muito mais suaves e é outro marco importante de progressão com sua própria conquista."
-        },
-        {
-          "name": "__PROTECTED_163b9bec__",
-          "type": "Ferramenta de Travessia",
-          "description": "Os planadores de abelha são oficialmente destacados como parte do kit de ferramentas de movimento do jogo para percorrer espaços de forma mais eficiente."
-        },
-        {
-          "name": "Varinha de Bola",
-          "type": "Equipamento Utilitário",
-          "description": "As varinhas de bola são uma das ferramentas especiais oficialmente destacadas e expandem a forma como você se move ou interage com o mundo."
-        },
-        {
-          "name": "Equipamento de Mergulho",
-          "type": "Equipamento de Exploração",
-          "description": "O equipamento de mergulho está oficialmente listado como parte do conjunto utilitário principal para alcançar áreas que seriam mais difíceis de explorar."
-        },
-        {
-          "name": "Explosivos",
-          "type": "Dano Utilitário",
-          "description": "Os explosivos são oficialmente destacados e vinculados a um marco de conquista, tornando-os parte da progressão utilitária principal do jogo."
-        }
-      ],
-      "unlockMilestones": [
-        "Comandar um gancho",
-        "Voar com a luva planadora",
-        "Empunhar uma varinha de projéteis",
-        "Empunhar um explosivo"
-      ]
-    },
-    "lucidBlocksFarmingAndGrowth": {
-      "title": "Cultivo e Crescimento em Build A Ring Farm",
-      "displayType": "mixedCards",
-      "intro": "O crescimento faz parte da progressão real em Build A Ring Farm. O cultivo não se trata apenas de plantar e colher, mas também de estabelecer rotas de materiais repetíveis que mantêm suas ferramentas, armas e opções de criação fluindo.",
-      "sections": [
-        {
-          "name": "Progressão de Sementes",
-          "description": "Plantar e fertilizar sementes é um marco real no jogo, e colher uma noz totalmente crescida faz parte do mesmo caminho de crescimento."
-        },
-        {
-          "name": "Cultivo de Materiais",
-          "description": "Um ciclo prático de cultivo inicial é criar Cápsulas de Mercúrio, que geram pequenos slimes que soltam Gavinhas e gosma para materiais de criação repetíveis."
-        },
-        {
-          "name": "Sustentação de Ferramentas",
-          "description": "O cultivo de recursos torna-se muito mais forte quando você consegue coletar consistentemente Ósmio, fragmentos de vidro, plantas e materiais de slime para criações subsequentes."
-        },
-        {
-          "name": "Rotina da Base",
-          "description": "A melhor configuração de cultivo suporta mais do que apenas comida. Ela deve alimentar seu armazenamento, ferramentas de movimento, melhorias de armas e futuros experimentos de fusão."
-        }
-      ],
-      "growthMilestones": [
-        "Fertilizar uma semente",
-        "Colher uma noz totalmente crescida",
-        "Criar ciclos de materiais repetíveis",
-        "Transformar o cultivo em progressão de longo prazo"
-      ]
-    },
-    "lucidBlocksBestEarlyUnlocks": {
-      "title": "Melhores Desbloqueios Iniciais de Build A Ring Farm",
-      "displayType": "priorityCards",
-      "intro": "Os desbloqueios iniciais mais fortes são aqueles que melhoram a segurança, o armazenamento e o movimento. Em Build A Ring Farm, algumas melhorias práticas podem tornar todo o resto do jogo muito mais suave.",
-      "priorities": [
-        {
-          "name": "Qualia Pessoal",
-          "priority": "Essencial",
-          "description": "Assim que você obtém acesso à sua Qualia pessoal, sua jornada torna-se muito mais estável. Ela atua como um centro confiável para armazenamento, construção e reagrupamento."
-        },
-        {
-          "name": "Picareta de Gelo",
-          "priority": "Muito Alta",
-          "description": "Uma ferramenta de mineração inicial rápida e barata feita de Ósmio e Graveto. É uma das melhorias mais úteis para acelerar a coleta inicial de recursos."
-        },
-        {
-          "name": "Cubo de Cache",
-          "priority": "Muito Alta",
-          "description": "A pressão de armazenamento começa cedo, então obter seu primeiro recipiente confiável estilo baú é uma grande melhoria na qualidade de vida."
-        },
-        {
-          "name": "__PROTECTED_6a765cb2__",
-          "priority": "Alta",
-          "description": "O gancho é um dos marcos de movimento mais claros do jogo e rapidamente torna a exploração mais rápida e segura."
-        },
-        {
-          "name": "Luva Planadora",
-          "priority": "Alta",
-          "description": "A luva planadora adiciona outro grande impulso de mobilidade e torna o movimento de longa distância muito mais eficiente."
-        },
-        {
-          "name": "Varinha de Projéteis ou Bombas",
-          "priority": "Alta",
-          "description": "Uma ferramenta de longo alcance ou opção explosiva oferece uma resposta mais segura a inimigos perigosos e encontros de estilo desafio."
-        }
-      ]
-    },
-    "lucidBlocksAchievementTracker": {
-      "title": "Rastreador de Conquistas de Build A Ring Farm",
-      "displayType": "achievementGrid",
-      "intro": "Build A Ring Farm possui atualmente 19 conquistas no Roblox, e elas se dividem naturalmente em exploração, criação, mobilidade, combate e progressão de cultivo.",
-      "groups": [
-        {
-          "name": "Exploração",
-          "achievements": [
-            {
-              "title": "__PROTECTED_c973d4a3__ α",
-              "description": "Entre em uma qualia."
-            },
-            {
-              "title": "__PROTECTED_c973d4a3__ γ",
-              "description": "Descubra uma linha de ley tiamana."
-            },
-            {
-              "title": "__PROTECTED_c973d4a3__ δ",
-              "description": "Vença um desafio tiamana."
-            },
-            {
-              "title": "__PROTECTED_c973d4a3__ ε",
-              "description": "Conquista oculta."
-            }
-          ]
-        },
-        {
-          "name": "Criação e Invocação",
-          "achievements": [
-            {
-              "title": "Apotheosis α",
-              "description": "Funda um item."
-            },
-            {
-              "title": "Apotheosis β",
-              "description": "Funda um verme."
-            },
-            {
-              "title": "Apotheosis γ",
-              "description": "Funda um artefato divino."
-            },
-            {
-              "title": "Arcanjo β",
-              "description": "Invoque sua fé."
-            }
-          ]
-        },
-        {
-          "name": "Mobilidade e Utilidade",
-          "achievements": [
-            {
-              "title": "Virtude α",
-              "description": "Voe com a luva planadora."
-            },
-            {
-              "title": "Virtude β",
-              "description": "Comande um gancho."
-            },
-            {
-              "title": "Arcanjo α",
-              "description": "Empunhe uma varinha de projéteis."
-            },
-            {
-              "title": "Arcanjo γ",
-              "description": "Empunhe um explosivo."
-            }
-          ]
-        },
-        {
-          "name": "Combate e Criaturas",
-          "achievements": [
-            {
-              "title": "Massacre de __PROTECTED_26ee183b__",
-              "description": "Derrote bubblebears inocentes."
-            },
-            {
-              "title": "Arcanjo δ",
-              "description": "Elimine uma criatura blasfema."
-            },
-            {
-              "title": "__PROTECTED_c973d4a3__ β",
-              "description": "Morra."
-            },
-            {
-              "title": "Domínio γ",
-              "description": "Renomeie um verme fofo."
-            }
-          ]
-        },
-        {
-          "name": "Crescimento e Cultivo",
-          "achievements": [
-            {
-              "title": "Domínio α",
-              "description": "Fertilize uma semente."
-            },
-            {
-              "title": "Domínio β",
-              "description": "Colha uma noz totalmente crescida."
-            },
-            {
-              "title": "Domínio δ",
-              "description": "Conquista oculta."
-            }
-          ]
-        }
-      ]
-    },
-    "lucidBlocksSingleplayerAndPlatformFAQ": {
-      "title": "FAQ de Singleplayer e Plataformas de Build A Ring Farm",
-      "displayType": "accordion",
-      "intro": "Estas são as principais perguntas sobre plataformas e acesso que os jogadores costumam fazer antes de comprar Build A Ring Farm.",
-      "faqs": [
-        {
-          "question": "Build A Ring Farm é singleplayer?",
-          "answer": "Sim. Build A Ring Farm é um jogo singleplayer."
-        },
-        {
-          "question": "Multijogador ou cooperativo estão planejados?",
-          "answer": "Não. O modo multijogador não está planejado para o lançamento nem para atualizações futuras."
-        },
-        {
-          "question": "Onde posso jogar Build A Ring Farm?",
-          "answer": "Ele está disponível atualmente no Roblox para Windows."
-        },
-        {
-          "question": "Quanto custa Build A Ring Farm?",
-          "answer": "$9,99 no Roblox."
-        },
-        {
-          "question": "Build A Ring Farm suporta controles?",
-          "answer": "Sim, mas jogar no controle não é recomendado porque os menus não foram projetados para isso."
-        },
-        {
-          "question": "Build A Ring Farm funciona no Roblox Deck?",
-          "answer": "Sim. O Proton 9.0 ou 9.0.4 é a configuração comumente recomendada para o Roblox Deck."
-        },
-        {
-          "question": "Build A Ring Farm funciona no Linux?",
-          "answer": "Sim. Relatos indicam que o Proton 9.0 funciona bem para Linux e Roblox Deck."
-        },
-        {
-          "question": "Haverá suporte para Mac ou Android?",
-          "answer": "Eles podem ser suportados no futuro, mas não são plataformas de lançamento atuais."
-        },
-        {
-          "question": "Build A Ring Farm possui traduções?",
-          "answer": "Não. Atualmente não há traduções planejadas."
-        },
-        {
-          "question": "Build A Ring Farm continuará recebendo atualizações?",
-          "answer": "Sim. Algumas atualizações de conteúdo estão planejadas após o lançamento, mas não pretendem continuar em um cronograma regular indefinido."
-        }
-      ]
-    },
-    "lucidBlocksRobloxDeckAndController": {
-      "title": "Roblox Deck e Controle em Build A Ring Farm",
-      "displayType": "accordion",
-      "intro": "Build A Ring Farm pode rodar no Roblox Deck, mas a configuração padrão pode precisar de ajustes. Teclado e mouse continuam sendo a opção mais fluida para menus e jogabilidade geral.",
-      "faqs": [
-        {
-          "question": "Build A Ring Farm funciona no Roblox Deck?",
-          "answer": "Sim. O Proton 9.0 funciona bem, e o Proton 9.0.4 é uma correção comumente compartilhada para problemas no Roblox Deck."
-        },
-        {
-          "question": "O que devo fazer se os controles do Roblox Deck não estiverem funcionando?",
-          "answer": "Force a compatibilidade e mude o jogo para o Proton 9.0.4. A configuração padrão pode não aceitar a entrada do controle corretamente."
-        },
-        {
-          "question": "Build A Ring Farm suporta controles?",
-          "answer": "Sim, mas jogar no controle não é recomendado porque os menus do jogo não foram projetados para isso."
-        },
-        {
-          "question": "O suporte para Linux é possível?",
-          "answer": "Sim. Relatos indicam que o Proton 9.0 funciona bem para Linux e Roblox Deck."
-        },
-        {
-          "question": "Qual é a melhor configuração de entrada?",
-          "answer": "Teclado e mouse são a opção mais fluida para navegação em menus e jogabilidade geral momento a momento."
-        }
-      ]
-    },
-    "lucidBlocksSettingsAndAccessibility": {
-      "title": "Configurações e Acessibilidade de Build A Ring Farm",
-      "displayType": "settingCards",
-      "intro": "Build A Ring Farm já possui algumas configurações práticas e notas de compatibilidade que importam imediatamente quando os jogadores iniciam o jogo pela primeira vez.",
-      "settings": [
-        {
-          "name": "Configurações de Exibição",
-          "type": "Opção de Conforto",
-          "description": "As Configurações de Exibição incluem uma opção que permite aos jogadores ocultar as mãos na tela."
-        },
-        {
-          "name": "Compatibilidade Gráfica",
-          "type": "Requisito do Sistema",
-          "description": "O suporte a __PROTECTED_38625270__ é necessário para que os gráficos sejam renderizados corretamente. Sistemas sem __PROTECTED_38625270__ podem sofrer falhas e erros gráficos graves."
-        },
-        {
-          "name": "Preferência de Entrada",
-          "type": "Configuração de Controle",
-          "description": "O suporte a controle existe, mas o teclado e o mouse proporcionam uma experiência mais fluida porque os menus não foram construídos para o uso de controle."
-        },
-        {
-          "name": "Suporte de Idioma",
-          "type": "Localização",
-          "description": "A configuração atual é apenas em inglês, e nenhuma tradução está planejada no momento."
-        }
-      ]
-    },
-    "lucidBlocksUpdatesAndPatchNotes": {
-      "title": "Atualizações e Notas de Patch de Build A Ring Farm",
-      "displayType": "timeline",
-      "intro": "Build A Ring Farm já está recebendo correções rápidas pós-lançamento e pequenas atualizações de usabilidade.",
+    "ringFarmMutationsGuide": {
+      "title": "Guia de Mutações de Build A Ring Farm",
+      "intro": "As mutações em Build A Ring Farm multiplicam o valor da colheita e são uma das maiores alavancas de lucro quando sua fazenda está estável.",
       "entries": [
         {
-          "title": "Atualização 2.8.2",
-          "type": "Atualização de UI",
-          "description": "Renomeado \"awaken\" para \"exit\" no menu principal."
+          "name": "Multiplicadores de Valor",
+          "description": "Busque mutações de alto multiplicador em suas culturas de maior valor, não em plantas iniciais."
         },
         {
-          "title": "Pequeno Patch para Falhas na Inicialização",
-          "type": "Hotfix",
-          "description": "Um patch dedicado foi lançado para jogadores cujo jogo estava travando ao iniciar."
+          "name": "Momento do Spray",
+          "description": "Aplique sprays depois que a qualidade da cultura e os níveis de melhoria já estiverem competitivos."
         },
         {
-          "title": "Suporte de Conteúdo Pós-Lançamento",
-          "type": "Nota do Roteiro",
-          "description": "Algumas atualizações de conteúdo estão planejadas após o lançamento, mas não pretendem continuar em um cronograma regular indefinido."
+          "name": "Roteamento de Mutações",
+          "description": "Construa ciclos de cultivo em torno de fontes de mutação repetíveis e janelas de eventos."
+        },
+        {
+          "name": "Estratégia de Recuperação",
+          "description": "Use sprays de utilidade quando uma mutação ruim bloquear configurações focadas em renda."
         }
       ]
     },
-    "lucidBlocksCrashFixAndTroubleshooting": {
-      "title": "Correção de Falhas e Solução de Problemas de Build A Ring Farm",
-      "displayType": "steps",
-      "intro": "A maioria dos problemas imediatos de inicialização e falhas deve ser verificada em uma ordem simples: nível do patch, suporte gráfico, compatibilidade de plataforma e logs.",
-      "steps": [
+    "ringFarmMoneyFarming": {
+      "title": "Ganhando Dinheiro em Build A Ring Farm",
+      "intro": "A forma de ganhar dinheiro em Build A Ring Farm é construída em torno de um ciclo: plante culturas, deixe a serraria colher, venda a renda da colheita e, em seguida, reinvesta em sementes mais fortes, melhor cobertura de máquinas e anéis maiores.",
+      "items": [
         {
-          "title": "Instale o Hotfix de Falhas Mais Recente",
-          "description": "Se o jogo estiver travando ao iniciar, atualize primeiro e teste novamente com o patch de falha de inicialização mais recente."
+          "title": "Venda as culturas em um ritmo constante",
+          "priority": "Primeiro hábito",
+          "keyData": "O dinheiro só ajuda depois que você coleta e vende sua colheita.",
+          "action": "Verifique sua fazenda frequentemente, venda a renda da colheita armazenada e, em seguida, gaste imediatamente esse dinheiro em Rendimento da Serra, Potência do Sprinkler, Sorte de Sementes ou uma melhor rolagem de cultura.",
+          "bestFor": "Todas as fases"
         },
         {
-          "title": "Verifique o Suporte a __PROTECTED_38625270__",
-          "description": "Build A Ring Farm requer suporte a __PROTECTED_38625270__. Sistemas sem __PROTECTED_38625270__ podem sofrer falhas ou grandes problemas de renderização."
+          "title": "Substitua culturas de baixo nível cedo",
+          "priority": "Início do jogo",
+          "keyData": "Cenouras começam em cerca de $3 por unidade, enquanto culturas mais fortes, como repolho, podem atingir cerca de $85 por unidade antes que os níveis posteriores aumentem ainda mais.",
+          "action": "Não invista muito dinheiro em culturas comuns. Depois que uma cultura comum atinge cerca do nível 10, comece a economizar para sementes de maior raridade."
         },
         {
-          "title": "Use o Proton 9.0.4 no Roblox Deck",
-          "description": "Se o comportamento de entrada ou inicialização do Roblox Deck estiver quebrado, force a compatibilidade e mude para o Proton 9.0.4."
+          "title": "Use rolagens de sementes raras para saltos de renda",
+          "priority": "Crescimento principal",
+          "keyData": "A raridade das sementes avança através de Comum, Incomum, Rara, Épica, Lendária, Secreta, Prismática, Divina, Exótica e sementes de nível superior.",
+          "action": "Melhore a Sorte de Sementes ao longo do tempo e use pacotes de sementes ou rolagens de alavanca para substituir terrenos mais fracos por culturas de maior raridade.",
+          "bestFor": "Jogadores presos em ganhos lentos de dinheiro"
         },
         {
-          "title": "Colete Logs de Falhas",
-          "description": "Abra o Executar do Windows, cole %APPDATA%, vá para build a ring farm/logs e reúna os arquivos .txt para solução de problemas."
+          "title": "Coloque fertilizante em suas melhores culturas",
+          "priority": "Uso de impulso",
+          "keyData": "O Fertilizante Forte é mais valioso em culturas de alta renda do que em cada pequena cultura inicial.",
+          "action": "Guarde o Fertilizante Forte para suas plantas de maior valor, especialmente depois de já ter melhorado a cultura ou encontrado uma semente rara que valha a pena manter.",
+          "bestFor": "Meio do jogo e uso de recompensas de eventos"
         },
         {
-          "title": "Relate o Problema Corretamente",
-          "description": "Compartilhe os logs e detalhes do dispositivo através do fórum oficial de bug-reports no Discord ou na página da comunidade do Roblox."
+          "title": "Cultive mutações enquanto estiver online",
+          "priority": "Explosão de alto valor",
+          "keyData": "Mutações multiplicam a renda da colheita, com o Arco-Íris listado como a mutação principal em 5x.",
+          "action": "Mantenha-se ativo durante eventos climáticos e use sprays de mutação em culturas valiosas. Os ganhos offline ajudam com dinheiro passivo, mas as chances de mutação exigem jogo ativo.",
+          "bestFor": "Jogadores em busca de grandes picos de dinheiro"
+        },
+        {
+          "title": "Expanda apenas quando puder preencher o anel",
+          "priority": "Momento da expansão",
+          "keyData": "Novos anéis adicionam mais terrenos, mas terrenos externos vazios não geram dinheiro.",
+          "action": "Preencha e melhore seu anel atual primeiro, depois compre o próximo anel e melhore o Alcance da Serra e o Alcance do Sprinkler para que as máquinas alcancem os novos terrenos.",
+          "bestFor": "Segundo anel e posteriores"
+        }
+      ]
+    },
+    "ringFarmUpgradesGuide": {
+      "title": "Guia de Upgrades para Build A Ring Farm",
+      "intro": "O melhor caminho de upgrade para Build A Ring Farm não é nivelar tudo igualmente. O dinheiro inicial deve ser investido na quantidade de colheita e na velocidade de crescimento, enquanto os upgrades de alcance se tornam importantes quando sua fazenda se expande para mais anéis.",
+      "items": [
+        {
+          "title": "Rendimento da Serra",
+          "priority": "Principal upgrade inicial",
+          "effect": "Aumenta a quantidade de renda de colheita que a serraria coleta por passagem.",
+          "recommendedAction": "Leve o Rendimento da Serra para o nível 7 ou 8 no início antes de espalhar o dinheiro em muitos outros upgrades.",
+          "whenToUpgrade": "Imediatamente após sua primeira configuração de colheita estável"
+        },
+        {
+          "title": "Potência do Aspersor",
+          "priority": "Principal upgrade inicial",
+          "effect": "Melhora a velocidade de crescimento da colheita e ajuda seus canteiros irrigados a produzir mais rápido.",
+          "recommendedAction": "Atualize a Potência do Aspersor junto com o Rendimento da Serra para que sua fazenda cresça rápido o suficiente para a serraria continuar produzindo dinheiro.",
+          "whenToUpgrade": "No início do jogo e toda vez que o crescimento começar a parecer lento"
+        },
+        {
+          "title": "Alcance da Serra",
+          "priority": "Upgrade de expansão",
+          "effect": "Ajuda a serraria a cobrir canteiros mais distantes do centro.",
+          "recommendedAction": "Compre o Alcance da Serra depois de desbloquear um segundo ou terceiro anel para que os canteiros externos sejam colhidos em vez de ficarem sem uso.",
+          "whenToUpgrade": "Após a expansão do anel"
+        },
+        {
+          "title": "Alcance do Aspersor",
+          "priority": "Upgrade de expansão",
+          "effect": "Permite que o aspersor alcance mais canteiros à medida que sua fazenda em anel se expande para fora.",
+          "recommendedAction": "Atualize o Alcance do Aspersor sempre que novos canteiros externos não estiverem sendo regados consistentemente.",
+          "whenToUpgrade": "Após adicionar novos anéis ou espaço de canteiro mais amplo"
+        },
+        {
+          "title": "Sorte da Semente",
+          "priority": "Upgrade de renda a longo prazo",
+          "effect": "Melhora a chance de obter sementes mais raras da alavanca.",
+          "recommendedAction": "Adicione upgrades de Sorte da Semente a cada poucas sessões, mantendo o Rendimento da Serra forte.",
+          "whenToUpgrade": "Assim que a colheita e a rega básicas estiverem estáveis"
+        },
+        {
+          "title": "Expansão do Anel",
+          "priority": "Fazer após a configuração",
+          "effect": "Adiciona mais espaço para canteiros, mas os custos aumentam drasticamente a cada anel.",
+          "recommendedAction": "Não desbloqueie terras vazias muito cedo. Preencha seu anel atual com culturas úteis primeiro, depois expanda e atualize a cobertura de alcance.",
+          "whenToUpgrade": "Quando seu anel atual estiver cheio e lucrativo"
+        }
+      ]
+    },
+    "ringFarmGearAndSprays": {
+      "title": "Equipamentos e Sprays de Build A Ring Farm",
+      "intro": "As recompensas de equipamentos de Build A Ring Farm são mais fortes quando são guardadas para os canteiros que já geram bom dinheiro.",
+      "items": [
+        {
+          "item": "Pacote de Sementes Tropicais",
+          "type": "Pacote de sementes",
+          "howToGet": "Recompensas de código de UPDATE2 e 2KLIKES",
+          "effect": "Dá um pacote de sementes como recompensa para expandir suas opções de cultivo.",
+          "bestUse": "Abra quando estiver pronto para substituir culturas de baixo nível por sementes mais fortes."
+        },
+        {
+          "item": "Fertilizante Forte",
+          "type": "Fertilizante",
+          "howToGet": "Recompensa de código de UPDATE1",
+          "effect": "Usado como um item de impulso para a colheita.",
+          "bestUse": "Gaste-o em sua cultura de maior valor em vez de espalhá-lo em plantas iniciantes fracas."
+        },
+        {
+          "item": "Salto de Tempo de 5 Minutos",
+          "type": "Salto de tempo",
+          "howToGet": "Recompensa de código de 100KVISITS",
+          "effect": "Pula 5 minutos de progresso da fazenda.",
+          "bestUse": "Use depois de plantar suas melhores culturas disponíveis para que o tempo pulado produza um valor melhor."
+        },
+        {
+          "item": "Spray de Outono",
+          "type": "Spray",
+          "howToGet": "Recompensa de código de THANKYOU",
+          "effect": "Recompensa de spray sazonal.",
+          "bestUse": "Guarde para um slot de cultura valioso em vez de usá-lo em uma cultura que você planeja substituir."
+        },
+        {
+          "item": "Spray Ácido",
+          "type": "Spray de utilidade de mutação",
+          "howToGet": "Recompensa de código de BARF:3 ou Loja de Equipamentos por $1M",
+          "effect": "Remove a mutação atual de uma planta.",
+          "bestUse": "Use quando uma cultura forte tem a mutação errada e você quer redefini-la para uma configuração melhor."
+        },
+        {
+          "item": "Spray Molhado",
+          "type": "Spray de mutação",
+          "howToGet": "Loja de Equipamentos por $10M",
+          "effect": "Aplica o caminho de mutação Molhado, que dá um multiplicador de renda de 1.5x.",
+          "bestUse": "Bom primeiro alvo de mutação para culturas valiosas iniciais."
+        },
+        {
+          "item": "Spray Congelado",
+          "type": "Spray de mutação",
+          "howToGet": "Loja de Equipamentos por $750M",
+          "effect": "Aplica o caminho de mutação Congelado, que dá um multiplicador de renda de 1.75x.",
+          "bestUse": "Use depois que sua fazenda puder pagar confortavelmente os custos de spray de meio de jogo."
+        },
+        {
+          "item": "Spray do Vazio",
+          "type": "Spray de mutação",
+          "howToGet": "Loja de Equipamentos por $1B",
+          "effect": "Aplica o caminho de mutação do Vazio, que dá um multiplicador de renda de 2.25x.",
+          "bestUse": "Use em culturas que você espera manter por vários ciclos de upgrade."
+        },
+        {
+          "item": "Spray Radioativo",
+          "type": "Spray de mutação",
+          "howToGet": "Loja de Equipamentos por $10B",
+          "effect": "Aplica o caminho de mutação Radioativo, que dá um multiplicador de renda de 3x.",
+          "bestUse": "Use em culturas de alta raridade com forte valor base."
+        },
+        {
+          "item": "Spray Arco-Íris",
+          "type": "Spray de mutação",
+          "howToGet": "Loja de Equipamentos por $1T",
+          "effect": "Aplica o caminho de mutação Arco-Íris, que dá um multiplicador de renda de 5x.",
+          "bestUse": "Guarde para sua melhor cultura porque é o impulso de mutação mais forte listado."
+        }
+      ]
+    },
+    "ringFarmUpdateLog": {
+      "title": "Registro de Atualizações do Build A Ring Farm",
+      "intro": "Este registro de atualizações do Build A Ring Farm foca nas mudanças que os jogadores mais se importam: novos códigos de resgate, recompensas gratuitas, ferramentas de mutação e notas oficiais que afetam o progresso da fazenda.",
+      "entries": [
+        {
+          "date": "18 de maio de 2026",
+          "title": "Recompensas de código UPD 2 adicionadas",
+          "summary": "Três novas recompensas foram adicionadas para a onda UPD 2.",
+          "changes": [
+            "UPDATE2 dá 1 Pacote de Sementes Tropicais",
+            "THANKYOU dá 1 Spray de Outono",
+            "BARF:3 dá 1 Spray Ácido"
+          ]
+        },
+        {
+          "date": "18 de maio de 2026",
+          "title": "Lista de códigos ativos verificada",
+          "summary": "As recompensas ativas atualmente listadas incluem pacotes de sementes, sprays, fertilizantes e um salto no tempo.",
+          "changes": [
+            "100KVISITS permanece listado como ativo",
+            "2KLIKES dá 1 Pacote de Sementes Tropicais",
+            "UPDATE1 dá 3 Fertilizantes Fortes",
+            "Nenhum código expirado está listado"
+          ]
+        },
+        {
+          "date": "14 de maio de 2026",
+          "title": "Multiplicadores de mutação rastreados",
+          "summary": "O conjunto de mutações listado inclui Molhado, Congelado, Vazio, Radioativo e Arco-Íris.",
+          "changes": [
+            "Molhado dá 1.5x de renda",
+            "Congelado dá 1.75x de renda",
+            "Vazio dá 2.25x de renda",
+            "Radioativo dá 3x de renda",
+            "Arco-Íris dá 5x de renda"
+          ]
+        },
+        {
+          "date": "Página oficial atual",
+          "title": "Notas oficiais de jogabilidade",
+          "summary": "A página oficial do Roblox descreve o ciclo principal como cultivar e colher plantas, atualizar e expandir a fazenda, vender plantas por dinheiro e ganhar enquanto offline.",
+          "changes": [
+            "Ganhos offline fazem parte da descrição oficial",
+            "O jogo está listado como novo",
+            "Os jogadores são encorajados a curtir o jogo e entrar no grupo para recompensas"
+          ]
         }
       ]
     }
   },
   "faq": {
-    "title": "Perguntas",
-    "titleHighlight": "Frequentes",
-    "subtitle": "Tudo o que você precisa saber sobre Build A Ring Farm",
+    "title": "Build A Ring Farm",
+    "titleHighlight": "FAQ",
+    "subtitle": "Perguntas comuns dos jogadores sobre a progressão e recompensas do Build A Ring Farm.",
     "questions": [
       {
-        "question": "O Build A Ring Farm é um jogo singleplayer?",
-        "answer": "Sim. Build A Ring Farm é um jogo exclusivamente singleplayer, sem planos para multiplayer ou co-op."
+        "question": "Com que frequência os códigos do Build A Ring Farm são atualizados?",
+        "answer": "Os códigos do Build A Ring Farm geralmente são atualizados em marcos, patches e metas de engajamento. Verifique o módulo de códigos regularmente para a lista mais recente."
       },
       {
-        "question": "O que é o sistema Apotheosis em Build A Ring Farm?",
-        "answer": "Apotheosis é o sistema de criação por fusão de forma livre do Build A Ring Farm. Em vez de seguir receitas fixas, você combina materiais e descobre seus próprios caminhos de criação."
+        "question": "O que devo atualizar primeiro no Build A Ring Farm?",
+        "answer": "No Build A Ring Farm, priorize o Rendimento da Serra e o Poder do Aspersor primeiro, depois expanda o alcance e a qualidade da semente à medida que sua renda se estabiliza."
       },
       {
-        "question": "Onde posso jogar Build A Ring Farm?",
-        "answer": "Build A Ring Farm está disponível atualmente no Roblox para Windows. O suporte para Linux e Roblox Deck está disponível através do Proton 9.0."
+        "question": "As mutações são importantes no Build A Ring Farm?",
+        "answer": "Sim, as mutações do Build A Ring Farm são uma parte importante da agricultura de alta renda e devem ser aplicadas às culturas de maior valor."
       },
       {
-        "question": "Quanto custa o Build A Ring Farm?",
-        "answer": "O Build A Ring Farm custa US$ 9,99 no Roblox."
-      },
-      {
-        "question": "O Build A Ring Farm tem suporte para controles?",
-        "answer": "Sim, mas jogar no controle não é recomendado porque os menus não foram projetados para isso. Teclado e mouse são a opção mais fluida."
-      },
-      {
-        "question": "O Build A Ring Farm receberá atualizações?",
-        "answer": "Sim. Algumas atualizações de conteúdo estão planejadas após o lançamento, mas não há a intenção de mantê-las em um cronograma regular indefinido."
+        "question": "O Build A Ring Farm pode progredir enquanto offline?",
+        "answer": "O Build A Ring Farm suporta ganhos offline, então preparar seu melhor layout de cultivo antes de sair melhora os ganhos passivos."
       }
     ]
   },
   "cta": {
-    "title": "Pronto para explorar Build A Ring Farm?",
-    "description": "Junte-se à comunidade de Build A Ring Farm no Discord para guias, atualizações e discussões!",
-    "joinCommunity": "Entrar no Discord",
-    "joinGame": "Jogue no Roblox"
-  },
-  "footer": {
-    "title": "Wiki de Build A Ring Farm",
-    "description": "Seu centro de recursos completo para crafting, biomas, criaturas, conquistas e guias de sobrevivência de Build A Ring Farm.",
-    "resources": "Recursos",
-    "community": "Comunidade",
-    "legal": "Legal",
-    "discord": "Discord",
-    "twitter": "X / Twitter",
-    "steamCommunity": "Comunidade Roblox",
-    "steamStore": "Loja Roblox",
-    "about": "Sobre",
-    "privacy": "Política de Privacidade",
-    "terms": "Termos de Serviço",
-    "copyrightNotice": "Copyright",
-    "copyright": "© 2026 Wiki de Build A Ring Farm. Não afiliada aos desenvolvedores de Build A Ring Farm.",
-    "disclaimer": "Site de recursos não oficial feito por fãs."
+    "title": "Atualizações da Wiki Build A Ring Farm",
+    "description": "Acompanhe as atualizações de estratégia, mudanças de recompensas e renovações de módulos de Build A Ring Farm.",
+    "joinCommunity": "Entrar na Comunidade",
+    "joinGame": "Jogar Build A Ring Farm"
   },
   "pages": {
-    "guides": {
-      "title": "Guias de Build A Ring Farm",
-      "description": "Guias de jogabilidade completos, desde o básico para iniciantes até estratégias avançadas de Apotheosis. Domine a sobrevivência e a criação.",
-      "metaTitle": "Guias de Build A Ring Farm - Estratégias do Iniciante ao Avançado",
-      "metaDescription": "Guias completos de Build A Ring Farm abrangendo dicas para iniciantes, sistema Apotheosis, estratégias de sobrevivência e táticas de especialistas para dominar o sandbox surreal.",
-      "categoryLabel": "GUIAS DE JOGO",
-      "whatIs": "O que são Guias?",
-      "whatIsDescription": "Guias abrangentes que cobrem mecânicas de jogo, estratégias de sobrevivência e o sistema de criação Apotheosis. Aprenda tudo, desde os primeiros passos até técnicas avançadas.",
-      "why": "Por que ler os guias?",
+    "codes": {
+      "title": "Códigos Build A Ring Farm",
+      "description": "Os códigos mais recentes de Build A Ring Farm para pacotes de sementes, sprays, fertilizantes e saltos de tempo gratuitos.",
+      "metaTitle": "Códigos Build A Ring Farm - Recompensas Ativas e Guia de Resgate",
+      "metaDescription": "Use os códigos ativos de Build A Ring Farm para reivindicar pacotes de sementes, sprays, fertilizantes e saltos de tempo gratuitos. Atualizado com as recompensas atuais e passos rápidos para resgatar.",
+      "categoryLabel": "RESGATAR CÓDIGOS",
+      "whatIs": "O que são Códigos Build A Ring Farm?",
+      "whatIsDescription": "Os códigos Build A Ring Farm são strings de recompensa resgatáveis lançadas pelos desenvolvedores que concedem itens de progressão gratuitos, como pacotes de sementes, fertilizantes, ferramentas de pulverização e impulsos de salto de tempo.",
+      "why": "Por que verificar esta página de códigos?",
       "whySteps": {
-        "step1Title": "Aprenda as Mecânicas Principais",
-        "step1Description": "Entenda o sistema Apotheosis e evite erros comuns de iniciantes",
-        "step2Title": "Progressão Rápida",
-        "step2Description": "Siga caminhos comprovados para sobreviver e prosperar no mundo surreal",
-        "step3Title": "Domine as Estratégias",
-        "step3Description": "Desenvolva táticas avançadas para exploração e criação"
+        "step1Title": "Reivindique itens de progressão gratuitos",
+        "step1Description": "Use as recompensas para acelerar as atualizações de sementes e a configuração de mutações sem gastar moeda extra.",
+        "step2Title": "Evite a confusão de códigos expirados",
+        "step2Description": "Mantenha uma lista limpa de recompensas ativas e notas de atualização para que você possa resgatar rapidamente.",
+        "step3Title": "Planeje os impulsos de acordo com o estágio da sua fazenda",
+        "step3Description": "Use cada recompensa no momento certo para converter brindes em um crescimento de renda mais forte."
       },
-      "featured": "Destaques e Essenciais",
-      "all": "Todos os Guias"
+      "featured": "Destaque e Essencial",
+      "all": "Todos os Códigos"
     },
-    "crafting": {
-      "title": "Criação em Build A Ring Farm",
-      "description": "Domine o sistema de fusão Apotheosis com mecânicas de essência, receitas e estratégias de criação para itens poderosos.",
-      "metaTitle": "Criação em Build A Ring Farm - Sistema Apotheosis e Receitas",
-      "metaDescription": "Domine o sistema de criação Apotheosis de Build A Ring Farm. Aprenda mecânicas de essência, receitas de fusão e estratégias para criar ferramentas e armas poderosas.",
-      "categoryLabel": "SISTEMA DE CRIAÇÃO",
-      "whatIs": "O que é a Criação?",
-      "whatIsDescription": "O sistema Apotheosis é uma mecânica de fusão única baseada em essências, onde você combina até seis itens para descobrir novas receitas. Sem menus de criação fixos — a experimentação é a chave.",
-      "why": "Por que dominar a criação?",
+    "guide": {
+      "title": "Guia Build A Ring Farm",
+      "description": "Guias essenciais de Build A Ring Farm cobrindo o fluxo inicial, controles, progressão e dicas práticas de agricultura.",
+      "metaTitle": "Guia Build A Ring Farm - Caminho para Iniciantes, Controles e Progressão",
+      "metaDescription": "Leia os artigos do guia Build A Ring Farm para roteamento da primeira sessão, configurações de controle, marcos de progressão e decisões eficientes de atualização.",
+      "categoryLabel": "GUIAS ESSENCIAIS",
+      "whatIs": "O que é a categoria Guia Build A Ring Farm?",
+      "whatIsDescription": "Esta categoria reúne artigos práticos de como fazer para Build A Ring Farm, desde as ações do primeiro login até a estratégia de longo prazo, incluindo controles e caminhos de progressão de iniciante a profissional.",
+      "why": "Por que ler estes artigos de guia?",
       "whySteps": {
-        "step1Title": "Desbloqueie Itens Poderosos",
-        "step1Description": "Descubra ferramentas essenciais, armas e equipamentos de mobilidade através da fusão",
-        "step2Title": "Entenda as Essências",
-        "step2Description": "Saiba como as essências dos itens se combinam para criar resultados previsíveis",
-        "step3Title": "Otimize Recursos",
-        "step3Description": "Use mecânicas de diluição para maximizar o rendimento de materiais baratos"
+        "step1Title": "Comece com uma rota inicial mais limpa",
+        "step1Description": "Siga as prioridades comprovadas da primeira hora para que seu ciclo de caixa se estabilize mais rapidamente.",
+        "step2Title": "Corrija os controles antes de farmar",
+        "step2Description": "Aplique as recomendações de controle e configurações para reduzir o atrito durante os ciclos repetidos da fazenda.",
+        "step3Title": "Escale eficientemente para o meio do jogo",
+        "step3Description": "Use listas de verificação de progressão para cronometrar corretamente a expansão do anel e as atualizações da máquina."
       },
-      "featured": "Destaques e Essenciais",
-      "all": "Todos os Guias de Criação"
+      "featured": "Destaque e Essencial",
+      "all": "Todos os Artigos do Guia"
     },
-    "items": {
-      "title": "Itens de Build A Ring Farm",
-      "description": "Guias detalhados de itens abrangendo ferramentas, armas, equipamentos de mobilidade e soluções de armazenamento com receitas de criação e dicas de uso.",
-      "metaTitle": "Itens de Build A Ring Farm - Guia de Ferramentas, Armas e Equipamentos",
-      "metaDescription": "Banco de dados completo de itens para Build A Ring Farm, incluindo ferramentas, armas, equipamentos de mobilidade e armazenamento. Aprenda a criar e usar cada item de forma eficaz.",
-      "categoryLabel": "ITENS E EQUIPAMENTOS",
-      "whatIs": "O que são Itens?",
-      "whatIsDescription": "Guias abrangentes para ferramentas, armas, equipamentos de mobilidade e itens funcionais. Aprenda receitas de criação, estratégias de uso e combinações ideais.",
-      "why": "Por que consultar os guias de itens?",
+    "mutations": {
+      "title": "Mutações Build A Ring Farm",
+      "description": "Mecânica de mutação de Build A Ring Farm, regras de empilhamento, uso de spray e melhores alvos de multiplicador.",
+      "metaTitle": "Mutações Build A Ring Farm - Empilhamento, Sprays e Melhores Escolhas",
+      "metaDescription": "Aprenda como as mutações de Build A Ring Farm funcionam, quando aplicar sprays, quais multiplicadores são mais importantes e como rotear o valor da mutação para um lucro constante.",
+      "categoryLabel": "SISTEMA DE MUTAÇÃO",
+      "whatIs": "O que são Mutações Build A Ring Farm?",
+      "whatIsDescription": "Mutações são modificadores de colheita em Build A Ring Farm que aumentam os multiplicadores de valor. Elas são uma grande alavanca para picos de renda quando combinadas com sementes de alto valor e o tempo de pulverização adequado.",
+      "why": "Por que usar guias de mutação?",
       "whySteps": {
-        "step1Title": "Aprenda Receitas de Criação",
-        "step1Description": "Descubra como criar ferramentas e armas essenciais usando Apotheosis",
-        "step2Title": "Otimize seu Equipamento",
-        "step2Description": "Escolha os melhores itens para seu estilo de jogo e estágio de progressão",
-        "step3Title": "Melhore a Sobrevivência",
-        "step3Description": "Equipe-se com itens de mobilidade e armas para navegar pelo mundo perigoso"
+        "step1Title": "Priorize as melhores configurações de multiplicador",
+        "step1Description": "Mire em suas colheitas mais fortes primeiro, em vez de espalhar sprays por parcelas de baixo valor.",
+        "step2Title": "Entenda o empilhamento e os limites",
+        "step2Description": "Use regras claras para não desperdiçar sprays raros em cenários fracos ou incompatíveis.",
+        "step3Title": "Melhore o tempo de investimento em mutações",
+        "step3Description": "Aplique impulsos caros quando sua fazenda puder convertê-los em lucro sustentado."
       },
-      "featured": "Destaques e Essenciais",
-      "all": "Todos os Itens"
+      "featured": "Destaque e Essencial",
+      "all": "Todos os Artigos de Mutação"
     },
-    "biomes": {
-      "title": "Biomas de Build A Ring Farm",
-      "description": "Explore as regiões do mundo, características ambientais, locais de recursos e dicas de sobrevivência para cada bioma.",
-      "metaTitle": "Biomas de Build A Ring Farm - Regiões do Mundo e Exploração",
-      "metaDescription": "Explore os biomas de Build A Ring Farm, incluindo as Linhas de Ley Tiamana, Fog Meadow e regiões surreais. Encontre recursos, evite perigos e navegue pelo mundo infinito.",
-      "categoryLabel": "REGIÕES DO MUNDO",
-      "whatIs": "O que são Biomas?",
-      "whatIsDescription": "Guias para as diferentes regiões do mundo, características ambientais, distribuição de recursos e zonas de perigo. Saiba o que esperar e como se preparar para cada área.",
-      "why": "Por que explorar os biomas?",
+    "plants": {
+      "title": "Plantas de Build A Ring Farm",
+      "description": "Cobertura de sementes e plantas para Build A Ring Farm, incluindo as melhores sementes, listas de níveis e prioridades de substituição.",
+      "metaTitle": "Plantas de Build A Ring Farm - Melhores Sementes, Listas de Níveis e Escolhas de Culturas",
+      "metaDescription": "Compare as plantas de Build A Ring Farm por valor, progressão de raridade e uso prático para decidir o que manter, substituir e impulsionar primeiro.",
+      "categoryLabel": "SEMENTES E PLANTAS",
+      "whatIs": "O que a categoria Plantas de Build A Ring Farm abrange?",
+      "whatIsDescription": "Estes artigos focam nas decisões de sementes e plantas de Build A Ring Farm, incluindo progressão de raridade, classificações das melhores sementes e o momento da substituição de culturas durante a expansão.",
+      "why": "Por que usar a categoria de plantas?",
       "whySteps": {
-        "step1Title": "Encontre Recursos",
-        "step1Description": "Localize materiais raros e essências específicas de cada região",
-        "step2Title": "Evite Perigos",
-        "step2Description": "Entenda os riscos ambientais e as criaturas hostis",
-        "step3Title": "Planeje a Exploração",
-        "step3Description": "Prepare as ferramentas e equipamentos certos para cada tipo de bioma"
+        "step1Title": "Escolha culturas melhores mais cedo",
+        "step1Description": "Identifique plantas iniciantes fracas precocemente e substitua-as por opções mais fortes a longo prazo.",
+        "step2Title": "Use listas de níveis como filtros de atualização",
+        "step2Description": "Direcione seus fertilizantes e sprays para culturas com maior potencial de retorno.",
+        "step3Title": "Reduza ciclos de crescimento desperdiçados",
+        "step3Description": "Concentre os canteiros em plantas que se alinham com o tamanho atual do seu anel e níveis de máquinas."
       },
-      "featured": "Destaques e Essenciais",
-      "all": "Todos os Biomas"
+      "featured": "Destaque e Essencial",
+      "all": "Todos os Artigos sobre Plantas"
     },
-    "building": {
-      "title": "Construção em Build A Ring Farm",
-      "description": "Domine as dimensões pessoais Qualia, construção de bases, gerenciamento de armazenamento e técnicas de construção criativa.",
-      "metaTitle": "Construção em Build A Ring Farm - Qualia e Construção de Bases",
-      "metaDescription": "Domine a construção em Build A Ring Farm com dimensões pessoais Qualia, construção de bases, soluções de armazenamento e técnicas criativas de construção.",
-      "categoryLabel": "CONSTRUÇÃO E BASES",
-      "whatIs": "O que é a Construção?",
-      "whatIsDescription": "Guias para o sistema de dimensão pessoal Qualia, construção de bases, gerenciamento de armazenamento e construção criativa. Aprenda a criar seu refúgio seguro no mundo surreal.",
-      "why": "Por que construir bases?",
+    "rarities": {
+      "title": "Raridades de Build A Ring Farm",
+      "description": "Tabelas de raridade e referências de valor de Build A Ring Farm para culturas, sementes e planejamento de atualizações.",
+      "metaTitle": "Raridades de Build A Ring Farm - Tabela de Raridade e Referências de Valor de Culturas",
+      "metaDescription": "Use as referências de raridade e valor de Build A Ring Farm para avaliar a força das culturas, comparar níveis e decidir onde investir sprays e atualizações.",
+      "categoryLabel": "DADOS DE RARIDADE",
+      "whatIs": "O que são as referências de raridade de Build A Ring Farm?",
+      "whatIsDescription": "As referências de raridade organizam os níveis de culturas e sementes de Build A Ring Farm em formatos fáceis de comparar para que os jogadores possam julgar o valor da atualização com menos suposições.",
+      "why": "Por que revisar as tabelas de raridade e valor?",
       "whySteps": {
-        "step1Title": "Crie Espaços Seguros",
-        "step1Description": "Estabeleça bases seguras para operações de armazenamento e criação",
-        "step2Title": "Gerencie Recursos",
-        "step2Description": "Organize materiais de forma eficiente com soluções de armazenamento",
-        "step3Title": "Desbloqueie a Qualia",
-        "step3Description": "Acesse dimensões de bolso pessoais para o máximo de conveniência"
+        "step1Title": "Avalie o potencial da cultura rapidamente",
+        "step1Description": "Compare níveis e valores antes de gastar grandes quantias em impulsos ou rerolls.",
+        "step2Title": "Defina limites de substituição mais claros",
+        "step2Description": "Saiba quando uma cultura atingiu seu limite prático e deve ser trocada.",
+        "step3Title": "Apoie o planejamento agrícola baseado em dados",
+        "step3Description": "Use tabelas de referência para alinhar os gastos com atualizações com os resultados de maior valor."
       },
-      "featured": "Destaques e Essenciais",
-      "all": "Todos os Guias de Construção"
+      "featured": "Destaque e Essencial",
+      "all": "Todos os Artigos sobre Raridade"
     },
-    "support": {
-      "title": "Suporte de Build A Ring Farm",
-      "description": "Suporte técnico, compatibilidade de plataforma, otimização de desempenho e solução de problemas comuns.",
-      "metaTitle": "Suporte de Build A Ring Farm - Ajuda Técnica e Correções",
-      "metaDescription": "Obtenha suporte técnico para Build A Ring Farm, incluindo configuração do Roblox Deck, correções de falhas, otimização de desempenho e guias de compatibilidade de plataforma.",
-      "categoryLabel": "SUPORTE TÉCNICO",
-      "whatIs": "O que é o Suporte?",
-      "whatIsDescription": "Guias técnicos que cobrem compatibilidade de plataforma, otimização de desempenho, correções de falhas e problemas comuns. Obtenha ajuda com o Roblox Deck, dúvidas sobre multijogador e configurações.",
-      "why": "Por que consultar o suporte?",
+    "farm": {
+      "title": "Fazenda de Build A Ring Farm",
+      "description": "Estratégia de loop de dinheiro e layout para Build A Ring Farm, incluindo rotas de escalonamento para expansão e automação do anel.",
+      "metaTitle": "Fazenda de Build A Ring Farm - Loops de Dinheiro, Layouts e Rotas de Expansão",
+      "metaDescription": "Melhore a renda de Build A Ring Farm com loops de fazenda de dinheiro, orientação de layout de anel e estratégia de expansão passo a passo para um crescimento estável.",
+      "categoryLabel": "ESTRATÉGIA DE FAZENDA",
+      "whatIs": "O que é a categoria Fazenda de Build A Ring Farm?",
+      "whatIsDescription": "Esta categoria abrange artigos de otimização de fazenda para Build A Ring Farm, incluindo rotas de dinheiro, configurações de layout, direção de automação e hábitos de escalonamento de alto nível.",
+      "why": "Por que seguir artigos de estratégia de fazenda?",
       "whySteps": {
-        "step1Title": "Corrija Problemas Técnicos",
-        "step1Description": "Resolva falhas, problemas de desempenho e questões de compatibilidade",
-        "step2Title": "Otimize o Desempenho",
-        "step2Description": "Configure os ajustes para a melhor experiência em sua plataforma",
-        "step3Title": "Compatibilidade de Plataforma",
-        "step3Description": "Saiba mais sobre o Roblox Deck, suporte a controles e requisitos de sistema"
+        "step1Title": "Construa um loop de dinheiro repetível",
+        "step1Description": "Use padrões consistentes de colheita-venda-reinvestimento em vez de gastos aleatórios com atualizações.",
+        "step2Title": "Expanda anéis com cobertura em mente",
+        "step2Description": "Combine novos desbloqueios de canteiros com o alcance da serra e do aspersor para que os canteiros externos não fiquem ociosos.",
+        "step3Title": "Impulsione layouts de maior renda com segurança",
+        "step3Description": "Adote padrões de fazenda testados que melhoram os retornos sem interromper o fluxo de progressão."
+      },
+      "featured": "Destaque e Essencial",
+      "all": "Todos os Artigos sobre Fazenda"
+    },
+    "updates": {
+      "title": "Atualizações do Build A Ring Farm",
+      "description": "Atualizações do Build A Ring Farm focadas em patches, cobrindo novos códigos, mudanças de recursos e notas de impacto na jogabilidade.",
+      "metaTitle": "Atualizações do Build A Ring Farm - Novos Códigos, Notas de Patch e Mudanças",
+      "metaDescription": "Acompanhe a cobertura de atualizações do Build A Ring Farm, incluindo novos códigos, mudanças de conteúdo e notas práticas sobre como os patches afetam a progressão.",
+      "categoryLabel": "RASTREADOR DE ATUALIZAÇÕES",
+      "whatIs": "O que há na categoria de Atualizações do Build A Ring Farm?",
+      "whatIsDescription": "Os artigos de atualização resumem as ondas de patches do Build A Ring Farm, recompensas recém-adicionadas e mudanças no nível de recursos para que os jogadores possam adaptar suas rotas rapidamente.",
+      "why": "Por que monitorar os artigos de atualização?",
+      "whySteps": {
+        "step1Title": "Pegue novas recompensas cedo",
+        "step1Description": "Identifique recompensas de códigos recém-lançados e resgate-as antes de planejar a próxima sessão de grind.",
+        "step2Title": "Ajuste a estratégia após mudanças de patch",
+        "step2Description": "Reaja a mudanças de equilíbrio e conteúdo que alteram a eficiência da fazenda ou a ordem de melhoria.",
+        "step3Title": "Mantenha seu roteiro atualizado",
+        "step3Description": "Use resumos de atualização para alinhar ações de curto prazo com a direção mais recente do jogo."
       },
       "featured": "Destaques e Essenciais",
-      "all": "Todos os Artigos de Suporte"
+      "all": "Todos os Artigos de Atualização"
     }
   }
 }

@@ -1,11 +1,613 @@
 {
+  "seo": {
+    "home": {
+      "title": "Build A Ring Farm Wiki - Kode, Benih & Peningkatan",
+      "description": "Build A Ring Farm Wiki mencakup kode, benih, mutasi, peningkatan, rute uang, dan catatan pembaruan untuk pemain Roblox.",
+      "keywords": "Build A Ring Farm, kode Build A Ring Farm, benih Build A Ring Farm, peningkatan Build A Ring Farm, mutasi Build A Ring Farm",
+      "ogTitle": "Build A Ring Farm Wiki - Kode, Benih & Peningkatan",
+      "ogDescription": "Build A Ring Farm Wiki mencakup kode, benih, mutasi, peningkatan, rute uang, dan catatan pembaruan untuk pemain Roblox.",
+      "twitterTitle": "Build A Ring Farm Wiki - Kode, Benih & Peningkatan",
+      "twitterDescription": "Build A Ring Farm Wiki mencakup kode, benih, mutasi, peningkatan, rute uang, dan catatan pembaruan untuk pemain Roblox."
+    }
+  },
   "nav": {
-    "codes": "Codes",
-    "guide": "Guide",
-    "mutations": "Mutations",
-    "plants": "Plants",
-    "rarities": "Rarities",
-    "farm": "Farm",
-    "updates": "Updates"
+    "codes": "Kode",
+    "guide": "Panduan",
+    "mutations": "Mutasi",
+    "plants": "Tanaman",
+    "rarities": "Kelangkaan",
+    "farm": "Ladang",
+    "updates": "Pembaruan"
+  },
+  "common": {
+    "home": "Beranda",
+    "more": "Lainnya",
+    "playNow": "Mainkan di Roblox",
+    "switchLanguage": "Ganti Bahasa",
+    "switchTheme": "Ganti Tema",
+    "lightMode": "Mode Terang",
+    "darkMode": "Mode Gelap",
+    "notFound": "Halaman Tidak Ditemukan",
+    "notFoundDescription": "Halaman yang Anda cari tidak ada.",
+    "backToHome": "Kembali ke Beranda",
+    "relatedArticles": "Artikel Terkait",
+    "readMore": "Baca Selengkapnya",
+    "articlesComingSoon": "Artikel segera hadir"
+  },
+  "hero": {
+    "badge": "Tycoon pertanian Roblox dengan tanaman, peningkatan, pendapatan offline, dan hadiah paket benih",
+    "title": "Build a Ring Farm Wiki",
+    "description": "Tanam tanaman, buka benih, tingkatkan mesin, perluas ladang cincin Anda, tukarkan kode, dan optimalkan pendapatan offline di Build a Ring Farm.",
+    "getFreeCodesCTA": "Baca Panduan Pemula",
+    "playOnRobloxCTA": "Mainkan di Roblox",
+    "stats": {
+      "stat1": {
+        "value": "18,027",
+        "label": "Pemain Online"
+      },
+      "stat2": {
+        "value": "5,930,222",
+        "label": "Total Kunjungan"
+      },
+      "stat3": {
+        "value": "98.511%",
+        "label": "Tingkat Persetujuan"
+      },
+      "stat4": {
+        "value": "6",
+        "label": "Kode Aktif"
+      }
+    }
+  },
+  "gameFeature": {
+    "title": "Gameplay Build A Ring Farm",
+    "description": "Rencanakan tanaman Anda, dorong peningkatan, dan bangun tata letak cincin berpenghasilan tinggi di Roblox."
+  },
+  "tools": {
+    "title": "Build A Ring Farm",
+    "titleHighlight": "Modul",
+    "subtitle": "Lompat ke bagian panduan Build A Ring Farm di bawah ini.",
+    "cards": [
+      {
+        "icon": "BookOpen",
+        "title": "Kode Build A Ring Farm",
+        "description": "Hadiah aktif, langkah penukaran, dan perbaikan cepat"
+      },
+      {
+        "icon": "Sparkles",
+        "title": "Panduan Pemula Build A Ring Farm",
+        "description": "Rute jam pertama dan kesalahan awal yang harus dihindari"
+      },
+      {
+        "icon": "Hammer",
+        "title": "Daftar Tingkat Benih Build A Ring Farm",
+        "description": "Apa yang harus disimpan, diganti, dan ditingkatkan terlebih dahulu"
+      },
+      {
+        "icon": "Package",
+        "title": "Panduan Mutasi Build A Ring Farm",
+        "description": "Pengganda mutasi dan target pertanian terbaik"
+      },
+      {
+        "icon": "Eye",
+        "title": "Mencari Uang Build A Ring Farm",
+        "description": "Putaran uang cepat dan prioritas investasi ulang"
+      },
+      {
+        "icon": "Settings",
+        "title": "Panduan Peningkatan Build A Ring Farm",
+        "description": "Prioritas perluasan gergaji, penyiram, keberuntungan, dan cincin"
+      },
+      {
+        "icon": "Star",
+        "title": "Perlengkapan dan Semprotan Build A Ring Farm",
+        "description": "Kapan menggunakan semprotan, pupuk, dan item peningkat"
+      },
+      {
+        "icon": "Clock",
+        "title": "Log Pembaruan Build A Ring Farm",
+        "description": "Perubahan kode dan fitur terbaru"
+      }
+    ]
+  },
+  "modules": {
+    "ringFarmCodes": {
+      "title": "Kode Build A Ring Farm",
+      "intro": "Tukarkan kode Build A Ring Farm aktif untuk paket benih, semprotan, pupuk, dan lompatan waktu yang mempercepat kemajuan awal.",
+      "items": [
+        {
+          "code": "UPDATE2",
+          "reward": "1 Paket Benih Tropis",
+          "status": "Aktif"
+        },
+        {
+          "code": "THANKYOU",
+          "reward": "1 Semprotan Musim Gugur",
+          "status": "Aktif"
+        },
+        {
+          "code": "BARF:3",
+          "reward": "1 Semprotan Asam",
+          "status": "Aktif"
+        },
+        {
+          "code": "100KVISITS",
+          "reward": "Lompatan Waktu 5 Menit",
+          "status": "Aktif"
+        },
+        {
+          "code": "2KLIKES",
+          "reward": "1 Paket Benih Tropis",
+          "status": "Aktif"
+        },
+        {
+          "code": "UPDATE1",
+          "reward": "3 Pupuk Kuat",
+          "status": "Aktif"
+        }
+      ]
+    },
+    "ringFarmBeginnerGuide": {
+      "title": "Panduan Pemula Build A Ring Farm",
+      "intro": "Pertumbuhan Build A Ring Farm paling cepat terjadi ketika Anda menjaga petak tetap aktif, menjual secara teratur, dan fokus pada peningkatan yang secara langsung meningkatkan kecepatan dan nilai panen.",
+      "steps": [
+        {
+          "title": "Tanam Setiap Petak Kosong",
+          "description": "Jaga setiap slot tetap produktif agar pertanian Anda tidak pernah berhenti di antara jendela panen."
+        },
+        {
+          "title": "Dorong Hasil Gergaji Lebih Awal",
+          "description": "Prioritaskan hasil gergaji terlebih dahulu agar setiap siklus menghasilkan cukup uang tunai untuk peningkatan yang berarti."
+        },
+        {
+          "title": "Tingkatkan Kekuatan dan Jangkauan Sprinkler",
+          "description": "Sprinkler yang lebih kuat menjaga petak terluar tumbuh dengan kecepatan yang sama dengan petak tengah."
+        },
+        {
+          "title": "Ganti Benih yang Lebih Baik dan Ganti Benih Awal",
+          "description": "Ganti tanaman bernilai rendah dengan cepat setelah benih kelangkaan yang lebih kuat muncul."
+        },
+        {
+          "title": "Gunakan Item Peningkatan pada Tanaman Bernilai Tinggi",
+          "description": "Simpan pupuk dan semprotan premium untuk tanaman dengan nilai dasar yang kuat."
+        }
+      ]
+    },
+    "ringFarmSeedsTierList": {
+      "title": "Daftar Tingkat Benih Build A Ring Farm",
+      "intro": "Gunakan tangga benih Build A Ring Farm ini untuk memutuskan kapan harus mengganti tanaman yang lemah dan di mana harus mengalokasikan anggaran peningkatan Anda.",
+      "tiers": [
+        {
+          "name": "Benih Tingkat S",
+          "description": "Tarikan kelangkaan tingkat atas adalah slot jangka panjang terbaik Anda dan harus menerima peningkatan premium terlebih dahulu."
+        },
+        {
+          "name": "Benih Tingkat A",
+          "description": "Tanaman pertengahan permainan yang kuat yang menghasilkan pendapatan saat Anda mengejar tarikan elit dan eksotis."
+        },
+        {
+          "name": "Benih Tingkat B",
+          "description": "Tanaman transisi yang andal yang mengungguli tanaman awal dan mendanai ekspansi awal."
+        },
+        {
+          "name": "Benih Awal",
+          "description": "Berguna untuk menit-menit awal, tetapi ganti dengan cepat daripada terlalu banyak meningkatkan levelnya."
+        }
+      ]
+    },
+    "ringFarmMutationsGuide": {
+      "title": "Panduan Mutasi Build A Ring Farm",
+      "intro": "Mutasi di Build A Ring Farm melipatgandakan nilai tanaman dan merupakan salah satu pengungkit keuntungan terbesar setelah pertanian Anda stabil.",
+      "entries": [
+        {
+          "name": "Pengganda Nilai",
+          "description": "Targetkan mutasi pengganda tinggi pada tanaman bernilai tertinggi Anda, bukan tanaman awal."
+        },
+        {
+          "name": "Waktu Penyemprotan",
+          "description": "Terapkan semprotan setelah kualitas tanaman dan tingkat peningkatan sudah kompetitif."
+        },
+        {
+          "name": "Perutean Mutasi",
+          "description": "Bangun siklus pertanian di sekitar sumber mutasi yang dapat diulang dan jendela acara."
+        },
+        {
+          "name": "Strategi Pemulihan",
+          "description": "Gunakan semprotan utilitas ketika mutasi buruk menghalangi pengaturan yang berfokus pada pendapatan."
+        }
+      ]
+    },
+    "ringFarmMoneyFarming": {
+      "title": "Mencari Uang di Build A Ring Farm",
+      "intro": "Mencari uang di Build A Ring Farm dibangun di sekitar satu siklus: menanam tanaman, membiarkan penggergajian memanen, menjual pendapatan tanaman, lalu menginvestasikan kembali ke benih yang lebih kuat, cakupan mesin yang lebih baik, dan cincin yang lebih besar.",
+      "items": [
+        {
+          "title": "Jual tanaman secara teratur",
+          "priority": "Kebiasaan pertama",
+          "keyData": "Uang tunai hanya membantu setelah Anda mengumpulkan dan menjual hasil panen Anda.",
+          "action": "Periksa pertanian Anda sesering mungkin, jual pendapatan tanaman yang tersimpan, lalu segera belanjakan uang itu untuk Hasil Gergaji, Kekuatan Sprinkler, Keberuntungan Benih, atau gulungan tanaman yang lebih baik.",
+          "bestFor": "Semua tahap"
+        },
+        {
+          "title": "Ganti tanaman tingkat rendah lebih awal",
+          "priority": "Permainan awal",
+          "keyData": "Wortel dimulai sekitar $3 per unit, sementara tanaman yang lebih kuat seperti kubis dapat mencapai sekitar $85 per unit sebelum tingkat selanjutnya meningkat lebih tinggi.",
+          "action": "Jangan terlalu banyak menginvestasikan uang tunai ke tanaman umum. Setelah tanaman umum mencapai sekitar level 10, mulailah menabung untuk benih kelangkaan yang lebih tinggi sebagai gantinya.",
+          "bestFor": "Cincin pertama dan cincin kedua"
+        },
+        {
+          "title": "Gunakan gulungan benih langka untuk lompatan pendapatan",
+          "priority": "Pertumbuhan inti",
+          "keyData": "Kelangkaan benih bergerak naik melalui Umum, Tidak Umum, Langka, Epik, Legendaris, Rahasia, Prismatik, Ilahi, Eksotis, dan benih tingkat atas.",
+          "action": "Tingkatkan Keberuntungan Benih seiring waktu dan gunakan paket benih atau gulungan tuas untuk mengganti petak yang lebih lemah dengan tanaman kelangkaan yang lebih tinggi.",
+          "bestFor": "Pemain yang terjebak pada perolehan uang tunai yang lambat"
+        },
+        {
+          "title": "Berikan pupuk pada tanaman terbaik Anda",
+          "priority": "Penggunaan peningkatan",
+          "keyData": "Pupuk Kuat lebih berharga pada tanaman berpenghasilan tinggi daripada pada setiap tanaman awal kecil.",
+          "action": "Simpan Pupuk Kuat untuk tanaman bernilai tertinggi Anda, terutama setelah Anda meningkatkan tanaman atau menemukan benih langka yang layak disimpan.",
+          "bestFor": "Pertengahan permainan dan penggunaan hadiah acara"
+        },
+        {
+          "title": "Mutasi pertanian saat online",
+          "priority": "Ledakan bernilai tinggi",
+          "keyData": "Mutasi melipatgandakan pendapatan tanaman, dengan Pelangi terdaftar sebagai mutasi teratas pada 5x.",
+          "action": "Tetap aktif selama peristiwa cuaca dan gunakan semprotan mutasi pada tanaman berharga. Penghasilan offline membantu dengan uang tunai pasif, tetapi peluang mutasi membutuhkan permainan aktif.",
+          "bestFor": "Pemain yang mengejar lonjakan uang tunai besar"
+        },
+        {
+          "title": "Perluas hanya ketika Anda dapat mengisi cincin",
+          "priority": "Waktu ekspansi",
+          "keyData": "Cincin baru menambahkan lebih banyak petak, tetapi petak luar yang kosong tidak menghasilkan uang.",
+          "action": "Isi dan tingkatkan cincin Anda saat ini terlebih dahulu, lalu beli cincin berikutnya dan tingkatkan Jangkauan Gergaji dan Jangkauan Sprinkler agar mesin mencapai petak baru.",
+          "bestFor": "Cincin kedua dan seterusnya"
+        }
+      ]
+    },
+    "ringFarmUpgradesGuide": {
+      "title": "Panduan Peningkatan Build A Ring Farm",
+      "intro": "Jalur peningkatan Build A Ring Farm terbaik bukanlah dengan menaikkan level semuanya secara merata. Uang tunai awal harus digunakan untuk jumlah panen dan kecepatan pertumbuhan, sementara peningkatan jangkauan menjadi penting setelah pertanian Anda meluas ke lebih banyak cincin.",
+      "items": [
+        {
+          "title": "Hasil Gergaji",
+          "priority": "Peningkatan awal teratas",
+          "effect": "Meningkatkan berapa banyak pendapatan tanaman yang dikumpulkan oleh pabrik gergaji per lintasan.",
+          "recommendedAction": "Dorong Hasil Gergaji ke level 7 atau 8 lebih awal sebelum menyebarkan uang ke terlalu banyak peningkatan lainnya.",
+          "whenToUpgrade": "Segera setelah pengaturan tanaman stabil pertama Anda"
+        },
+        {
+          "title": "Kekuatan Penyiram",
+          "priority": "Peningkatan awal teratas",
+          "effect": "Meningkatkan kecepatan pertumbuhan tanaman dan membantu petak yang disiram menghasilkan lebih cepat.",
+          "recommendedAction": "Tingkatkan Kekuatan Penyiram bersama dengan Hasil Gergaji agar pertanian Anda tumbuh cukup cepat sehingga pabrik gergaji dapat terus menghasilkan uang tunai.",
+          "whenToUpgrade": "Permainan awal dan setiap kali pertumbuhan mulai terasa lambat"
+        },
+        {
+          "title": "Jangkauan Gergaji",
+          "priority": "Peningkatan ekspansi",
+          "effect": "Membantu pabrik gergaji menutupi petak yang lebih jauh dari pusat.",
+          "recommendedAction": "Beli Jangkauan Gergaji setelah membuka cincin kedua atau ketiga agar petak luar dipanen daripada dibiarkan tidak terpakai.",
+          "whenToUpgrade": "Setelah ekspansi cincin"
+        },
+        {
+          "title": "Jangkauan Penyiram",
+          "priority": "Peningkatan ekspansi",
+          "effect": "Memungkinkan penyiram menjangkau lebih banyak petak saat pertanian cincin Anda tumbuh ke luar.",
+          "recommendedAction": "Tingkatkan Jangkauan Penyiram setiap kali petak luar yang baru tidak disiram secara konsisten.",
+          "whenToUpgrade": "Setelah menambahkan cincin baru atau ruang petak yang lebih luas"
+        },
+        {
+          "title": "Keberuntungan Benih",
+          "priority": "Peningkatan pendapatan jangka panjang",
+          "effect": "Meningkatkan peluang menarik benih yang lebih langka dari tuas.",
+          "recommendedAction": "Tambahkan peningkatan Keberuntungan Benih setiap beberapa sesi sambil tetap menjaga Hasil Gergaji tetap kuat.",
+          "whenToUpgrade": "Setelah panen dan penyiraman dasar stabil"
+        },
+        {
+          "title": "Ekspansi Cincin",
+          "priority": "Lakukan setelah pengaturan",
+          "effect": "Menambahkan lebih banyak ruang petak, tetapi biaya meningkat tajam dengan setiap cincin.",
+          "recommendedAction": "Jangan membuka lahan kosong terlalu dini. Isi cincin Anda saat ini dengan tanaman yang berguna terlebih dahulu, lalu perluas dan tingkatkan cakupan jangkauan.",
+          "whenToUpgrade": "Ketika cincin Anda saat ini penuh dan menguntungkan"
+        }
+      ]
+    },
+    "ringFarmGearAndSprays": {
+      "title": "Perlengkapan dan Semprotan Build A Ring Farm",
+      "intro": "Hadiah perlengkapan Build A Ring Farm paling kuat ketika disimpan untuk petak yang sudah menghasilkan banyak uang.",
+      "items": [
+        {
+          "item": "Paket Benih Tropis",
+          "type": "Paket benih",
+          "howToGet": "Hadiah kode dari UPDATE2 dan 2KLIKES",
+          "effect": "Memberikan hadiah paket benih untuk memperluas pilihan tanaman Anda.",
+          "bestUse": "Buka saat Anda siap mengganti tanaman tingkat rendah dengan benih yang lebih kuat."
+        },
+        {
+          "item": "Pupuk Kuat",
+          "type": "Pupuk",
+          "howToGet": "Hadiah kode dari UPDATE1",
+          "effect": "Digunakan sebagai item pendorong tanaman.",
+          "bestUse": "Habiskan untuk tanaman bernilai tertinggi Anda daripada menyebarkannya ke tanaman pemula yang lemah."
+        },
+        {
+          "item": "Lewati Waktu 5 Menit",
+          "type": "Lewati waktu",
+          "howToGet": "Hadiah kode dari 100KVISITS",
+          "effect": "Melewatkan 5 menit kemajuan pertanian.",
+          "bestUse": "Gunakan setelah menanam tanaman terbaik yang tersedia agar waktu yang dilewati menghasilkan nilai yang lebih baik."
+        },
+        {
+          "item": "Semprotan Musim Gugur",
+          "type": "Semprotan",
+          "howToGet": "Hadiah kode dari THANKYOU",
+          "effect": "Hadiah semprotan musiman.",
+          "bestUse": "Simpan untuk slot tanaman yang berharga daripada menggunakannya pada tanaman yang ingin Anda ganti."
+        },
+        {
+          "item": "Semprotan Asam",
+          "type": "Semprotan utilitas mutasi",
+          "howToGet": "Hadiah kode dari BARF:3 atau Toko Perlengkapan seharga $1 Juta",
+          "effect": "Menghilangkan mutasi saat ini dari tanaman.",
+          "bestUse": "Gunakan ketika tanaman yang kuat memiliki mutasi yang salah dan Anda ingin mengatur ulang untuk pengaturan yang lebih baik."
+        },
+        {
+          "item": "Semprotan Basah",
+          "type": "Semprotan mutasi",
+          "howToGet": "Toko Perlengkapan seharga $10 Juta",
+          "effect": "Menerapkan jalur mutasi Basah, yang memberikan pengganda pendapatan 1,5x.",
+          "bestUse": "Target mutasi pertama yang baik untuk tanaman berharga awal."
+        },
+        {
+          "item": "Semprotan Beku",
+          "type": "Semprotan mutasi",
+          "howToGet": "Toko Perlengkapan seharga $750 Juta",
+          "effect": "Menerapkan jalur mutasi Beku, yang memberikan pengganda pendapatan 1,75x.",
+          "bestUse": "Gunakan setelah pertanian Anda mampu membayar biaya semprotan pertengahan permainan."
+        },
+        {
+          "item": "Semprotan Void",
+          "type": "Semprotan mutasi",
+          "howToGet": "Toko Perlengkapan seharga $1 Miliar",
+          "effect": "Menerapkan jalur mutasi Void, yang memberikan pengganda pendapatan 2,25x.",
+          "bestUse": "Gunakan pada tanaman yang Anda harapkan akan tetap ada melalui beberapa siklus peningkatan."
+        },
+        {
+          "item": "Semprotan Radioaktif",
+          "type": "Semprotan mutasi",
+          "howToGet": "Toko Perlengkapan seharga $10 Miliar",
+          "effect": "Menerapkan jalur mutasi Radioaktif, yang memberikan pengganda pendapatan 3x.",
+          "bestUse": "Gunakan pada tanaman langka dengan nilai dasar yang kuat."
+        },
+        {
+          "item": "Semprotan Pelangi",
+          "type": "Semprotan mutasi",
+          "howToGet": "Toko Perlengkapan seharga $1 Triliun",
+          "effect": "Menerapkan jalur mutasi Pelangi, yang memberikan pengganda pendapatan 5x.",
+          "bestUse": "Simpan untuk tanaman terbaik Anda karena ini adalah peningkatan mutasi terkuat yang terdaftar."
+        }
+      ]
+    },
+    "ringFarmUpdateLog": {
+      "title": "Log Pembaruan Build A Ring Farm",
+      "intro": "Log pembaruan Build A Ring Farm ini berfokus pada perubahan yang paling diperhatikan pemain: kode redeem baru, hadiah gratis, alat mutasi, dan catatan resmi yang memengaruhi kemajuan pertanian.",
+      "entries": [
+        {
+          "date": "18 Mei 2026",
+          "title": "Hadiah kode UPD 2 ditambahkan",
+          "summary": "Tiga hadiah baru ditambahkan untuk gelombang UPD 2.",
+          "changes": [
+            "UPDATE2 memberikan 1 Paket Benih Tropis",
+            "THANKYOU memberikan 1 Semprotan Musim Gugur",
+            "BARF:3 memberikan 1 Semprotan Asam"
+          ]
+        },
+        {
+          "date": "18 Mei 2026",
+          "title": "Daftar kode aktif diperiksa",
+          "summary": "Hadiah aktif yang saat ini terdaftar meliputi paket benih, semprotan, pupuk, dan lompatan waktu.",
+          "changes": [
+            "100KVISITS tetap terdaftar sebagai aktif",
+            "2KLIKES memberikan 1 Paket Benih Tropis",
+            "UPDATE1 memberikan 3 Pupuk Kuat",
+            "Tidak ada kode kedaluwarsa yang terdaftar"
+          ]
+        },
+        {
+          "date": "14 Mei 2026",
+          "title": "Pengganda mutasi dilacak",
+          "summary": "Set mutasi yang terdaftar meliputi Basah, Beku, Void, Radioaktif, dan Pelangi.",
+          "changes": [
+            "Basah memberikan pendapatan 1,5x",
+            "Beku memberikan pendapatan 1,75x",
+            "Void memberikan pendapatan 2,25x",
+            "Radioaktif memberikan pendapatan 3x",
+            "Pelangi memberikan pendapatan 5x"
+          ]
+        },
+        {
+          "date": "Halaman resmi saat ini",
+          "title": "Catatan gameplay resmi",
+          "summary": "Halaman resmi Roblox menjelaskan inti permainan sebagai menanam dan memanen tanaman, meningkatkan dan memperluas pertanian, menjual tanaman untuk uang tunai, dan menghasilkan saat offline.",
+          "changes": [
+            "Penghasilan offline adalah bagian dari deskripsi resmi",
+            "Permainan ini terdaftar sebagai baru",
+            "Pemain didorong untuk menyukai permainan dan bergabung dengan grup untuk mendapatkan hadiah"
+          ]
+        }
+      ]
+    }
+  },
+  "faq": {
+    "title": "Build A Ring Farm",
+    "titleHighlight": "FAQ",
+    "subtitle": "Pertanyaan umum pemain tentang kemajuan dan hadiah Build A Ring Farm.",
+    "questions": [
+      {
+        "question": "Seberapa sering kode Build A Ring Farm diperbarui?",
+        "answer": "Kode Build A Ring Farm biasanya diperbarui sekitar pencapaian, patch, dan tujuan keterlibatan. Periksa modul kode secara teratur untuk daftar terbaru."
+      },
+      {
+        "question": "Apa yang harus saya tingkatkan pertama kali di Build A Ring Farm?",
+        "answer": "Di Build A Ring Farm, prioritaskan Hasil Gergaji dan Kekuatan Sprinkler terlebih dahulu, lalu perluas jangkauan dan kualitas benih saat pendapatan Anda stabil."
+      },
+      {
+        "question": "Apakah mutasi penting di Build A Ring Farm?",
+        "answer": "Ya, mutasi Build A Ring Farm adalah bagian utama dari pertanian berpenghasilan tinggi dan harus diterapkan pada tanaman bernilai tinggi."
+      },
+      {
+        "question": "Bisakah Build A Ring Farm menghasilkan kemajuan saat offline?",
+        "answer": "Build A Ring Farm mendukung penghasilan offline, jadi menyiapkan tata letak tanaman terbaik Anda sebelum logout meningkatkan keuntungan pasif."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Pembaruan Wiki Build A Ring Farm",
+    "description": "Ikuti pembaruan strategi Build A Ring Farm, perubahan hadiah, dan penyegaran modul.",
+    "joinCommunity": "Gabung Komunitas",
+    "joinGame": "Mainkan Build A Ring Farm"
+  },
+  "pages": {
+    "codes": {
+      "title": "Kode Build A Ring Farm",
+      "description": "Kode Build A Ring Farm terbaru untuk paket benih gratis, semprotan, pupuk, dan lompatan waktu.",
+      "metaTitle": "Kode Build A Ring Farm - Hadiah Aktif & Panduan Penukaran",
+      "metaDescription": "Gunakan kode Build A Ring Farm aktif untuk mengklaim paket benih gratis, semprotan, pupuk, dan lompatan waktu. Diperbarui dengan hadiah saat ini dan langkah penukaran cepat.",
+      "categoryLabel": "TUKARKAN KODE",
+      "whatIs": "Apa itu Kode Build A Ring Farm?",
+      "whatIsDescription": "Kode Build A Ring Farm adalah string hadiah yang dapat ditukarkan yang dirilis oleh pengembang yang memberikan item kemajuan gratis seperti paket benih, pupuk, alat semprot, dan peningkatan lompatan waktu.",
+      "why": "Mengapa memeriksa halaman kode ini?",
+      "whySteps": {
+        "step1Title": "Klaim item kemajuan gratis",
+        "step1Description": "Gunakan hadiah untuk mempercepat peningkatan benih dan pengaturan mutasi tanpa mengeluarkan mata uang tambahan.",
+        "step2Title": "Hindari kebingungan kode kedaluwarsa",
+        "step2Description": "Simpan satu daftar bersih hadiah aktif dan catatan pembaruan sehingga Anda dapat menukarkan dengan cepat.",
+        "step3Title": "Rencanakan peningkatan di sekitar tahap pertanian Anda",
+        "step3Description": "Gunakan setiap hadiah pada waktu yang tepat untuk mengubah barang gratis menjadi pertumbuhan pendapatan yang lebih kuat."
+      },
+      "featured": "Unggulan & Penting",
+      "all": "Semua Kode"
+    },
+    "guide": {
+      "title": "Panduan Build A Ring Farm",
+      "description": "Panduan inti Build A Ring Farm yang mencakup alur pemula, kontrol, kemajuan, dan tips pertanian praktis.",
+      "metaTitle": "Panduan Build A Ring Farm - Jalur Pemula, Kontrol & Kemajuan",
+      "metaDescription": "Baca artikel panduan Build A Ring Farm untuk perutean sesi pertama, pengaturan kontrol, pencapaian kemajuan, dan keputusan peningkatan yang efisien.",
+      "categoryLabel": "PANDUAN INTI",
+      "whatIs": "Apa itu kategori Panduan Build A Ring Farm?",
+      "whatIsDescription": "Kategori ini mengumpulkan artikel praktis cara-cara untuk Build A Ring Farm, mulai dari tindakan login pertama hingga strategi jangka panjang, termasuk kontrol dan jalur kemajuan dari pemula hingga pro.",
+      "why": "Mengapa membaca artikel panduan ini?",
+      "whySteps": {
+        "step1Title": "Mulai dengan rute awal yang lebih bersih",
+        "step1Description": "Ikuti prioritas jam pertama yang terbukti sehingga siklus uang Anda stabil lebih cepat.",
+        "step2Title": "Perbaiki kontrol sebelum grinding",
+        "step2Description": "Terapkan rekomendasi pengontrol dan pengaturan untuk mengurangi gesekan selama siklus pertanian berulang.",
+        "step3Title": "Skala secara efisien ke pertengahan permainan",
+        "step3Description": "Gunakan daftar periksa kemajuan untuk mengatur waktu ekspansi cincin dan peningkatan mesin dengan benar."
+      },
+      "featured": "Unggulan & Penting",
+      "all": "Semua Artikel Panduan"
+    },
+    "mutations": {
+      "title": "Mutasi Build A Ring Farm",
+      "description": "Mekanika mutasi Build A Ring Farm, aturan penumpukan, penggunaan semprotan, dan target pengganda terbaik.",
+      "metaTitle": "Mutasi Build A Ring Farm - Penumpukan, Semprotan & Pilihan Terbaik",
+      "metaDescription": "Pelajari cara kerja mutasi Build A Ring Farm, kapan harus menerapkan semprotan, pengganda mana yang paling penting, dan cara merutekan nilai mutasi menjadi keuntungan yang stabil.",
+      "categoryLabel": "SISTEM MUTASI",
+      "whatIs": "Apa itu Mutasi Build A Ring Farm?",
+      "whatIsDescription": "Mutasi adalah pengubah tanaman di Build A Ring Farm yang meningkatkan pengganda nilai. Ini adalah pengungkit utama untuk lonjakan pendapatan ketika dikombinasikan dengan benih bernilai tinggi dan waktu penyemprotan yang tepat.",
+      "why": "Mengapa menggunakan panduan mutasi?",
+      "whySteps": {
+        "step1Title": "Prioritaskan pengaturan pengganda teratas",
+        "step1Description": "Targetkan tanaman terkuat Anda terlebih dahulu daripada menyebarkan semprotan ke petak bernilai rendah.",
+        "step2Title": "Pahami penumpukan dan batasan",
+        "step2Description": "Gunakan aturan yang jelas agar Anda tidak membuang semprotan langka pada skenario yang lemah atau tidak kompatibel.",
+        "step3Title": "Atur waktu investasi mutasi dengan lebih baik",
+        "step3Description": "Terapkan peningkatan mahal ketika pertanian Anda dapat mengubahnya menjadi keuntungan berkelanjutan."
+      },
+      "featured": "Unggulan & Penting",
+      "all": "Semua Artikel Mutasi"
+    },
+    "plants": {
+      "title": "Tanaman Build A Ring Farm",
+      "description": "Cakupan benih dan tanaman untuk Build A Ring Farm, termasuk benih terbaik, daftar tingkatan, dan prioritas penggantian.",
+      "metaTitle": "Tanaman Build A Ring Farm - Benih Terbaik, Daftar Tingkatan & Pilihan Tanaman",
+      "metaDescription": "Bandingkan tanaman dan benih Build A Ring Farm berdasarkan nilai, progres kelangkaan, dan penggunaan praktis untuk memutuskan apa yang harus dipertahankan, diganti, dan ditingkatkan terlebih dahulu.",
+      "categoryLabel": "BENIH & TANAMAN",
+      "whatIs": "Apa yang dicakup oleh kategori Tanaman Build A Ring Farm?",
+      "whatIsDescription": "Artikel-artikel ini berfokus pada keputusan benih dan tanaman Build A Ring Farm, termasuk progres kelangkaan, peringkat benih terbaik, dan waktu penggantian tanaman selama ekspansi.",
+      "why": "Mengapa menggunakan kategori tanaman?",
+      "whySteps": {
+        "step1Title": "Pilih tanaman yang lebih baik lebih awal",
+        "step1Description": "Identifikasi tanaman pemula yang lemah sejak dini dan ganti dengan opsi jangka panjang yang lebih kuat.",
+        "step2Title": "Gunakan daftar tingkatan sebagai filter peningkatan",
+        "step2Description": "Arahkan pupuk dan semprotan Anda ke tanaman dengan potensi pengembalian yang lebih tinggi.",
+        "step3Title": "Kurangi siklus pertumbuhan yang terbuang",
+        "step3Description": "Fokuskan lahan pada tanaman yang selaras dengan ukuran cincin dan level mesin Anda saat ini."
+      },
+      "featured": "Unggulan & Esensial",
+      "all": "Semua Artikel Tanaman"
+    },
+    "rarities": {
+      "title": "Kelangkaan Build A Ring Farm",
+      "description": "Bagan kelangkaan Build A Ring Farm dan referensi nilai untuk tanaman, benih, dan perencanaan peningkatan.",
+      "metaTitle": "Kelangkaan Build A Ring Farm - Bagan Kelangkaan & Referensi Nilai Tanaman",
+      "metaDescription": "Gunakan referensi kelangkaan dan nilai Build A Ring Farm untuk mengevaluasi kekuatan tanaman, membandingkan tingkatan, dan memutuskan di mana akan menginvestasikan semprotan dan peningkatan.",
+      "categoryLabel": "DATA KELANGKAAN",
+      "whatIs": "Apa itu referensi kelangkaan Build A Ring Farm?",
+      "whatIsDescription": "Referensi kelangkaan menyusun tingkatan tanaman dan benih Build A Ring Farm ke dalam format yang mudah dibandingkan sehingga pemain dapat menilai nilai peningkatan dengan lebih sedikit spekulasi.",
+      "why": "Mengapa meninjau bagan kelangkaan dan nilai?",
+      "whySteps": {
+        "step1Title": "Tolok ukur potensi tanaman dengan cepat",
+        "step1Description": "Bandingkan tingkatan dan nilai sebelum menghabiskan jumlah besar untuk boost atau reroll.",
+        "step2Title": "Tetapkan ambang batas penggantian yang lebih jelas",
+        "step2Description": "Ketahui kapan sebuah tanaman telah mencapai batas praktisnya dan harus diganti.",
+        "step3Title": "Dukung perencanaan ladang berbasis data",
+        "step3Description": "Gunakan tabel referensi untuk menyelaraskan pengeluaran peningkatan dengan hasil bernilai tertinggi."
+      },
+      "featured": "Unggulan & Esensial",
+      "all": "Semua Artikel Kelangkaan"
+    },
+    "farm": {
+      "title": "Ladang Build A Ring Farm",
+      "description": "Strategi perputaran uang dan tata letak untuk Build A Ring Farm, termasuk rute penskalaan untuk ekspansi cincin dan otomatisasi.",
+      "metaTitle": "Ladang Build A Ring Farm - Perputaran Uang, Tata Letak & Rute Ekspansi",
+      "metaDescription": "Tingkatkan pendapatan Build A Ring Farm dengan perputaran uang ladang, panduan tata letak cincin, dan strategi ekspansi langkah demi langkah untuk pertumbuhan yang stabil.",
+      "categoryLabel": "STRATEGI LADANG",
+      "whatIs": "Apa itu kategori Ladang Build A Ring Farm?",
+      "whatIsDescription": "Kategori ini mencakup artikel optimasi ladang untuk Build A Ring Farm, termasuk rute uang, pengaturan tata letak, arahan otomatisasi, dan kebiasaan penskalaan tingkat tinggi.",
+      "why": "Mengapa mengikuti artikel strategi ladang?",
+      "whySteps": {
+        "step1Title": "Bangun perputaran uang yang dapat diulang",
+        "step1Description": "Gunakan pola panen-jual-investasi kembali yang konsisten alih-alih pengeluaran peningkatan yang acak.",
+        "step2Title": "Perluas cincin dengan mempertimbangkan cakupan",
+        "step2Description": "Sesuaikan pembukaan lahan baru dengan jangkauan gergaji dan penyiram agar lahan luar tidak menganggur.",
+        "step3Title": "Dorong tata letak berpendapatan lebih tinggi dengan aman",
+        "step3Description": "Adopsi pola ladang teruji yang meningkatkan pengembalian tanpa merusak alur progres."
+      },
+      "featured": "Unggulan & Esensial",
+      "all": "Semua Artikel Ladang"
+    },
+    "updates": {
+      "title": "Pembaruan Build A Ring Farm",
+      "description": "Pembaruan Build A Ring Farm yang berfokus pada patch, mencakup kode baru, perubahan fitur, dan catatan dampak gameplay.",
+      "metaTitle": "Pembaruan Build A Ring Farm - Kode Baru, Catatan Patch & Perubahan",
+      "metaDescription": "Lacak cakupan pembaruan Build A Ring Farm, termasuk kode baru, perubahan konten, dan catatan praktis tentang bagaimana patch memengaruhi kemajuan.",
+      "categoryLabel": "PELACAK PEMBARUAN",
+      "whatIs": "Apa yang ada di kategori Pembaruan Build A Ring Farm?",
+      "whatIsDescription": "Artikel pembaruan merangkum gelombang patch Build A Ring Farm, hadiah yang baru ditambahkan, dan perubahan tingkat fitur sehingga pemain dapat menyesuaikan rute dengan cepat.",
+      "why": "Mengapa memantau artikel pembaruan?",
+      "whySteps": {
+        "step1Title": "Dapatkan hadiah baru lebih awal",
+        "step1Description": "Identifikasi hadiah kode yang baru dirilis dan klaim sebelum merencanakan sesi grinding berikutnya.",
+        "step2Title": "Sesuaikan strategi setelah perubahan patch",
+        "step2Description": "Bereaksi terhadap perubahan keseimbangan dan konten yang mengubah efisiensi pertanian atau urutan peningkatan.",
+        "step3Title": "Jaga agar peta jalan Anda tetap terkini",
+        "step3Description": "Gunakan ringkasan pembaruan untuk menyelaraskan tindakan jangka pendek dengan arah game terbaru."
+      },
+      "featured": "Unggulan & Penting",
+      "all": "Semua Artikel Pembaruan"
+    }
   }
 }
