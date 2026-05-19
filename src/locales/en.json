@@ -104,42 +104,144 @@
     },
     "ringFarmMoneyFarming": {
       "title": "Build A Ring Farm Money Farming",
-      "intro": "Build A Ring Farm cash growth comes from high-value crops, tight sell rhythm, and disciplined reinvestment into yield upgrades.",
-      "cards": [
-        { "name": "Sell on Cycle", "description": "Harvest and sell on a repeatable cadence so cash is constantly available for upgrades." },
-        { "name": "Reinvest by Priority", "description": "Put profit into saw and sprinkler upgrades before low-impact side spending." },
-        { "name": "Protect Premium Slots", "description": "Reserve best plots for top-tier crops and boost them first." },
-        { "name": "Use Offline Income", "description": "Log out only after setting your strongest crop lineup for passive earnings." }
+      "intro": "Build A Ring Farm money farming is built around one loop: plant crops, let the sawmill harvest, sell the crop income, then reinvest into stronger seeds, better machine coverage, and larger rings.",
+      "items": [
+        {
+          "title": "Sell crops on a steady rhythm",
+          "priority": "First habit",
+          "keyData": "Cash only helps after you collect and sell your harvest.",
+          "action": "Check your farm often, sell the stored crop income, then immediately spend that money on Saw Yield, Sprinkler Power, Seed Luck, or a better crop roll.",
+          "bestFor": "All stages"
+        },
+        {
+          "title": "Replace low-tier crops early",
+          "priority": "Early game",
+          "keyData": "Carrots start at about $3 per unit, while stronger crops such as cabbage can reach about $85 per unit before later tiers scale higher.",
+          "action": "Do not sink too much cash into common crops. After a common crop reaches around level 10, start saving for higher-rarity seeds instead.",
+          "bestFor": "First ring and second ring"
+        },
+        {
+          "title": "Use rare seed rolls for income jumps",
+          "priority": "Core growth",
+          "keyData": "Seed rarity moves upward through Common, Uncommon, Rare, Epic, Legendary, Secret, Prismatic, Divine, Exotic, and top-tier seeds.",
+          "action": "Upgrade Seed Luck over time and use seed packs or lever rolls to replace weaker plots with higher-rarity crops.",
+          "bestFor": "Players stuck on slow cash gain"
+        },
+        {
+          "title": "Put fertilizer on your best crops",
+          "priority": "Boost usage",
+          "keyData": "Strong Fertilizer is more valuable on high-income crops than on every small starter crop.",
+          "action": "Save Strong Fertilizer for your highest-value plants, especially after you have already upgraded the crop or found a rare seed worth keeping.",
+          "bestFor": "Mid game and event reward usage"
+        },
+        {
+          "title": "Farm mutations while online",
+          "priority": "High-value burst",
+          "keyData": "Mutations multiply crop income, with Rainbow listed as the top mutation at 5x.",
+          "action": "Stay active during weather events and use mutation sprays on valuable crops. Offline earnings help with passive cash, but mutation chances need active play.",
+          "bestFor": "Players chasing large cash spikes"
+        },
+        {
+          "title": "Expand only when you can fill the ring",
+          "priority": "Expansion timing",
+          "keyData": "New rings add more plots, but empty outer plots do not earn money.",
+          "action": "Fill and upgrade your current ring first, then buy the next ring and upgrade Saw Range and Sprinkler Range so the machines reach the new plots.",
+          "bestFor": "Second ring and later"
+        }
       ]
     },
     "ringFarmUpgradesGuide": {
       "title": "Build A Ring Farm Upgrades Guide",
-      "intro": "These Build A Ring Farm upgrades deliver the most consistent progression value from early to mid game.",
-      "upgrades": [
-        { "name": "Saw Yield", "description": "Primary income multiplier and best first major upgrade target." },
-        { "name": "Sprinkler Power", "description": "Boosts growth speed and improves total farm throughput." },
-        { "name": "Sprinkler Range", "description": "Keeps expanded rings fully watered and productive." },
-        { "name": "Seed Luck", "description": "Increases chance of pulling seeds that outscale starter crops." },
-        { "name": "Ring Expansion", "description": "Expand only when your current ring is fully utilized." }
+      "intro": "The best Build A Ring Farm upgrade path is not to level everything evenly. Early cash should go into harvest amount and growth speed, while range upgrades become important once your farm expands into more rings.",
+      "items": [
+        {
+          "title": "Saw Yield",
+          "priority": "Top early upgrade",
+          "effect": "Increases how much crop income the sawmill collects per pass.",
+          "recommendedAction": "Push Saw Yield to level 7 or 8 early before spreading money across too many other upgrades.",
+          "whenToUpgrade": "Immediately after your first steady crop setup"
+        },
+        {
+          "title": "Sprinkler Power",
+          "priority": "Top early upgrade",
+          "effect": "Improves crop growth speed and helps your watered plots produce faster.",
+          "recommendedAction": "Upgrade Sprinkler Power alongside Saw Yield so your farm grows quickly enough for the sawmill to keep producing cash.",
+          "whenToUpgrade": "Early game and every time growth starts feeling slow"
+        },
+        {
+          "title": "Saw Range",
+          "priority": "Expansion upgrade",
+          "effect": "Helps the sawmill cover plots farther away from the center.",
+          "recommendedAction": "Buy Saw Range after unlocking a second or third ring so outer plots are harvested instead of sitting unused.",
+          "whenToUpgrade": "After ring expansion"
+        },
+        {
+          "title": "Sprinkler Range",
+          "priority": "Expansion upgrade",
+          "effect": "Lets the sprinkler reach more plots as your ring farm grows outward.",
+          "recommendedAction": "Upgrade Sprinkler Range whenever new outer plots are not being watered consistently.",
+          "whenToUpgrade": "After adding new rings or wider plot space"
+        },
+        {
+          "title": "Seed Luck",
+          "priority": "Long-term income upgrade",
+          "effect": "Improves the chance of pulling rarer seeds from the lever.",
+          "recommendedAction": "Add Seed Luck upgrades every few sessions while still keeping Saw Yield strong.",
+          "whenToUpgrade": "Once basic harvesting and watering are stable"
+        },
+        {
+          "title": "Ring Expansion",
+          "priority": "Do after setup",
+          "effect": "Adds more plot space, but costs rise sharply with each ring.",
+          "recommendedAction": "Do not unlock empty land too early. Fill your current ring with useful crops first, then expand and upgrade range coverage.",
+          "whenToUpgrade": "When your current ring is full and profitable"
+        }
       ]
     },
     "ringFarmGearAndSprays": {
       "title": "Build A Ring Farm Gear and Sprays",
-      "intro": "Build A Ring Farm rewards, sprays, and fertilizer items are strongest when used with crop value and timing in mind.",
+      "intro": "Build A Ring Farm gear rewards are strongest when they are saved for the plots that already make good money.",
       "items": [
-        { "name": "Mutation Sprays", "description": "Use on proven income crops to maximize multiplier returns." },
-        { "name": "Strong Fertilizer", "description": "Apply to top-earning crops instead of spreading across low-value slots." },
-        { "name": "Time Skips", "description": "Trigger after planting your strongest layout for immediate value." },
-        { "name": "Seed Packs", "description": "Open when you are ready to replace multiple weak plots at once." }
+        { "item": "Tropical Seed Pack", "type": "Seed pack", "howToGet": "Code rewards from UPDATE2 and 2KLIKES", "effect": "Gives a seed pack reward for expanding your crop options.", "bestUse": "Open when you are ready to replace low-tier crops with stronger seeds." },
+        { "item": "Strong Fertilizer", "type": "Fertilizer", "howToGet": "Code reward from UPDATE1", "effect": "Used as a crop boost item.", "bestUse": "Spend it on your highest-value crop instead of spreading it across weak starter plants." },
+        { "item": "5 Minute Time Skip", "type": "Time skip", "howToGet": "Code reward from 100KVISITS", "effect": "Skips 5 minutes of farm progress.", "bestUse": "Use after planting your best available crops so the skipped time produces better value." },
+        { "item": "Autumn Spray", "type": "Spray", "howToGet": "Code reward from THANKYOU", "effect": "Seasonal spray reward.", "bestUse": "Save for a valuable crop slot instead of using it on a crop you plan to replace." },
+        { "item": "Acid Spray", "type": "Mutation utility spray", "howToGet": "Code reward from BARF:3 or Gear Shop for $1M", "effect": "Removes the current mutation from a plant.", "bestUse": "Use when a strong crop has the wrong mutation and you want to reset it for a better setup." },
+        { "item": "Wet Spray", "type": "Mutation spray", "howToGet": "Gear Shop for $10M", "effect": "Applies the Wet mutation path, which gives a 1.5x income multiplier.", "bestUse": "Good first mutation target for early valuable crops." },
+        { "item": "Frozen Spray", "type": "Mutation spray", "howToGet": "Gear Shop for $750M", "effect": "Applies the Frozen mutation path, which gives a 1.75x income multiplier.", "bestUse": "Use after your farm can comfortably afford mid-game spray costs." },
+        { "item": "Void Spray", "type": "Mutation spray", "howToGet": "Gear Shop for $1B", "effect": "Applies the Void mutation path, which gives a 2.25x income multiplier.", "bestUse": "Use on crops you expect to keep through several upgrade cycles." },
+        { "item": "Radioactive Spray", "type": "Mutation spray", "howToGet": "Gear Shop for $10B", "effect": "Applies the Radioactive mutation path, which gives a 3x income multiplier.", "bestUse": "Use on high-rarity crops with strong base value." },
+        { "item": "Rainbow Spray", "type": "Mutation spray", "howToGet": "Gear Shop for $1T", "effect": "Applies the Rainbow mutation path, which gives a 5x income multiplier.", "bestUse": "Save for your best crop because it is the strongest listed mutation boost." }
       ]
     },
     "ringFarmUpdateLog": {
       "title": "Build A Ring Farm Update Log",
-      "intro": "Track the latest Build A Ring Farm reward and gameplay changes so your route stays current.",
+      "intro": "This Build A Ring Farm update log focuses on changes players care about most: new redeem codes, free rewards, mutation tools, and official notes that affect farming progress.",
       "entries": [
-        { "date": "May 19, 2026", "title": "Code Set Refreshed", "description": "Active reward list updated with current redeemable codes and utility item rewards." },
-        { "date": "May 18, 2026", "title": "Progression Balance Notes", "description": "Early upgrade guidance revised around saw yield, sprinkler range, and seed replacement timing." },
-        { "date": "May 16, 2026", "title": "Farming Route Revision", "description": "Money farming section updated with reinvest priorities and offline income optimization." }
+        {
+          "date": "May 18, 2026",
+          "title": "UPD 2 code rewards added",
+          "summary": "Three newer rewards were added for the UPD 2 wave.",
+          "changes": ["UPDATE2 gives 1 Tropical Seed Pack", "THANKYOU gives 1 Autumn Spray", "BARF:3 gives 1 Acid Spray"]
+        },
+        {
+          "date": "May 18, 2026",
+          "title": "Active code list checked",
+          "summary": "The currently listed active rewards include seed packs, sprays, fertilizer, and a time skip.",
+          "changes": ["100KVISITS remains listed as active", "2KLIKES gives 1 Tropical Seed Pack", "UPDATE1 gives 3 Strong Fertilizers", "No expired codes are listed"]
+        },
+        {
+          "date": "May 14, 2026",
+          "title": "Mutation multipliers tracked",
+          "summary": "The listed mutation set includes Wet, Frozen, Void, Radioactive, and Rainbow.",
+          "changes": ["Wet gives 1.5x income", "Frozen gives 1.75x income", "Void gives 2.25x income", "Radioactive gives 3x income", "Rainbow gives 5x income"]
+        },
+        {
+          "date": "Current official page",
+          "title": "Official gameplay notes",
+          "summary": "The official Roblox page describes the core loop as growing and harvesting plants, upgrading and expanding the farm, selling plants for cash, and earning while offline.",
+          "changes": ["Offline earnings are part of the official description", "The game is listed as new", "Players are encouraged to like the game and join the group for rewards"]
+        }
       ]
     }
   },

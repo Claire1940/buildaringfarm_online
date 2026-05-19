@@ -4,13 +4,22 @@ import { Suspense, lazy } from "react";
 import {
   ArrowRight,
   BadgeDollarSign,
+  BadgeInfo,
   BookOpen,
   Clock,
   Coins,
+  Droplets,
+  Flower2,
   FlaskConical,
   Gift,
+  Layers,
   Leaf,
+  MoveUpRight,
+  Pickaxe,
+  ShieldCheck,
   Sprout,
+  TimerReset,
+  TrendingUp,
   Wrench,
 } from "lucide-react";
 import { useMessages } from "next-intl";
@@ -50,6 +59,9 @@ const toolSectionIds = [
 export default function HomePageClient({ latestArticles, locale }: HomePageClientProps) {
   const t = useMessages() as any;
   const mobileBannerAd = getPreferredMobileBannerSelection();
+  const moneyIcons = [Coins, TrendingUp, BadgeDollarSign, ShieldCheck, FlaskConical, MoveUpRight];
+  const upgradesIcons = [Wrench, Droplets, Pickaxe, Sprout, Gift, Layers];
+  const gearIcons = [Gift, Sprout, TimerReset, BadgeInfo, FlaskConical, Droplets, Clock, Coins, BadgeDollarSign, Flower2];
 
   return (
     <div className="home-shell min-h-screen bg-background text-foreground">
@@ -115,17 +127,21 @@ export default function HomePageClient({ latestArticles, locale }: HomePageClien
 
           <div className="grid grid-cols-2 gap-3 md:grid-cols-3 md:gap-4 lg:grid-cols-4">
             {t.tools.cards.map((card: any, index: number) => (
-              <button
+              <a
                 key={index}
-                onClick={() => scrollToSection(toolSectionIds[index])}
-                className="group rounded-xl border border-border p-4 md:p-6 bg-card hover:border-[hsl(var(--nav-theme)/0.5)] transition-all duration-300 text-left hover:shadow-lg hover:shadow-[hsl(var(--nav-theme)/0.1)]"
+                href={`#${toolSectionIds[index]}`}
+                onClick={(event) => {
+                  event.preventDefault();
+                  scrollToSection(toolSectionIds[index]);
+                }}
+                className="group block rounded-xl border border-border p-4 md:p-6 bg-card hover:border-[hsl(var(--nav-theme)/0.5)] transition-all duration-300 text-left hover:shadow-lg hover:shadow-[hsl(var(--nav-theme)/0.1)]"
               >
                 <div className="mb-3 h-10 w-10 rounded-lg md:mb-4 md:h-12 md:w-12 bg-[hsl(var(--nav-theme)/0.1)] flex items-center justify-center group-hover:bg-[hsl(var(--nav-theme)/0.2)] transition-colors">
                   <DynamicIcon name={card.icon} className="h-5 w-5 md:h-6 md:w-6 text-[hsl(var(--nav-theme-light))]" />
                 </div>
                 <h3 className="mb-1.5 text-sm md:text-base font-semibold">{card.title}</h3>
                 <p className="text-sm text-muted-foreground">{card.description}</p>
-              </button>
+              </a>
             ))}
           </div>
         </div>
@@ -205,12 +221,25 @@ export default function HomePageClient({ latestArticles, locale }: HomePageClien
           <h2 className="text-3xl md:text-5xl font-bold mb-4 text-center">{t.modules.ringFarmMoneyFarming.title}</h2>
           <p className="text-base md:text-lg text-muted-foreground max-w-3xl mx-auto text-center mb-8">{t.modules.ringFarmMoneyFarming.intro}</p>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-            {t.modules.ringFarmMoneyFarming.cards.map((card: any, index: number) => (
-              <div key={index} className="p-5 bg-white/5 border border-border rounded-xl">
-                <div className="flex items-center gap-2 mb-2"><Coins className="w-5 h-5 text-[hsl(var(--nav-theme-light))]" /><h3 className="font-semibold">{card.name}</h3></div>
-                <p className="text-sm text-muted-foreground">{card.description}</p>
-              </div>
-            ))}
+            {t.modules.ringFarmMoneyFarming.items.map((item: any, index: number) => {
+              const MoneyIcon = moneyIcons[index % moneyIcons.length];
+              return (
+                <div key={index} className="p-5 bg-white/5 border border-border rounded-xl">
+                  <div className="flex items-start justify-between gap-3 mb-3">
+                    <div className="flex items-center gap-2">
+                      <MoneyIcon className="w-5 h-5 text-[hsl(var(--nav-theme-light))]" />
+                      <h3 className="font-semibold">{item.title}</h3>
+                    </div>
+                    <span className="text-xs px-2 py-1 rounded-full bg-[hsl(var(--nav-theme)/0.1)] border border-[hsl(var(--nav-theme)/0.3)]">
+                      {item.priority}
+                    </span>
+                  </div>
+                  <p className="text-sm text-muted-foreground mb-2">{item.keyData}</p>
+                  <p className="text-sm mb-2">{item.action}</p>
+                  <p className="text-xs text-muted-foreground">Best for: {item.bestFor}</p>
+                </div>
+              );
+            })}
           </div>
         </div>
       </section>
@@ -220,12 +249,25 @@ export default function HomePageClient({ latestArticles, locale }: HomePageClien
           <h2 className="text-3xl md:text-5xl font-bold mb-4 text-center">{t.modules.ringFarmUpgradesGuide.title}</h2>
           <p className="text-base md:text-lg text-muted-foreground max-w-3xl mx-auto text-center mb-8">{t.modules.ringFarmUpgradesGuide.intro}</p>
           <div className="space-y-3">
-            {t.modules.ringFarmUpgradesGuide.upgrades.map((item: any, index: number) => (
-              <div key={index} className="p-5 bg-white/5 border border-border rounded-xl">
-                <div className="flex items-center gap-2 mb-2"><Wrench className="w-5 h-5 text-[hsl(var(--nav-theme-light))]" /><h3 className="font-semibold">{item.name}</h3></div>
-                <p className="text-sm text-muted-foreground">{item.description}</p>
-              </div>
-            ))}
+            {t.modules.ringFarmUpgradesGuide.items.map((item: any, index: number) => {
+              const UpgradeIcon = upgradesIcons[index % upgradesIcons.length];
+              return (
+                <div key={index} className="p-5 bg-white/5 border border-border rounded-xl">
+                  <div className="flex items-start justify-between gap-3 mb-3">
+                    <div className="flex items-center gap-2">
+                      <UpgradeIcon className="w-5 h-5 text-[hsl(var(--nav-theme-light))]" />
+                      <h3 className="font-semibold">{item.title}</h3>
+                    </div>
+                    <span className="text-xs px-2 py-1 rounded-full bg-[hsl(var(--nav-theme)/0.1)] border border-[hsl(var(--nav-theme)/0.3)]">
+                      {item.priority}
+                    </span>
+                  </div>
+                  <p className="text-sm text-muted-foreground mb-2">{item.effect}</p>
+                  <p className="text-sm mb-2">{item.recommendedAction}</p>
+                  <p className="text-xs text-muted-foreground">When to upgrade: {item.whenToUpgrade}</p>
+                </div>
+              );
+            })}
           </div>
         </div>
       </section>
@@ -234,13 +276,22 @@ export default function HomePageClient({ latestArticles, locale }: HomePageClien
         <div className="container mx-auto max-w-5xl">
           <h2 className="text-3xl md:text-5xl font-bold mb-4 text-center">{t.modules.ringFarmGearAndSprays.title}</h2>
           <p className="text-base md:text-lg text-muted-foreground max-w-3xl mx-auto text-center mb-8">{t.modules.ringFarmGearAndSprays.intro}</p>
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-            {t.modules.ringFarmGearAndSprays.items.map((item: any, index: number) => (
-              <div key={index} className="p-5 bg-white/5 border border-border rounded-xl">
-                <div className="flex items-center gap-2 mb-2"><Gift className="w-5 h-5 text-[hsl(var(--nav-theme-light))]" /><h3 className="font-semibold">{item.name}</h3></div>
-                <p className="text-sm text-muted-foreground">{item.description}</p>
-              </div>
-            ))}
+          <div className="grid grid-cols-1 lg:grid-cols-2 gap-4">
+            {t.modules.ringFarmGearAndSprays.items.map((item: any, index: number) => {
+              const GearIcon = gearIcons[index % gearIcons.length];
+              return (
+                <div key={index} className="p-5 bg-white/5 border border-border rounded-xl">
+                  <div className="flex items-center gap-2 mb-2">
+                    <GearIcon className="w-5 h-5 text-[hsl(var(--nav-theme-light))]" />
+                    <h3 className="font-semibold">{item.item}</h3>
+                  </div>
+                  <p className="text-xs uppercase tracking-wide text-[hsl(var(--nav-theme-light))] mb-2">{item.type}</p>
+                  <p className="text-sm text-muted-foreground mb-1"><span className="text-foreground">How to get:</span> {item.howToGet}</p>
+                  <p className="text-sm text-muted-foreground mb-1"><span className="text-foreground">Effect:</span> {item.effect}</p>
+                  <p className="text-sm"><span className="text-foreground">Best use:</span> {item.bestUse}</p>
+                </div>
+              );
+            })}
           </div>
         </div>
       </section>
@@ -254,7 +305,15 @@ export default function HomePageClient({ latestArticles, locale }: HomePageClien
               <div key={index} className="p-5 bg-white/5 border border-border rounded-xl">
                 <div className="flex items-center gap-2 mb-2"><Clock className="w-4 h-4 text-[hsl(var(--nav-theme-light))]" /><span className="text-xs px-2 py-1 rounded-full bg-[hsl(var(--nav-theme)/0.1)] border border-[hsl(var(--nav-theme)/0.3)]">{entry.date}</span></div>
                 <h3 className="font-semibold mb-1">{entry.title}</h3>
-                <p className="text-sm text-muted-foreground">{entry.description}</p>
+                <p className="text-sm text-muted-foreground mb-2">{entry.summary}</p>
+                <ul className="space-y-1">
+                  {entry.changes.map((change: string, changeIndex: number) => (
+                    <li key={changeIndex} className="text-sm text-muted-foreground flex items-start gap-2">
+                      <span className="mt-1.5 h-1.5 w-1.5 rounded-full bg-[hsl(var(--nav-theme-light))]" />
+                      <span>{change}</span>
+                    </li>
+                  ))}
+                </ul>
               </div>
             ))}
           </div>
