@@ -1,0 +1,198 @@
+import { Map, Swords, Trophy, Target, Shield, Sparkles, Zap, Trash2, Coins } from 'lucide-react'
+import { Callout } from '@/components/mdx/Callout'
+import { Card, CardGrid } from '@/components/mdx/CardGrid'
+import { Checklist } from '@/components/mdx/Checklist'
+import { FAQ } from '@/components/mdx/FAQ'
+import { Steps, Step } from '@/components/mdx/Steps'
+import { Section } from '@/components/mdx/Section'
+
+export const metadata = {
+  title: "Build a Ring Farm: Quantas Mutações Você Pode Ter em uma Única Semente?",
+  description: "Domine a mecânica de mutação em Build a Ring Farm. Aprenda o limite de uma única mutação, multiplicadores para os tipos Arco-Íris e Radioativo, e como usar os Sprays.",
+  category: "Guia",
+  image: "https://placehold.co/800x400/1e293b/ffffff?text=Mutation+Limit+Guide",
+  date: "2026-05-19",
+  author: "Equipe Wiki Build a Ring Farm"
+}
+
+<Callout type="info" title="Guia Rápido">
+- **Limite de Mutação**: Em **build a ring farm, quantas mutações você pode ter em uma única semente** é a pergunta mais comum; a resposta é estritamente **uma** por vez.
+- **Multiplicadores**: As mutações fornecem enormes aumentos de renda, variando de **1.5x (Molhado)** a **5x (Arco-Íris)**.
+- **Aquisição**: Você pode obter mutações através de **Eventos Climáticos** aleatórios (baixa chance) ou comprando **Sprays** permanentes na Loja de Equipamentos.
+- **Remoção**: Se você quiser mudar uma mutação, deve primeiro usar o **Spray Ácido** (US$ 1 milhão) para limpar o slot atual.
+- **Regra Offline**: As mutações não se aplicam às suas plantas enquanto você estiver offline; você deve estar ativo durante o evento para que o RNG seja acionado.
+</Callout>
+
+<Section icon={Target} title="A Mecânica Central: Entendendo o Limite de Mutação">
+
+No mundo competitivo dos simuladores de fazenda do Roblox, maximizar sua renda por segundo é a diferença entre um jardim em dificuldades e um império multibilionário. Embora sementes de alta raridade e aumentos de nível forneçam uma base sólida, as mutações são os verdadeiros multiplicadores do jogo final. No entanto, muitos jogadores frequentemente se perguntam sobre o potencial de empilhamento desses bônus.
+
+A regra fundamental do jogo é simples: **uma única semente só pode ter uma mutação por vez.** Não há como empilhar uma mutação "Molhado" com uma "Radioativa" para obter um multiplicador combinado. Se sua planta já estiver mutada e um novo evento climático ocorrer, essa planta não será elegível para uma nova mutação, a menos que a anterior seja removida manualmente.
+
+<Callout type="warning" title="Aviso Anti-Empilhamento">
+Não desperdice seus Sprays caros tentando usá-los em uma planta que já possui uma mutação. O jogo não permitirá que o novo efeito se estabeleça, e você pode perder o recurso sem obter o benefício. Sempre verifique os efeitos visuais de sua planta antes de aplicar um novo Spray.
+</Callout>
+
+### Por que o Limite de Uma Mutação Importa
+Essa limitação força os jogadores a fazerem escolhas estratégicas. No início do jogo, você pode se contentar com uma mutação Molhado porque é fácil de obter durante os eventos de Chuva. No entanto, à medida que você avança para o jogo final, você desejará remover esses bônus de nível inferior para abrir espaço para o multiplicador Arco-Íris de 5x. Isso cria um ciclo de jogo de atualização e refinamento da eficiência de sua fazenda.
+
+| Recurso | Detalhes da Limitação |
+| :--- | :--- |
+| **Mutações Máximas** | **1 por semente/planta única** |
+| **Empilhamento** | **Não é possível** |
+| **Substituição** | **Requer remoção com Spray Ácido** |
+| **Prioridade de VFX** | **A mutação atual dita a aparência** |
+
+</Section>
+
+<Section icon={Sparkles} title="Catálogo de Mutações e Multiplicadores de Build a Ring Farm">
+
+Para construir uma fazenda de anéis verdadeiramente eficiente, você precisa saber exatamente o que cada mutação oferece. Cada mutação altera a aparência visual de sua planta com um VFX exclusivo e aplica um multiplicador de renda específico a cada unidade que a planta produz.
+
+<CardGrid cols={3}>
+  <Card title="Mutação Arco-Íris">
+    - **Multiplicador**: **5x Renda**
+    - **Aparência**: VFX dinâmico de mudança de cor
+    - **Raridade**: Mais alta (1% de chance de evento)
+  </Card>
+  <Card title="Mutação Radioativa">
+    - **Multiplicador**: **3x Renda**
+    - **Aparência**: Brilho verde neon
+    - **Raridade**: Alta (2% de chance de evento)
+  </Card>
+  <Card title="Mutação Vazio">
+    - **Multiplicador**: **2.25x Renda**
+    - **Aparência**: Silhueta preta
+    - **Raridade**: Média (3% de chance de evento)
+  </Card>
+</CardGrid>
+
+Embora a mutação Arco-Íris seja a rainha indiscutível do meta, obtê-la requer sorte extrema durante um Evento Galáctico ou um investimento massivo de US$ 1 trilhão na Loja de Equipamentos. Para jogadores de nível médio, mirar em Radioativa ou Vazio é frequentemente mais econômico.
+
+| Nome da Mutação | Multiplicador de Renda | Efeito Visual | Melhor Caso de Uso |
+| :--- | :--- | :--- | :--- |
+| **Molhado** | **1.5x** | Gotas d'água/Tonalidade azul | Preenchimento inicial do jogo |
+| **Congelado** | **1.75x** | Cristais de gelo/Brilho branco | Transição inicial-média |
+| **Vazio** | **2.25x** | Sombra escura/Preto | Estabilidade de meio de jogo |
+| **Radioativo** | **3.0x** | Partículas verdes neon | Cultivo de fim de jogo |
+| **Arco-Íris** | **5.0x** | Cores cíclicas | Fim de jogo absoluto |
+
+<Callout type="tip" title="Identificação Visual">
+Você pode facilmente saber se sua planta mutou olhando para sua cor. Se sua planta ficar verde neon, ela tem a mutação Radioativa. Se ela começar a alternar pelas cores do arco-íris, você acertou o jackpot.
+</Callout>
+
+</Section>
+
+<Section icon={Zap} title="Como Adquirir Mutações: Eventos vs. Sprays">
+
+Existem duas maneiras principais de mutar suas plantas em Build a Ring Farm. A primeira é passiva e depende de RNG (Geração de Números Aleatórios) durante eventos climáticos específicos. A segunda é ativa e envolve a compra de Sprays especializados na Loja de Equipamentos.
+
+### Método 1: Eventos Climáticos
+Os eventos climáticos ocorrem periodicamente enquanto você está no jogo. Cada evento corresponde a uma mutação específica. Se você estiver ativo durante esses eventos, cada planta não mutada em sua fazenda tem uma pequena porcentagem de chance de se transformar.
+
+<Steps>
+  <Step num="1" title="Fique Online">
+    As mutações só são acionadas enquanto você está ativamente na sessão do jogo. Você não pode obter mutações enquanto estiver offline.
+  </Step>
+  <Step num="2" title="Acione o Evento">
+    Espere por uma notificação climática específica (por exemplo, "Um Evento Galáctico começou!").
+  </Step>
+  <Step num="3" title="Verifique Suas Plantas">
+    Assim que o evento terminar, escaneie sua fazenda para ver quais sementes mutaram com sucesso.
+  </Step>
+</Steps>
+
+### Método 2: Sprays da Loja de Equipamentos
+Para aqueles que preferem um resultado garantido em vez de RNG, a Loja de Equipamentos oferece Sprays. Estes são itens de uso único que aplicam uma mutação específica a uma planta imediatamente. No entanto, os custos são exponenciais.
+
+| Tipo de Spray | Custo na Loja de Equipamentos | Taxa de Sucesso |
+| :--- | :--- | :--- |
+| **Spray Molhado** | **US$ 10 Milhões** | **100%** |
+| **Spray Congelado** | **US$ 750 Milhões** | **100%** |
+| **Spray Vazio** | **US$ 1 Bilhão** | **100%** |
+| **Spray Radioativo** | **US$ 10 Bilhões** | **100%** |
+| **Spray Arco-Íris** | **US$ 1 Trilhões** | **100%** |
+
+<Callout type="success" title="Estratégia de Investimento">
+Compre o Spray Arco-Íris apenas quando tiver uma fazenda totalmente expandida com sementes de alto nível. Gastar US$ 1 trilhão em uma planta de baixo nível é um retorno de investimento ruim. Use eventos para suas sementes de baixo nível e guarde seu dinheiro para as atualizações de nível superior.
+</Callout>
+
+</Section>
+
+<Section icon={Trash2} title="Como Remover e Substituir Mutações">
+
+Como você só pode ter uma mutação por semente, você eventualmente chegará a um ponto em que suas antigas mutações "Molhado" ou "Congelado" estão te atrasando. Para substituí-las, você deve usar o **Spray Ácido**.
+
+### O Processo do Spray Ácido
+O Spray Ácido está disponível na Loja de Equipamentos por **US$ 1 Milhão**. Embora isso possa parecer muito para uma ferramenta de "reset", é essencial para abrir espaço para multiplicadores de nível superior.
+
+| Item | Custo | Função |
+| :--- | :--- | :--- |
+| **Spray Ácido** | **US$ 1.000.000** | **Remove a mutação atual** |
+| **Resultado** | **N/A** | **A planta retorna ao estado base** |
+
+<Checklist
+  id="mutation-swap"
+  title="Lista de Verificação de Substituição de Mutação:"
+  items={[
+    "Identifique plantas com mutações de baixo nível (1.5x ou 1.75x)",
+    "Compre o Spray Ácido na Loja de Equipamentos",
+    "Aplique o Spray Ácido à planta alvo",
+    "Espere por um evento de alto nível (Nuclear/Galáxia) ou use um Spray de alto nível",
+    "Verifique se o novo multiplicador de 3x ou 5x está ativo"
+  ]}
+/>
+
+<Callout type="warning" title="Perda Permanente">
+Quando você usa o Spray Ácido, a mutação anterior desaparece para sempre. Você não recebe um reembolso por quaisquer Sprays usados anteriormente nessa planta. Sempre verifique duas vezes se você está pulverizando a planta correta.
+</Callout>
+
+</Section>
+
+<Section icon={Coins} title="Maximizando a Renda com Sinergias de Mutação">
+
+Embora a mutação em si seja um multiplicador fixo, sua eficácia é determinada pela renda base da semente à qual é aplicada. Um multiplicador de 5x em uma semente de US$ 100 rende apenas US$ 500, mas um multiplicador de 5x em uma semente de US$ 1 milhão rende US$ 5 milhões.
+
+### Lista de Níveis de Mutação para Progressão
+Para otimizar sua fazenda, siga esta progressão baseada em níveis para suas mutações:
+
+1.  **Início do Jogo (Sementes Iniciais)**: Não se preocupe com mutações. Concentre-se em expandir o tamanho do seu anel.
+2.  **Meio do Jogo (Sementes Raras)**: Use os eventos de **Chuva** e **Nevasca** para obter impulsos gratuitos de 1.5x e 1.75x.
+3.  **Fim do Jogo (Sementes Épicas/Lendárias)**: Comece a usar o **Spray Radioativo** (US$ 10 bilhões) para garantir um impulso de 3x em seus melhores ganhadores.
+4.  **Fim de Jogo (Sementes Míticas)**: Economize para o **Spray Arco-Íris** (US$ 1 trilhão). Esta é a única maneira de alcançar o topo das classificações.
+
+| Fase de Progressão | Mutação Recomendada | Método de Aquisição |
+| :--- | :--- | :--- |
+| **Iniciante** | **Nenhuma** | **Guarde seu dinheiro** |
+| **Em Desenvolvimento** | **Molhado / Congelado** | **Eventos Climáticos** |
+| **Avançado** | **Radioativo** | **Eventos ou Spray** |
+| **Mestre** | **Arco-Íris** | **Spray Arco-Íris** |
+
+<Callout type="info" title="Estratégia de Especialista">
+Muitos jogadores de ponta mantêm uma seção de "Fazenda de Mutações" onde colocam suas sementes mais lucrativas e esperam especificamente por Eventos Galácticos. Se o evento não conseguir mutá-las, eles recorrem à compra dos Sprays manualmente.
+</Callout>
+
+</Section>
+
+<Section icon={Swords} title="Perguntas Frequentes">
+
+<FAQ items={[
+  {
+    question: "Em build a ring farm, quantas mutações você pode ter em uma única semente?",
+    answer: "Você só pode ter exatamente uma mutação em uma única semente por vez. Empilhar múltiplas mutações não é suportado pela mecânica do jogo."
+  },
+  {
+    question: "As mutações permanecem na planta se eu sair do jogo?",
+    answer: "Sim, uma vez que uma planta é mutada, ela permanece mutada até que você use um Spray Ácido para removê-la. No entanto, novas mutações não podem ser adquiridas enquanto você estiver offline."
+  },
+  {
+    question: "Qual mutação dá mais dinheiro?",
+    answer: "A mutação Arco-Íris oferece o maior aumento de renda com um multiplicador de 5x. É seguida pela mutação Radioativa com 3x."
+  },
+  {
+    question: "Posso obter uma mutação Arco-Íris de graça?",
+    answer: "Sim, você tem 1% de chance de uma planta mutar durante um Evento Galáctico. É muito raro, mas permite que você ignore o custo de US$ 1 trilhão do Spray Arco-Íris."
+  }
+]} />
+
+</Section>
