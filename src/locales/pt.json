@@ -11,12 +11,13 @@
     }
   },
   "nav": {
-    "guides": "Guias",
-    "crafting": "Criação",
-    "items": "Itens",
-    "biomes": "Biomas",
-    "building": "Construção",
-    "support": "Suporte"
+    "codes": "Codes",
+    "guide": "Guide",
+    "mutations": "Mutations",
+    "plants": "Plants",
+    "rarities": "Rarities",
+    "farm": "Farm",
+    "updates": "Updates"
   },
   "common": {
     "home": "Início",

@@ -10,7 +10,15 @@
       "twitterDescription": "Build A Ring Farm Wiki covers codes, seeds, mutations, upgrades, money routes, and update notes for Roblox players."
     }
   },
-  "nav": {},
+  "nav": {
+    "codes": "Codes",
+    "guide": "Guide",
+    "mutations": "Mutations",
+    "plants": "Plants",
+    "rarities": "Rarities",
+    "farm": "Farm",
+    "updates": "Updates"
+  },
   "common": {
     "home": "Home",
     "more": "More",
@@ -33,10 +41,22 @@
     "getFreeCodesCTA": "Read Beginner Guide",
     "playOnRobloxCTA": "Play on Roblox",
     "stats": {
-      "stat1": { "value": "18,027", "label": "Players Online" },
-      "stat2": { "value": "5,930,222", "label": "Total Visits" },
-      "stat3": { "value": "98.511%", "label": "Approval Rating" },
-      "stat4": { "value": "6", "label": "Active Codes" }
+      "stat1": {
+        "value": "18,027",
+        "label": "Players Online"
+      },
+      "stat2": {
+        "value": "5,930,222",
+        "label": "Total Visits"
+      },
+      "stat3": {
+        "value": "98.511%",
+        "label": "Approval Rating"
+      },
+      "stat4": {
+        "value": "6",
+        "label": "Active Codes"
+      }
     }
   },
   "gameFeature": {
@@ -48,14 +68,46 @@
     "titleHighlight": "Modules",
     "subtitle": "Jump to any Build A Ring Farm guide section below.",
     "cards": [
-      { "icon": "BookOpen", "title": "Build A Ring Farm Codes", "description": "Active rewards, redemption steps, and quick fixes" },
-      { "icon": "Sparkles", "title": "Build A Ring Farm Beginner Guide", "description": "First-hour route and early mistakes to avoid" },
-      { "icon": "Hammer", "title": "Build A Ring Farm Seeds Tier List", "description": "What to keep, replace, and level first" },
-      { "icon": "Package", "title": "Build A Ring Farm Mutations Guide", "description": "Mutation multipliers and best farming targets" },
-      { "icon": "Eye", "title": "Build A Ring Farm Money Farming", "description": "Fast cash loops and reinvestment priorities" },
-      { "icon": "Settings", "title": "Build A Ring Farm Upgrades Guide", "description": "Saw, sprinkler, luck, and ring expansion priorities" },
-      { "icon": "Star", "title": "Build A Ring Farm Gear and Sprays", "description": "When to use sprays, fertilizer, and boost items" },
-      { "icon": "Clock", "title": "Build A Ring Farm Update Log", "description": "Recent code and feature changes" }
+      {
+        "icon": "BookOpen",
+        "title": "Build A Ring Farm Codes",
+        "description": "Active rewards, redemption steps, and quick fixes"
+      },
+      {
+        "icon": "Sparkles",
+        "title": "Build A Ring Farm Beginner Guide",
+        "description": "First-hour route and early mistakes to avoid"
+      },
+      {
+        "icon": "Hammer",
+        "title": "Build A Ring Farm Seeds Tier List",
+        "description": "What to keep, replace, and level first"
+      },
+      {
+        "icon": "Package",
+        "title": "Build A Ring Farm Mutations Guide",
+        "description": "Mutation multipliers and best farming targets"
+      },
+      {
+        "icon": "Eye",
+        "title": "Build A Ring Farm Money Farming",
+        "description": "Fast cash loops and reinvestment priorities"
+      },
+      {
+        "icon": "Settings",
+        "title": "Build A Ring Farm Upgrades Guide",
+        "description": "Saw, sprinkler, luck, and ring expansion priorities"
+      },
+      {
+        "icon": "Star",
+        "title": "Build A Ring Farm Gear and Sprays",
+        "description": "When to use sprays, fertilizer, and boost items"
+      },
+      {
+        "icon": "Clock",
+        "title": "Build A Ring Farm Update Log",
+        "description": "Recent code and feature changes"
+      }
     ]
   },
   "modules": {
@@ -63,43 +115,106 @@
       "title": "Build A Ring Farm Codes",
       "intro": "Redeem active Build A Ring Farm codes for seed packs, sprays, fertilizer, and time skips that accelerate early progression.",
       "items": [
-        { "code": "UPDATE2", "reward": "1 Tropical Seed Pack", "status": "Active" },
-        { "code": "THANKYOU", "reward": "1 Autumn Spray", "status": "Active" },
-        { "code": "BARF:3", "reward": "1 Acid Spray", "status": "Active" },
-        { "code": "100KVISITS", "reward": "5-minute Time Skip", "status": "Active" },
-        { "code": "2KLIKES", "reward": "1 Tropical Seed Pack", "status": "Active" },
-        { "code": "UPDATE1", "reward": "3 Strong Fertilizers", "status": "Active" }
+        {
+          "code": "UPDATE2",
+          "reward": "1 Tropical Seed Pack",
+          "status": "Active"
+        },
+        {
+          "code": "THANKYOU",
+          "reward": "1 Autumn Spray",
+          "status": "Active"
+        },
+        {
+          "code": "BARF:3",
+          "reward": "1 Acid Spray",
+          "status": "Active"
+        },
+        {
+          "code": "100KVISITS",
+          "reward": "5-minute Time Skip",
+          "status": "Active"
+        },
+        {
+          "code": "2KLIKES",
+          "reward": "1 Tropical Seed Pack",
+          "status": "Active"
+        },
+        {
+          "code": "UPDATE1",
+          "reward": "3 Strong Fertilizers",
+          "status": "Active"
+        }
       ]
     },
     "ringFarmBeginnerGuide": {
       "title": "Build A Ring Farm Beginner Guide",
       "intro": "Build A Ring Farm growth is fastest when you keep plots active, sell on rhythm, and focus upgrades that directly increase harvest speed and value.",
       "steps": [
-        { "title": "Plant Every Open Plot", "description": "Keep each slot productive so your farm never pauses between harvest windows." },
-        { "title": "Push Saw Yield Early", "description": "Prioritize saw output first so each cycle returns enough cash for meaningful upgrades." },
-        { "title": "Upgrade Sprinkler Power and Range", "description": "Stronger sprinklers keep outer plots growing at the same pace as central plots." },
-        { "title": "Roll Better Seeds and Replace Starters", "description": "Swap low-value crops quickly once stronger rarity seeds appear." },
-        { "title": "Use Boost Items on High-Value Crops", "description": "Save fertilizer and premium sprays for crops with strong base value." }
+        {
+          "title": "Plant Every Open Plot",
+          "description": "Keep each slot productive so your farm never pauses between harvest windows."
+        },
+        {
+          "title": "Push Saw Yield Early",
+          "description": "Prioritize saw output first so each cycle returns enough cash for meaningful upgrades."
+        },
+        {
+          "title": "Upgrade Sprinkler Power and Range",
+          "description": "Stronger sprinklers keep outer plots growing at the same pace as central plots."
+        },
+        {
+          "title": "Roll Better Seeds and Replace Starters",
+          "description": "Swap low-value crops quickly once stronger rarity seeds appear."
+        },
+        {
+          "title": "Use Boost Items on High-Value Crops",
+          "description": "Save fertilizer and premium sprays for crops with strong base value."
+        }
       ]
     },
     "ringFarmSeedsTierList": {
       "title": "Build A Ring Farm Seeds Tier List",
       "intro": "Use this Build A Ring Farm seed ladder to decide when to replace weak crops and where to spend your upgrade budget.",
       "tiers": [
-        { "name": "S Tier Seeds", "description": "Top-end rarity pulls are your best long-term slots and should receive premium boosts first." },
-        { "name": "A Tier Seeds", "description": "Strong mid-game crops that carry income while you chase elite and exotic pulls." },
-        { "name": "B Tier Seeds", "description": "Reliable transition crops that outperform starters and fund early expansion." },
-        { "name": "Starter Seeds", "description": "Useful for opening minutes, but replace quickly instead of over-leveling them." }
+        {
+          "name": "S Tier Seeds",
+          "description": "Top-end rarity pulls are your best long-term slots and should receive premium boosts first."
+        },
+        {
+          "name": "A Tier Seeds",
+          "description": "Strong mid-game crops that carry income while you chase elite and exotic pulls."
+        },
+        {
+          "name": "B Tier Seeds",
+          "description": "Reliable transition crops that outperform starters and fund early expansion."
+        },
+        {
+          "name": "Starter Seeds",
+          "description": "Useful for opening minutes, but replace quickly instead of over-leveling them."
+        }
       ]
     },
     "ringFarmMutationsGuide": {
       "title": "Build A Ring Farm Mutations Guide",
       "intro": "Mutations in Build A Ring Farm multiply crop value and are one of the largest profit levers once your farm is stable.",
       "entries": [
-        { "name": "Value Multipliers", "description": "Target high-multiplier mutations on your highest-value crops, not starter plants." },
-        { "name": "Spray Timing", "description": "Apply sprays after crop quality and upgrade levels are already competitive." },
-        { "name": "Mutation Routing", "description": "Build farming cycles around repeatable mutation sources and event windows." },
-        { "name": "Recovery Strategy", "description": "Use utility sprays when a bad mutation blocks income-focused setups." }
+        {
+          "name": "Value Multipliers",
+          "description": "Target high-multiplier mutations on your highest-value crops, not starter plants."
+        },
+        {
+          "name": "Spray Timing",
+          "description": "Apply sprays after crop quality and upgrade levels are already competitive."
+        },
+        {
+          "name": "Mutation Routing",
+          "description": "Build farming cycles around repeatable mutation sources and event windows."
+        },
+        {
+          "name": "Recovery Strategy",
+          "description": "Use utility sprays when a bad mutation blocks income-focused setups."
+        }
       ]
     },
     "ringFarmMoneyFarming": {
@@ -202,16 +317,76 @@
       "title": "Build A Ring Farm Gear and Sprays",
       "intro": "Build A Ring Farm gear rewards are strongest when they are saved for the plots that already make good money.",
       "items": [
-        { "item": "Tropical Seed Pack", "type": "Seed pack", "howToGet": "Code rewards from UPDATE2 and 2KLIKES", "effect": "Gives a seed pack reward for expanding your crop options.", "bestUse": "Open when you are ready to replace low-tier crops with stronger seeds." },
-        { "item": "Strong Fertilizer", "type": "Fertilizer", "howToGet": "Code reward from UPDATE1", "effect": "Used as a crop boost item.", "bestUse": "Spend it on your highest-value crop instead of spreading it across weak starter plants." },
-        { "item": "5 Minute Time Skip", "type": "Time skip", "howToGet": "Code reward from 100KVISITS", "effect": "Skips 5 minutes of farm progress.", "bestUse": "Use after planting your best available crops so the skipped time produces better value." },
-        { "item": "Autumn Spray", "type": "Spray", "howToGet": "Code reward from THANKYOU", "effect": "Seasonal spray reward.", "bestUse": "Save for a valuable crop slot instead of using it on a crop you plan to replace." },
-        { "item": "Acid Spray", "type": "Mutation utility spray", "howToGet": "Code reward from BARF:3 or Gear Shop for $1M", "effect": "Removes the current mutation from a plant.", "bestUse": "Use when a strong crop has the wrong mutation and you want to reset it for a better setup." },
-        { "item": "Wet Spray", "type": "Mutation spray", "howToGet": "Gear Shop for $10M", "effect": "Applies the Wet mutation path, which gives a 1.5x income multiplier.", "bestUse": "Good first mutation target for early valuable crops." },
-        { "item": "Frozen Spray", "type": "Mutation spray", "howToGet": "Gear Shop for $750M", "effect": "Applies the Frozen mutation path, which gives a 1.75x income multiplier.", "bestUse": "Use after your farm can comfortably afford mid-game spray costs." },
-        { "item": "Void Spray", "type": "Mutation spray", "howToGet": "Gear Shop for $1B", "effect": "Applies the Void mutation path, which gives a 2.25x income multiplier.", "bestUse": "Use on crops you expect to keep through several upgrade cycles." },
-        { "item": "Radioactive Spray", "type": "Mutation spray", "howToGet": "Gear Shop for $10B", "effect": "Applies the Radioactive mutation path, which gives a 3x income multiplier.", "bestUse": "Use on high-rarity crops with strong base value." },
-        { "item": "Rainbow Spray", "type": "Mutation spray", "howToGet": "Gear Shop for $1T", "effect": "Applies the Rainbow mutation path, which gives a 5x income multiplier.", "bestUse": "Save for your best crop because it is the strongest listed mutation boost." }
+        {
+          "item": "Tropical Seed Pack",
+          "type": "Seed pack",
+          "howToGet": "Code rewards from UPDATE2 and 2KLIKES",
+          "effect": "Gives a seed pack reward for expanding your crop options.",
+          "bestUse": "Open when you are ready to replace low-tier crops with stronger seeds."
+        },
+        {
+          "item": "Strong Fertilizer",
+          "type": "Fertilizer",
+          "howToGet": "Code reward from UPDATE1",
+          "effect": "Used as a crop boost item.",
+          "bestUse": "Spend it on your highest-value crop instead of spreading it across weak starter plants."
+        },
+        {
+          "item": "5 Minute Time Skip",
+          "type": "Time skip",
+          "howToGet": "Code reward from 100KVISITS",
+          "effect": "Skips 5 minutes of farm progress.",
+          "bestUse": "Use after planting your best available crops so the skipped time produces better value."
+        },
+        {
+          "item": "Autumn Spray",
+          "type": "Spray",
+          "howToGet": "Code reward from THANKYOU",
+          "effect": "Seasonal spray reward.",
+          "bestUse": "Save for a valuable crop slot instead of using it on a crop you plan to replace."
+        },
+        {
+          "item": "Acid Spray",
+          "type": "Mutation utility spray",
+          "howToGet": "Code reward from BARF:3 or Gear Shop for $1M",
+          "effect": "Removes the current mutation from a plant.",
+          "bestUse": "Use when a strong crop has the wrong mutation and you want to reset it for a better setup."
+        },
+        {
+          "item": "Wet Spray",
+          "type": "Mutation spray",
+          "howToGet": "Gear Shop for $10M",
+          "effect": "Applies the Wet mutation path, which gives a 1.5x income multiplier.",
+          "bestUse": "Good first mutation target for early valuable crops."
+        },
+        {
+          "item": "Frozen Spray",
+          "type": "Mutation spray",
+          "howToGet": "Gear Shop for $750M",
+          "effect": "Applies the Frozen mutation path, which gives a 1.75x income multiplier.",
+          "bestUse": "Use after your farm can comfortably afford mid-game spray costs."
+        },
+        {
+          "item": "Void Spray",
+          "type": "Mutation spray",
+          "howToGet": "Gear Shop for $1B",
+          "effect": "Applies the Void mutation path, which gives a 2.25x income multiplier.",
+          "bestUse": "Use on crops you expect to keep through several upgrade cycles."
+        },
+        {
+          "item": "Radioactive Spray",
+          "type": "Mutation spray",
+          "howToGet": "Gear Shop for $10B",
+          "effect": "Applies the Radioactive mutation path, which gives a 3x income multiplier.",
+          "bestUse": "Use on high-rarity crops with strong base value."
+        },
+        {
+          "item": "Rainbow Spray",
+          "type": "Mutation spray",
+          "howToGet": "Gear Shop for $1T",
+          "effect": "Applies the Rainbow mutation path, which gives a 5x income multiplier.",
+          "bestUse": "Save for your best crop because it is the strongest listed mutation boost."
+        }
       ]
     },
     "ringFarmUpdateLog": {
@@ -222,25 +397,44 @@
           "date": "May 18, 2026",
           "title": "UPD 2 code rewards added",
           "summary": "Three newer rewards were added for the UPD 2 wave.",
-          "changes": ["UPDATE2 gives 1 Tropical Seed Pack", "THANKYOU gives 1 Autumn Spray", "BARF:3 gives 1 Acid Spray"]
+          "changes": [
+            "UPDATE2 gives 1 Tropical Seed Pack",
+            "THANKYOU gives 1 Autumn Spray",
+            "BARF:3 gives 1 Acid Spray"
+          ]
         },
         {
           "date": "May 18, 2026",
           "title": "Active code list checked",
           "summary": "The currently listed active rewards include seed packs, sprays, fertilizer, and a time skip.",
-          "changes": ["100KVISITS remains listed as active", "2KLIKES gives 1 Tropical Seed Pack", "UPDATE1 gives 3 Strong Fertilizers", "No expired codes are listed"]
+          "changes": [
+            "100KVISITS remains listed as active",
+            "2KLIKES gives 1 Tropical Seed Pack",
+            "UPDATE1 gives 3 Strong Fertilizers",
+            "No expired codes are listed"
+          ]
         },
         {
           "date": "May 14, 2026",
           "title": "Mutation multipliers tracked",
           "summary": "The listed mutation set includes Wet, Frozen, Void, Radioactive, and Rainbow.",
-          "changes": ["Wet gives 1.5x income", "Frozen gives 1.75x income", "Void gives 2.25x income", "Radioactive gives 3x income", "Rainbow gives 5x income"]
+          "changes": [
+            "Wet gives 1.5x income",
+            "Frozen gives 1.75x income",
+            "Void gives 2.25x income",
+            "Radioactive gives 3x income",
+            "Rainbow gives 5x income"
+          ]
         },
         {
           "date": "Current official page",
           "title": "Official gameplay notes",
           "summary": "The official Roblox page describes the core loop as growing and harvesting plants, upgrading and expanding the farm, selling plants for cash, and earning while offline.",
-          "changes": ["Offline earnings are part of the official description", "The game is listed as new", "Players are encouraged to like the game and join the group for rewards"]
+          "changes": [
+            "Offline earnings are part of the official description",
+            "The game is listed as new",
+            "Players are encouraged to like the game and join the group for rewards"
+          ]
         }
       ]
     }
@@ -250,10 +444,22 @@
     "titleHighlight": "FAQ",
     "subtitle": "Common player questions about Build A Ring Farm progression and rewards.",
     "questions": [
-      { "question": "How often are Build A Ring Farm codes updated?", "answer": "Build A Ring Farm codes usually update around milestones, patches, and engagement goals. Check the codes module regularly for the latest list." },
-      { "question": "What should I upgrade first in Build A Ring Farm?", "answer": "In Build A Ring Farm, prioritize Saw Yield and Sprinkler Power first, then expand range and seed quality as your income stabilizes." },
-      { "question": "Are mutations important in Build A Ring Farm?", "answer": "Yes, Build A Ring Farm mutations are a major part of high-income farming and should be applied to top-value crops." },
-      { "question": "Can Build A Ring Farm earn progress while offline?", "answer": "Build A Ring Farm supports offline earnings, so preparing your best crop layout before logout improves passive gains." }
+      {
+        "question": "How often are Build A Ring Farm codes updated?",
+        "answer": "Build A Ring Farm codes usually update around milestones, patches, and engagement goals. Check the codes module regularly for the latest list."
+      },
+      {
+        "question": "What should I upgrade first in Build A Ring Farm?",
+        "answer": "In Build A Ring Farm, prioritize Saw Yield and Sprinkler Power first, then expand range and seed quality as your income stabilizes."
+      },
+      {
+        "question": "Are mutations important in Build A Ring Farm?",
+        "answer": "Yes, Build A Ring Farm mutations are a major part of high-income farming and should be applied to top-value crops."
+      },
+      {
+        "question": "Can Build A Ring Farm earn progress while offline?",
+        "answer": "Build A Ring Farm supports offline earnings, so preparing your best crop layout before logout improves passive gains."
+      }
     ]
   },
   "cta": {
@@ -261,5 +467,147 @@
     "description": "Follow Build A Ring Farm strategy updates, reward changes, and module refreshes.",
     "joinCommunity": "Join Community",
     "joinGame": "Play Build A Ring Farm"
+  },
+  "pages": {
+    "codes": {
+      "title": "Build A Ring Farm Codes",
+      "description": "Latest Build A Ring Farm codes for free seed packs, sprays, fertilizers, and time skips.",
+      "metaTitle": "Build A Ring Farm Codes - Active Rewards & Redeem Guide",
+      "metaDescription": "Use active Build A Ring Farm codes to claim free seed packs, sprays, fertilizers, and time skips. Updated with current rewards and quick redeem steps.",
+      "categoryLabel": "REDEEM CODES",
+      "whatIs": "What are Build A Ring Farm Codes?",
+      "whatIsDescription": "Build A Ring Farm codes are redeemable reward strings released by the developers that grant free progression items such as seed packs, fertilizer, spray tools, and time-skip boosts.",
+      "why": "Why check this codes page?",
+      "whySteps": {
+        "step1Title": "Claim free progression items",
+        "step1Description": "Use rewards to speed up seed upgrades and mutation setup without spending extra currency.",
+        "step2Title": "Avoid expired-code confusion",
+        "step2Description": "Keep one clean list of active rewards and update notes so you can redeem quickly.",
+        "step3Title": "Plan boosts around your farm stage",
+        "step3Description": "Use each reward at the right time to convert freebies into stronger income growth."
+      },
+      "featured": "Featured & Essential",
+      "all": "All Codes"
+    },
+    "guide": {
+      "title": "Build A Ring Farm Guide",
+      "description": "Core Build A Ring Farm guides covering beginner flow, controls, progression, and practical farming tips.",
+      "metaTitle": "Build A Ring Farm Guide - Beginner Path, Controls & Progression",
+      "metaDescription": "Read Build A Ring Farm guide articles for first-session routing, control settings, progression milestones, and efficient upgrade decisions.",
+      "categoryLabel": "CORE GUIDES",
+      "whatIs": "What is the Build A Ring Farm Guide category?",
+      "whatIsDescription": "This category collects practical how-to articles for Build A Ring Farm, from first login actions to longer-term strategy, including controls and noob-to-pro progression paths.",
+      "why": "Why read these guide articles?",
+      "whySteps": {
+        "step1Title": "Start with a cleaner early route",
+        "step1Description": "Follow proven first-hour priorities so your cash loop stabilizes faster.",
+        "step2Title": "Fix controls before grinding",
+        "step2Description": "Apply controller and settings recommendations to reduce friction during repeated farm cycles.",
+        "step3Title": "Scale efficiently into mid game",
+        "step3Description": "Use progression checklists to time ring expansion and machine upgrades correctly."
+      },
+      "featured": "Featured & Essential",
+      "all": "All Guide Articles"
+    },
+    "mutations": {
+      "title": "Build A Ring Farm Mutations",
+      "description": "Build A Ring Farm mutation mechanics, stacking rules, spray usage, and best multiplier targets.",
+      "metaTitle": "Build A Ring Farm Mutations - Stacking, Sprays & Best Choices",
+      "metaDescription": "Learn how Build A Ring Farm mutations work, when to apply sprays, which multipliers matter most, and how to route mutation value into steady profit.",
+      "categoryLabel": "MUTATION SYSTEM",
+      "whatIs": "What are Build A Ring Farm Mutations?",
+      "whatIsDescription": "Mutations are crop modifiers in Build A Ring Farm that boost value multipliers. They are a major lever for income spikes when combined with high-value seeds and proper spray timing.",
+      "why": "Why use mutation guides?",
+      "whySteps": {
+        "step1Title": "Prioritize top multiplier setups",
+        "step1Description": "Target your strongest crops first instead of spreading sprays across low-value plots.",
+        "step2Title": "Understand stacking and limits",
+        "step2Description": "Use clear rules so you do not waste rare sprays on weak or incompatible scenarios.",
+        "step3Title": "Time mutation investment better",
+        "step3Description": "Apply expensive boosts when your farm can convert them into sustained profit."
+      },
+      "featured": "Featured & Essential",
+      "all": "All Mutation Articles"
+    },
+    "plants": {
+      "title": "Build A Ring Farm Plants",
+      "description": "Seed and plant coverage for Build A Ring Farm, including best seeds, tier lists, and replacement priorities.",
+      "metaTitle": "Build A Ring Farm Plants - Best Seeds, Tier Lists & Crop Picks",
+      "metaDescription": "Compare Build A Ring Farm plants and seeds by value, rarity progression, and practical usage to decide what to keep, replace, and boost first.",
+      "categoryLabel": "SEEDS & PLANTS",
+      "whatIs": "What does the Build A Ring Farm Plants category cover?",
+      "whatIsDescription": "These articles focus on Build A Ring Farm seed and plant decisions, including rarity progression, best-seed rankings, and crop replacement timing during expansion.",
+      "why": "Why use the plants category?",
+      "whySteps": {
+        "step1Title": "Pick better crops sooner",
+        "step1Description": "Identify weak starter plants early and replace them with stronger long-term options.",
+        "step2Title": "Use tier lists as upgrade filters",
+        "step2Description": "Direct your fertilizers and sprays toward crops with higher return potential.",
+        "step3Title": "Reduce wasted growth cycles",
+        "step3Description": "Focus plots on plants that align with your current ring size and machine levels."
+      },
+      "featured": "Featured & Essential",
+      "all": "All Plant Articles"
+    },
+    "rarities": {
+      "title": "Build A Ring Farm Rarities",
+      "description": "Build A Ring Farm rarity charts and value references for crops, seeds, and upgrade planning.",
+      "metaTitle": "Build A Ring Farm Rarities - Rarity Chart & Crop Value References",
+      "metaDescription": "Use Build A Ring Farm rarity and value references to evaluate crop strength, compare tiers, and decide where to invest sprays and upgrades.",
+      "categoryLabel": "RARITY DATA",
+      "whatIs": "What are Build A Ring Farm rarity references?",
+      "whatIsDescription": "Rarity references organize Build A Ring Farm crop and seed tiers into comparison-friendly formats so players can judge upgrade value with less guesswork.",
+      "why": "Why review rarity and value charts?",
+      "whySteps": {
+        "step1Title": "Benchmark crop potential quickly",
+        "step1Description": "Compare tiers and values before spending large amounts on boosts or rerolls.",
+        "step2Title": "Set clearer replacement thresholds",
+        "step2Description": "Know when a crop has reached its practical ceiling and should be swapped out.",
+        "step3Title": "Support data-driven farm planning",
+        "step3Description": "Use reference tables to align upgrade spending with the highest-value outcomes."
+      },
+      "featured": "Featured & Essential",
+      "all": "All Rarity Articles"
+    },
+    "farm": {
+      "title": "Build A Ring Farm Farm",
+      "description": "Money-loop and layout strategy for Build A Ring Farm, including scaling routes for ring expansion and automation.",
+      "metaTitle": "Build A Ring Farm Farm - Money Loops, Layouts & Expansion Routes",
+      "metaDescription": "Improve Build A Ring Farm income with money-farm loops, ring layout guidance, and step-by-step expansion strategy for stable growth.",
+      "categoryLabel": "FARM STRATEGY",
+      "whatIs": "What is the Build A Ring Farm Farm category?",
+      "whatIsDescription": "This category covers farm-optimization articles for Build A Ring Farm, including money routes, layout setups, automation direction, and high-level scaling habits.",
+      "why": "Why follow farm strategy articles?",
+      "whySteps": {
+        "step1Title": "Build a repeatable cash loop",
+        "step1Description": "Use consistent harvest-sell-reinvest patterns instead of random upgrade spending.",
+        "step2Title": "Expand rings with coverage in mind",
+        "step2Description": "Match new plot unlocks with saw and sprinkler range so outer plots do not sit idle.",
+        "step3Title": "Push higher-income layouts safely",
+        "step3Description": "Adopt tested farm patterns that improve returns without breaking progression flow."
+      },
+      "featured": "Featured & Essential",
+      "all": "All Farm Articles"
+    },
+    "updates": {
+      "title": "Build A Ring Farm Updates",
+      "description": "Patch-focused Build A Ring Farm updates covering new codes, feature changes, and gameplay-impact notes.",
+      "metaTitle": "Build A Ring Farm Updates - New Codes, Patch Notes & Changes",
+      "metaDescription": "Track Build A Ring Farm update coverage, including new codes, content changes, and practical notes on how patches affect progression.",
+      "categoryLabel": "UPDATE TRACKER",
+      "whatIs": "What is in the Build A Ring Farm Updates category?",
+      "whatIsDescription": "Update articles summarize Build A Ring Farm patch waves, newly added rewards, and feature-level changes so players can adapt routes quickly.",
+      "why": "Why monitor update articles?",
+      "whySteps": {
+        "step1Title": "Catch new rewards early",
+        "step1Description": "Identify newly released code rewards and claim them before planning the next grind session.",
+        "step2Title": "Adjust strategy after patch shifts",
+        "step2Description": "React to balance and content changes that alter farm efficiency or upgrade order.",
+        "step3Title": "Keep your roadmap current",
+        "step3Description": "Use update summaries to align short-term actions with the latest game direction."
+      },
+      "featured": "Featured & Essential",
+      "all": "All Update Articles"
+    }
   }
 }
