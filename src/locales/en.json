@@ -1,13 +1,13 @@
 {
   "seo": {
     "home": {
-      "title": "Build A Ring Farm Wiki - Crafting, Biomes & Achievements",
-      "description": "Build A Ring Farm Wiki covers crafting, biomes, creatures, items, achievements, endings, and survival tips for the surreal voxel sandbox adventure on Roblox.",
-      "keywords": "Build A Ring Farm, Build A Ring Farm wiki, crafting, biomes, achievements, survival, Roblox",
-      "ogTitle": "Build A Ring Farm Wiki - Crafting, Biomes & Achievements",
-      "ogDescription": "Build A Ring Farm Wiki covers crafting, biomes, creatures, items, achievements, endings, and survival tips for the surreal voxel sandbox adventure on Roblox.",
-      "twitterTitle": "Build A Ring Farm Wiki - Crafting, Biomes & Achievements",
-      "twitterDescription": "Build A Ring Farm Wiki covers crafting, biomes, creatures, items, achievements, and survival tips for the surreal voxel sandbox on Roblox."
+      "title": "Build A Ring Farm Wiki - Codes, Seeds & Upgrades",
+      "description": "Build A Ring Farm Wiki covers codes, seeds, mutations, upgrades, money routes, and update notes for Roblox players.",
+      "keywords": "Build A Ring Farm, Build A Ring Farm codes, Build A Ring Farm seeds, Build A Ring Farm upgrades, Build A Ring Farm mutations",
+      "ogTitle": "Build A Ring Farm Wiki - Codes, Seeds & Upgrades",
+      "ogDescription": "Build A Ring Farm Wiki covers codes, seeds, mutations, upgrades, money routes, and update notes for Roblox players.",
+      "twitterTitle": "Build A Ring Farm Wiki - Codes, Seeds & Upgrades",
+      "twitterDescription": "Build A Ring Farm Wiki covers codes, seeds, mutations, upgrades, money routes, and update notes for Roblox players."
     }
   },
   "nav": {},
@@ -30,896 +30,134 @@
     "badge": "Roblox farming tycoon with crops, upgrades, offline income, and seed-pack rewards",
     "title": "Build a Ring Farm Wiki",
     "description": "Grow crops, unlock seeds, upgrade machines, expand your ring farm, redeem codes, and optimize offline income in Build a Ring Farm.",
-    "getFreeCodesCTA": "Explore Beginner Guide",
+    "getFreeCodesCTA": "Read Beginner Guide",
     "playOnRobloxCTA": "Play on Roblox",
     "stats": {
-      "stat1": {
-        "value": "18,027",
-        "label": "Players Online"
-      },
-      "stat2": {
-        "value": "5,930,222",
-        "label": "Total Visits"
-      },
-      "stat3": {
-        "value": "98.511%",
-        "label": "Approval Rating"
-      },
-      "stat4": {
-        "value": "6",
-        "label": "Active Codes"
-      }
+      "stat1": { "value": "18,027", "label": "Players Online" },
+      "stat2": { "value": "5,930,222", "label": "Total Visits" },
+      "stat3": { "value": "98.511%", "label": "Approval Rating" },
+      "stat4": { "value": "6", "label": "Active Codes" }
     }
   },
   "gameFeature": {
     "title": "Build A Ring Farm Gameplay",
-    "description": "Explore surreal biomes, fuse items with Apotheosis, and survive strange creatures in this dreamlike voxel sandbox on Roblox."
+    "description": "Plan your crops, push upgrades, and build a high-income ring layout in Roblox."
   },
   "tools": {
     "title": "Build A Ring Farm",
-    "titleHighlight": "Resources",
-    "subtitle": "Everything you need to explore, craft, and survive in Build A Ring Farm",
+    "titleHighlight": "Modules",
+    "subtitle": "Jump to any Build A Ring Farm guide section below.",
     "cards": [
-      {
-        "icon": "BookOpen",
-        "title": "Beginner Guide",
-        "description": "First steps, exploration, and early progression"
-      },
-      {
-        "icon": "Sparkles",
-        "title": "Apotheosis Crafting",
-        "description": "Freeform fusion system and early recipes"
-      },
-      {
-        "icon": "Hammer",
-        "title": "Tools and Weapons",
-        "description": "Frost Pick, Azrael, Hookshot, and more"
-      },
-      {
-        "icon": "Package",
-        "title": "Storage and Inventory",
-        "description": "Cache Cubes, Cabinets, and Qualia storage"
-      },
-      {
-        "icon": "Home",
-        "title": "Qualia and Base Building",
-        "description": "Personal Qualia and home base setup"
-      },
-      {
-        "icon": "Eye",
-        "title": "World Regions",
-        "description": "Fog Meadow, Essence Morass, and more"
-      },
-      {
-        "icon": "AlertTriangle",
-        "title": "Creatures and Enemies",
-        "description": "Manikins, spiders, and how to survive"
-      },
-      {
-        "icon": "ArrowRight",
-        "title": "Mobility Gear",
-        "description": "Hookshot, Glider Glove, Bee Glider"
-      },
-      {
-        "icon": "TrendingUp",
-        "title": "Farming and Growth",
-        "description": "Seed progression and material farming"
-      },
-      {
-        "icon": "Star",
-        "title": "Best Early Unlocks",
-        "description": "Priority upgrades for the first hour"
-      },
-      {
-        "icon": "ClipboardCheck",
-        "title": "Achievement Tracker",
-        "description": "All 19 Roblox achievements and conditions"
-      },
-      {
-        "icon": "MessageCircle",
-        "title": "Singleplayer FAQ",
-        "description": "Platform, price, co-op, and language questions"
-      },
-      {
-        "icon": "Gamepad2",
-        "title": "Roblox Deck and Controller",
-        "description": "Proton 9.0.4 setup and controller tips"
-      },
-      {
-        "icon": "Settings",
-        "title": "Settings and Accessibility",
-        "description": "Hide hands, Vulkan, and display options"
-      },
-      {
-        "icon": "Clock",
-        "title": "Updates and Patch Notes",
-        "description": "Recent fixes and roadmap notes"
-      },
-      {
-        "icon": "Shield",
-        "title": "Crash Fix",
-        "description": "Vulkan check, logs path, and bug reporting"
-      }
+      { "icon": "BadgeDollarSign", "title": "Build A Ring Farm Codes", "description": "Active rewards, redemption steps, and quick fixes" },
+      { "icon": "BookOpen", "title": "Build A Ring Farm Beginner Guide", "description": "First-hour route and early mistakes to avoid" },
+      { "icon": "Leaf", "title": "Build A Ring Farm Seeds Tier List", "description": "What to keep, replace, and level first" },
+      { "icon": "FlaskConical", "title": "Build A Ring Farm Mutations Guide", "description": "Mutation multipliers and best farming targets" },
+      { "icon": "Coins", "title": "Build A Ring Farm Money Farming", "description": "Fast cash loops and reinvestment priorities" },
+      { "icon": "Wrench", "title": "Build A Ring Farm Upgrades Guide", "description": "Saw, sprinkler, luck, and ring expansion priorities" },
+      { "icon": "Gift", "title": "Build A Ring Farm Gear and Sprays", "description": "When to use sprays, fertilizer, and boost items" },
+      { "icon": "Clock", "title": "Build A Ring Farm Update Log", "description": "Recent code and feature changes" }
     ]
   },
   "modules": {
-    "buildARingFarmBeginnerGuide": {
+    "ringFarmCodes": {
+      "title": "Build A Ring Farm Codes",
+      "intro": "Redeem active Build A Ring Farm codes for seed packs, sprays, fertilizer, and time skips that accelerate early progression.",
+      "items": [
+        { "code": "UPDATE2", "reward": "1 Tropical Seed Pack", "status": "Active" },
+        { "code": "THANKYOU", "reward": "1 Autumn Spray", "status": "Active" },
+        { "code": "BARF:3", "reward": "1 Acid Spray", "status": "Active" },
+        { "code": "100KVISITS", "reward": "5-minute Time Skip", "status": "Active" },
+        { "code": "2KLIKES", "reward": "1 Tropical Seed Pack", "status": "Active" },
+        { "code": "UPDATE1", "reward": "3 Strong Fertilizers", "status": "Active" }
+      ]
+    },
+    "ringFarmBeginnerGuide": {
       "title": "Build A Ring Farm Beginner Guide",
-      "displayType": "steps",
-      "intro": "Start by learning how exploration, fusion, and progression connect. Build A Ring Farm rewards experimentation, so early progress comes from gathering unusual materials, testing combinations, and unlocking your personal Qualia.",
+      "intro": "Build A Ring Farm growth is fastest when you keep plots active, sell on rhythm, and focus upgrades that directly increase harvest speed and value.",
       "steps": [
-        {
-          "title": "Explore Before You Commit",
-          "description": "Walk outward, mine common blocks, and keep any strange drops you find. Early progress is less about fixed quests and more about discovering what materials can become."
-        },
-        {
-          "title": "Unlock Your Personal Qualia Early",
-          "description": "Your personal Qualia is one of the most important early milestones. It gives you a reliable place to regroup and build around."
-        },
-        {
-          "title": "Use Osmium for Fast Early Progress",
-          "description": "Osmium is one of the most useful early materials. A popular early route is combining Osmium with sticks to make a Frost Pick for fast mining."
-        },
-        {
-          "title": "Record Good Fusions",
-          "description": "Keep track of successful combinations in your journal. Build A Ring Farm has many possible fusion paths, so writing down useful results saves a lot of time."
-        }
-      ],
-      "quickTips": [
-        "Apotheosis does not require a fixed recipe list.",
-        "Infinite world generation means moving higher or deeper can reveal completely different materials.",
-        "Movement tools and utility gear become a major quality-of-life boost once you start unlocking them.",
-        "Getting lost early is normal, but useful tools, storage, and movement options snowball fast once your first good fusions start working."
+        { "title": "Plant Every Open Plot", "description": "Keep each slot productive so your farm never pauses between harvest windows." },
+        { "title": "Push Saw Yield Early", "description": "Prioritize saw output first so each cycle returns enough cash for meaningful upgrades." },
+        { "title": "Upgrade Sprinkler Power and Range", "description": "Stronger sprinklers keep outer plots growing at the same pace as central plots." },
+        { "title": "Roll Better Seeds and Replace Starters", "description": "Swap low-value crops quickly once stronger rarity seeds appear." },
+        { "title": "Use Boost Items on High-Value Crops", "description": "Save fertilizer and premium sprays for crops with strong base value." }
       ]
     },
-    "buildARingFarmApotheosisCrafting": {
-      "title": "Build A Ring Farm Apotheosis Crafting",
-      "displayType": "cards",
-      "intro": "Apotheosis is the game's unrestricted fusion system. Instead of memorizing a traditional recipe book, you combine materials, watch the result, and build your own crafting knowledge over time.",
-      "cards": [
-        {
-          "name": "Freeform Fusion",
-          "description": "Apotheosis lets you fuse together different items without needing to follow a fixed recipe list."
-        },
-        {
-          "name": "Multiple Useful Outcomes",
-          "description": "Different materials often push toward certain results. Community discoveries show that similar inputs can still lead to practical tools, storage, or combat upgrades."
-        },
-        {
-          "name": "Journal-First Crafting",
-          "description": "The best way to learn Apotheosis is to track your successful combinations. Your journal quickly becomes your own crafting reference."
-        },
-        {
-          "name": "Community-Tested Early Fusions",
-          "description": "Popular early examples include Osmium plus Stick for a Frost Pick, Stick plus Tungsten Appendage for Azrael, and Azrael plus Magnetite for the Tendril Rapier."
-        }
-      ],
-      "milestones": [
-        "Fuse an item",
-        "Fuse a vermin",
-        "Fuse a divine artifact"
+    "ringFarmSeedsTierList": {
+      "title": "Build A Ring Farm Seeds Tier List",
+      "intro": "Use this Build A Ring Farm seed ladder to decide when to replace weak crops and where to spend your upgrade budget.",
+      "tiers": [
+        { "name": "S Tier Seeds", "description": "Top-end rarity pulls are your best long-term slots and should receive premium boosts first." },
+        { "name": "A Tier Seeds", "description": "Strong mid-game crops that carry income while you chase elite and exotic pulls." },
+        { "name": "B Tier Seeds", "description": "Reliable transition crops that outperform starters and fund early expansion." },
+        { "name": "Starter Seeds", "description": "Useful for opening minutes, but replace quickly instead of over-leveling them." }
       ]
     },
-    "buildARingFarmToolsAndWeapons": {
-      "title": "Build A Ring Farm Tools and Weapons",
-      "displayType": "itemCards",
-      "intro": "Build A Ring Farm mixes official utility gear with community-discovered early weapons. The best setup is usually a blend of fast mining, safe traversal, and one dependable combat option.",
-      "items": [
-        {
-          "name": "Frost Pick",
-          "type": "Mining Tool",
-          "description": "A fast and affordable early pick made from Osmium and Stick. Players use it to speed up early material gathering."
-        },
-        {
-          "name": "Azrael",
-          "type": "Starter Weapon",
-          "description": "A practical early weapon route crafted from Stick and Tungsten Appendage."
-        },
-        {
-          "name": "Tendril Rapier",
-          "type": "Upgraded Weapon",
-          "description": "A stronger follow-up made by combining Azrael with Magnetite. It is one of the most useful early-mid combat paths shared by players."
-        },
-        {
-          "name": "Hookshot",
-          "type": "Mobility Tool",
-          "description": "An official traversal item that greatly improves movement and vertical exploration."
-        },
-        {
-          "name": "Bee Glider",
-          "type": "Mobility Tool",
-          "description": "An official movement item that helps cover space more safely and efficiently."
-        },
-        {
-          "name": "Ball Wand",
-          "type": "Utility Weapon",
-          "description": "An official ranged utility item that expands your combat and puzzle options."
-        },
-        {
-          "name": "Scuba Diving Gear",
-          "type": "Traversal Gear",
-          "description": "An official utility item for reaching areas that would otherwise slow down exploration."
-        },
-        {
-          "name": "Explosives",
-          "type": "Utility Damage",
-          "description": "Officially highlighted as part of the core toolset and useful for breaking through threats or obstacles."
-        }
-      ]
-    },
-    "buildARingFarmStorageAndInventory": {
-      "title": "Build A Ring Farm Storage and Inventory",
-      "displayType": "solutionCards",
-      "intro": "Inventory pressure starts early in Build A Ring Farm, so building storage should be one of your first goals. Several real player-tested solutions already stand out.",
-      "solutions": [
-        {
-          "name": "Cache Cube",
-          "role": "Chest-Like Storage",
-          "description": "Cache Cubes are one of the earliest practical storage answers and are treated by players as the game's main chest-style container."
-        },
-        {
-          "name": "Cabinet",
-          "role": "Simple Base Storage",
-          "description": "Cabinets are another confirmed storage option. A shared early recipe uses 1 Cut Wood and 1 String."
-        },
-        {
-          "name": "Personal Qualia",
-          "role": "Long-Term Storage Hub",
-          "description": "Once unlocked, your personal Qualia becomes a natural place to organize materials, craft in peace, and expand your base setup."
-        },
-        {
-          "name": "Journal Tracking",
-          "role": "Inventory Efficiency",
-          "description": "Recording useful combinations in your journal reduces wasted materials and makes inventory management much easier."
-        }
-      ],
-      "managementTips": [
-        "Prioritize one dependable storage option before hoarding rare drops.",
-        "Build around your personal Qualia once it becomes available.",
-        "Keep crafting materials, combat tools, and movement gear separated so upgrades are easier to plan.",
-        "Use your journal as part of inventory management, not just crafting discovery."
-      ]
-    },
-    "buildARingFarmQualiaAndBaseBuilding": {
-      "title": "Build A Ring Farm Qualia and Base Building",
-      "displayType": "cards",
-      "intro": "Qualia is one of the most important progression milestones in Build A Ring Farm. It gives you a personal space to regroup, store materials, and gradually turn exploration progress into a real home base.",
-      "cards": [
-        {
-          "name": "Personal Qualia",
-          "description": "Unlocking a Qualia is an early milestone that gives you a more reliable place to return to while exploring the wider world."
-        },
-        {
-          "name": "Storage-First Building",
-          "description": "Many players start using their Qualia as a storage hub before turning it into a larger base with organized crafting and building space."
-        },
-        {
-          "name": "Creative Home Building",
-          "description": "Build A Ring Farm supports creative building, and players are already using Qualia spaces to make houses and personalized layouts."
-        },
-        {
-          "name": "Progression Hub",
-          "description": "A strong base helps you separate exploration loot, crafting materials, seeds, tools, and mobility gear so your next upgrades are easier to plan."
-        }
-      ],
-      "highlights": [
-        "Enter a qualia",
-        "Store materials safely",
-        "Expand from utility to decoration",
-        "Use base space to support crafting and farming"
-      ]
-    },
-    "buildARingFarmWorldRegions": {
-      "title": "Build A Ring Farm World Regions",
-      "displayType": "regionCards",
-      "intro": "Build A Ring Farm uses infinite world generation, so players keep discovering new environments and structures. A few named places are already showing up in achievements and community discussions.",
-      "regions": [
-        {
-          "name": "Fog Meadow",
-          "type": "Community-Noted Area",
-          "description": "Fog Meadow is already known among players as a tense area associated with hidden threats and dangerous encounters."
-        },
-        {
-          "name": "Tiamana Leyline",
-          "type": "Discovery Landmark",
-          "description": "The tiamana leyline is important enough to have its own achievement milestone, making it one of the clearest named world discoveries so far."
-        },
-        {
-          "name": "Clonaqualia",
-          "type": "Build Space",
-          "description": "Players are already using Clonaqualia as a place to build houses, store materials, and experiment with more permanent layouts."
-        },
-        {
-          "name": "Essence Morass",
-          "type": "Farming Area",
-          "description": "Essence Morass is being shared by players as a useful farming location, especially for fighting slimes and gaining experience."
-        }
-      ]
-    },
-    "buildARingFarmCreaturesAndEnemies": {
-      "title": "Build A Ring Farm Creatures and Enemies",
-      "displayType": "creatureCards",
-      "intro": "Build A Ring Farm mixes surreal creatures with real danger. Official descriptions and community posts point to a world full of strange life, hostile threats, and a few standout encounters players remember quickly.",
-      "creatures": [
-        {
-          "name": "Manikins",
-          "role": "Hostile Enemy",
-          "description": "Manikins are one of the officially named foes in the world and part of the game's surreal threat roster."
-        },
-        {
-          "name": "Squishy Gels",
-          "role": "Hostile Enemy",
-          "description": "Squishy gels are another officially named enemy type and help define the game's strange biological style."
-        },
-        {
-          "name": "Higher-Dimensional Beings",
-          "role": "Hostile Enemy",
-          "description": "These beings are presented as part of the world's more abstract and unsettling enemy lineup."
-        },
-        {
-          "name": "Colossal Spiders",
-          "role": "Major Threat",
-          "description": "Spiders are one of the most immediately feared enemies in community discussions and are clearly a memorable danger."
-        },
-        {
-          "name": "Bubblebear",
-          "role": "Named Creature",
-          "description": "Bubblebear is notable enough to have its own achievement, which makes it one of the clearest named creature encounters in the game."
-        },
-        {
-          "name": "Cute Vermin",
-          "role": "Interactable Creature",
-          "description": "Vermin are not only part of fusion progression, they can also be renamed, giving them a more personal role than standard enemies."
-        },
-        {
-          "name": "Blasphemous Creature",
-          "role": "Elite Threat",
-          "description": "The blasphemous creature is tied to a dedicated combat achievement, marking it as a significant enemy encounter."
-        }
-      ]
-    },
-    "buildARingFarmMobilityGear": {
-      "title": "Build A Ring Farm Mobility Gear",
-      "displayType": "itemCards",
-      "intro": "Movement upgrades are one of the biggest quality-of-life jumps in Build A Ring Farm. Once you unlock your first traversal tools, exploration becomes faster, safer, and much more rewarding.",
-      "items": [
-        {
-          "name": "Hookshot",
-          "type": "Traversal Tool",
-          "description": "The hookshot is one of the clearest movement milestones in the game and has its own dedicated achievement."
-        },
-        {
-          "name": "Glider Glove",
-          "type": "Air Mobility",
-          "description": "The glider glove opens up much smoother travel and is another major progression milestone with its own achievement."
-        },
-        {
-          "name": "Bee Glider",
-          "type": "Traversal Tool",
-          "description": "Bee gliders are officially highlighted as part of the game's movement toolkit for covering space more efficiently."
-        },
-        {
-          "name": "Ball Wand",
-          "type": "Utility Gear",
-          "description": "Ball wands are one of the officially highlighted special tools and expand how you move through or interact with the world."
-        },
-        {
-          "name": "Scuba Diving Gear",
-          "type": "Exploration Gear",
-          "description": "Scuba diving gear is officially listed as part of the core utility set for reaching areas that would otherwise be harder to explore."
-        },
-        {
-          "name": "Explosives",
-          "type": "Utility Damage",
-          "description": "Explosives are both officially highlighted and linked to an achievement milestone, making them part of the game's core utility progression."
-        }
-      ],
-      "unlockMilestones": [
-        "Command a hookshot",
-        "Fly with the glider glove",
-        "Brandish a projectile wand",
-        "Brandish an explosive"
-      ]
-    },
-    "buildARingFarmFarmingAndGrowth": {
-      "title": "Build A Ring Farm Farming and Growth",
-      "displayType": "mixedCards",
-      "intro": "Growth is part of real progression in Build A Ring Farm. Farming is not only about planting and harvesting, but also about setting up repeatable material routes that keep your tools, weapons, and crafting options flowing.",
-      "sections": [
-        {
-          "name": "Seed Progression",
-          "description": "Planting and fertilizing seeds is a real milestone in the game, and harvesting a fully-grown nut is part of the same growth path."
-        },
-        {
-          "name": "Material Farming",
-          "description": "A practical early farming loop is creating Mercury Capsules, which spawn small slimes that drop Tendrils and goo for repeatable crafting materials."
-        },
-        {
-          "name": "Tool Sustain",
-          "description": "Resource farming becomes much stronger once you can consistently gather Osmium, glass shards, plants, and slime materials for follow-up crafts."
-        },
-        {
-          "name": "Base Routine",
-          "description": "The best farming setup supports more than food. It should feed your storage, movement tools, weapon upgrades, and future fusion experiments."
-        }
-      ],
-      "growthMilestones": [
-        "Fertilize a seed",
-        "Harvest a fully-grown nut",
-        "Create repeatable material loops",
-        "Turn farming into long-term progression"
-      ]
-    },
-    "buildARingFarmBestEarlyUnlocks": {
-      "title": "Build A Ring Farm Best Early Unlocks",
-      "displayType": "priorityCards",
-      "intro": "The strongest early unlocks are the ones that improve safety, storage, and movement. In Build A Ring Farm, a few practical upgrades can make the entire rest of the game much smoother.",
-      "priorities": [
-        {
-          "name": "Personal Qualia",
-          "priority": "Essential",
-          "description": "As soon as you get access to your personal Qualia, your run becomes much more stable. It acts as a reliable hub for storage, building, and regrouping."
-        },
-        {
-          "name": "Frost Pick",
-          "priority": "Very High",
-          "description": "A fast and cheap early mining tool made from Osmium and Stick. It is one of the most useful upgrades for accelerating early resource collection."
-        },
-        {
-          "name": "Cache Cube",
-          "priority": "Very High",
-          "description": "Storage pressure starts early, so getting your first dependable chest-style container is a major quality-of-life upgrade."
-        },
-        {
-          "name": "Hookshot",
-          "priority": "High",
-          "description": "The hookshot is one of the clearest movement milestones in the game and quickly makes exploration faster and safer."
-        },
-        {
-          "name": "Glider Glove",
-          "priority": "High",
-          "description": "The glider glove adds another major mobility boost and makes long-distance movement far more efficient."
-        },
-        {
-          "name": "Projectile Wand or Bombs",
-          "priority": "High",
-          "description": "A ranged tool or explosive option gives you a safer answer to dangerous enemies and trial-style encounters."
-        }
-      ]
-    },
-    "buildARingFarmAchievementTracker": {
-      "title": "Build A Ring Farm Achievement Tracker",
-      "displayType": "achievementGrid",
-      "intro": "Build A Ring Farm currently has 19 Roblox achievements, and they naturally split into exploration, crafting, mobility, combat, and growth progression.",
-      "groups": [
-        {
-          "name": "Exploration",
-          "achievements": [
-            {
-              "title": "Angel α",
-              "description": "Enter a qualia."
-            },
-            {
-              "title": "Angel γ",
-              "description": "Discover a tiamana leyline."
-            },
-            {
-              "title": "Angel δ",
-              "description": "Overcome a tiamana challenge."
-            },
-            {
-              "title": "Angel ε",
-              "description": "Hidden achievement."
-            }
-          ]
-        },
-        {
-          "name": "Crafting and Summoning",
-          "achievements": [
-            {
-              "title": "Apotheosis α",
-              "description": "Fuse an item."
-            },
-            {
-              "title": "Apotheosis β",
-              "description": "Fuse a vermin."
-            },
-            {
-              "title": "Apotheosis γ",
-              "description": "Fuse a divine artifact."
-            },
-            {
-              "title": "Archangel β",
-              "description": "Summon your faith."
-            }
-          ]
-        },
-        {
-          "name": "Mobility and Utility",
-          "achievements": [
-            {
-              "title": "Virtue α",
-              "description": "Fly with the glider glove."
-            },
-            {
-              "title": "Virtue β",
-              "description": "Command a hookshot."
-            },
-            {
-              "title": "Archangel α",
-              "description": "Brandish a projectile wand."
-            },
-            {
-              "title": "Archangel γ",
-              "description": "Brandish an explosive."
-            }
-          ]
-        },
-        {
-          "name": "Combat and Creatures",
-          "achievements": [
-            {
-              "title": "Bubblebear Massacre",
-              "description": "Defeat innocent bubblebears."
-            },
-            {
-              "title": "Archangel δ",
-              "description": "Eliminate a blasphemous creature."
-            },
-            {
-              "title": "Angel β",
-              "description": "Die."
-            },
-            {
-              "title": "Dominion γ",
-              "description": "Rename a cute vermin."
-            }
-          ]
-        },
-        {
-          "name": "Growth and Farming",
-          "achievements": [
-            {
-              "title": "Dominion α",
-              "description": "Fertilize a seed."
-            },
-            {
-              "title": "Dominion β",
-              "description": "Harvest a fully-grown nut."
-            },
-            {
-              "title": "Dominion δ",
-              "description": "Hidden achievement."
-            }
-          ]
-        }
-      ]
-    },
-    "buildARingFarmSingleplayerAndPlatformFAQ": {
-      "title": "Build A Ring Farm Singleplayer and Platform FAQ",
-      "displayType": "accordion",
-      "intro": "These are the core platform and access questions players keep asking before buying Build A Ring Farm.",
-      "faqs": [
-        {
-          "question": "Is Build A Ring Farm singleplayer?",
-          "answer": "Yes. Build A Ring Farm is a singleplayer game."
-        },
-        {
-          "question": "Is multiplayer or co-op planned?",
-          "answer": "No. Multiplayer is not planned for release or future updates."
-        },
-        {
-          "question": "Where can I play Build A Ring Farm?",
-          "answer": "It is currently available on Roblox for Windows."
-        },
-        {
-          "question": "How much does Build A Ring Farm cost?",
-          "answer": "$9.99 on Roblox."
-        },
-        {
-          "question": "Does Build A Ring Farm support controllers?",
-          "answer": "Yes, but controller play is not recommended because the menus are not designed around it."
-        },
-        {
-          "question": "Does Build A Ring Farm work on Roblox Deck?",
-          "answer": "Yes. Proton 9.0 or 9.0.4 is the commonly recommended setup for Roblox Deck."
-        },
-        {
-          "question": "Does Build A Ring Farm work on Linux?",
-          "answer": "Yes. Proton 9.0 is reported to work well for Linux and Roblox Deck."
-        },
-        {
-          "question": "Will Mac or Android be supported?",
-          "answer": "They may be supported in the future, but they are not current launch platforms."
-        },
-        {
-          "question": "Does Build A Ring Farm have translations?",
-          "answer": "No. There are currently no translations planned."
-        },
-        {
-          "question": "Will Build A Ring Farm keep getting updates?",
-          "answer": "Yes. Some content updates are planned after release, but they are not intended to continue on an indefinite regular schedule."
-        }
-      ]
-    },
-    "buildARingFarmRobloxDeckAndController": {
-      "title": "Build A Ring Farm Roblox Deck and Controller",
-      "displayType": "accordion",
-      "intro": "Build A Ring Farm can run on Roblox Deck, but the default setup may need adjustment. Keyboard and mouse remains the smoother option for menus and general play.",
-      "faqs": [
-        {
-          "question": "Does Build A Ring Farm work on Roblox Deck?",
-          "answer": "Yes. Proton 9.0 works well, and Proton 9.0.4 is a commonly shared fix for Roblox Deck issues."
-        },
-        {
-          "question": "What should I do if Roblox Deck controls are not working?",
-          "answer": "Force compatibility and switch the game to Proton 9.0.4. The default configuration may not accept controller input correctly."
-        },
-        {
-          "question": "Does Build A Ring Farm support controllers?",
-          "answer": "Yes, but controller play is not recommended because the game's menus are not designed around it."
-        },
-        {
-          "question": "Is Linux support possible?",
-          "answer": "Yes. Proton 9.0 is reported to work well for Linux and Roblox Deck."
-        },
-        {
-          "question": "What is the best input setup?",
-          "answer": "Keyboard and mouse is the smoothest option for menu navigation and general moment-to-moment play."
-        }
-      ]
-    },
-    "buildARingFarmSettingsAndAccessibility": {
-      "title": "Build A Ring Farm Settings and Accessibility",
-      "displayType": "settingCards",
-      "intro": "Build A Ring Farm already has a few practical settings and compatibility notes that matter immediately when players first launch the game.",
-      "settings": [
-        {
-          "name": "Display Settings",
-          "type": "Comfort Option",
-          "description": "Display Settings includes an option that lets players hide the on-screen hands."
-        },
-        {
-          "name": "Graphics Compatibility",
-          "type": "System Requirement",
-          "description": "Vulkan support is required for the graphics to render properly. Systems without Vulkan can run into crashes and severe graphical glitches."
-        },
-        {
-          "name": "Input Preference",
-          "type": "Control Setup",
-          "description": "Controller support exists, but keyboard and mouse gives a smoother experience because menus are not built around controller use."
-        },
-        {
-          "name": "Language Support",
-          "type": "Localization",
-          "description": "The current setup is English-only, and no translations are planned right now."
-        }
-      ]
-    },
-    "buildARingFarmUpdatesAndPatchNotes": {
-      "title": "Build A Ring Farm Updates and Patch Notes",
-      "displayType": "timeline",
-      "intro": "Build A Ring Farm is already receiving quick post-launch fixes and small usability updates.",
+    "ringFarmMutationsGuide": {
+      "title": "Build A Ring Farm Mutations Guide",
+      "intro": "Mutations in Build A Ring Farm multiply crop value and are one of the largest profit levers once your farm is stable.",
       "entries": [
-        {
-          "title": "Update 2.8.2",
-          "type": "UI Update",
-          "description": "Renamed \"awaken\" to \"exit\" in the main menu."
-        },
-        {
-          "title": "Small Patch for Start-Up Crashes",
-          "type": "Hotfix",
-          "description": "A dedicated patch was released for players whose game was crashing on launch."
-        },
-        {
-          "title": "Post-Launch Content Support",
-          "type": "Roadmap Note",
-          "description": "Some content updates are planned after release, but they are not intended to continue on an indefinite regular schedule."
-        }
+        { "name": "Value Multipliers", "description": "Target high-multiplier mutations on your highest-value crops, not starter plants." },
+        { "name": "Spray Timing", "description": "Apply sprays after crop quality and upgrade levels are already competitive." },
+        { "name": "Mutation Routing", "description": "Build farming cycles around repeatable mutation sources and event windows." },
+        { "name": "Recovery Strategy", "description": "Use utility sprays when a bad mutation blocks income-focused setups." }
       ]
     },
-    "buildARingFarmCrashFixAndTroubleshooting": {
-      "title": "Build A Ring Farm Crash Fix and Troubleshooting",
-      "displayType": "steps",
-      "intro": "Most immediate launch and crash issues should be checked in a simple order: patch level, graphics support, platform compatibility, and logs.",
-      "steps": [
-        {
-          "title": "Install the Latest Crash Hotfix",
-          "description": "If the game is crashing on start, update first and test again with the latest start-up crash patch."
-        },
-        {
-          "title": "Check Vulkan Support",
-          "description": "Build A Ring Farm requires Vulkan support. Systems without Vulkan can suffer from crashes or major rendering problems."
-        },
-        {
-          "title": "Use Proton 9.0.4 on Roblox Deck",
-          "description": "If Roblox Deck input or launch behavior is broken, force compatibility and switch to Proton 9.0.4."
-        },
-        {
-          "title": "Collect Crash Logs",
-          "description": "Open Windows Run, paste %APPDATA%, go to build a ring farm/logs, and gather the .txt files for troubleshooting."
-        },
-        {
-          "title": "Report the Issue Properly",
-          "description": "Share the logs and device details through the official Discord bug-reports forum or on the Roblox community page."
-        }
+    "ringFarmMoneyFarming": {
+      "title": "Build A Ring Farm Money Farming",
+      "intro": "Build A Ring Farm cash growth comes from high-value crops, tight sell rhythm, and disciplined reinvestment into yield upgrades.",
+      "cards": [
+        { "name": "Sell on Cycle", "description": "Harvest and sell on a repeatable cadence so cash is constantly available for upgrades." },
+        { "name": "Reinvest by Priority", "description": "Put profit into saw and sprinkler upgrades before low-impact side spending." },
+        { "name": "Protect Premium Slots", "description": "Reserve best plots for top-tier crops and boost them first." },
+        { "name": "Use Offline Income", "description": "Log out only after setting your strongest crop lineup for passive earnings." }
+      ]
+    },
+    "ringFarmUpgradesGuide": {
+      "title": "Build A Ring Farm Upgrades Guide",
+      "intro": "These Build A Ring Farm upgrades deliver the most consistent progression value from early to mid game.",
+      "upgrades": [
+        { "name": "Saw Yield", "description": "Primary income multiplier and best first major upgrade target." },
+        { "name": "Sprinkler Power", "description": "Boosts growth speed and improves total farm throughput." },
+        { "name": "Sprinkler Range", "description": "Keeps expanded rings fully watered and productive." },
+        { "name": "Seed Luck", "description": "Increases chance of pulling seeds that outscale starter crops." },
+        { "name": "Ring Expansion", "description": "Expand only when your current ring is fully utilized." }
+      ]
+    },
+    "ringFarmGearAndSprays": {
+      "title": "Build A Ring Farm Gear and Sprays",
+      "intro": "Build A Ring Farm rewards, sprays, and fertilizer items are strongest when used with crop value and timing in mind.",
+      "items": [
+        { "name": "Mutation Sprays", "description": "Use on proven income crops to maximize multiplier returns." },
+        { "name": "Strong Fertilizer", "description": "Apply to top-earning crops instead of spreading across low-value slots." },
+        { "name": "Time Skips", "description": "Trigger after planting your strongest layout for immediate value." },
+        { "name": "Seed Packs", "description": "Open when you are ready to replace multiple weak plots at once." }
+      ]
+    },
+    "ringFarmUpdateLog": {
+      "title": "Build A Ring Farm Update Log",
+      "intro": "Track the latest Build A Ring Farm reward and gameplay changes so your route stays current.",
+      "entries": [
+        { "date": "May 19, 2026", "title": "Code Set Refreshed", "description": "Active reward list updated with current redeemable codes and utility item rewards." },
+        { "date": "May 18, 2026", "title": "Progression Balance Notes", "description": "Early upgrade guidance revised around saw yield, sprinkler range, and seed replacement timing." },
+        { "date": "May 16, 2026", "title": "Farming Route Revision", "description": "Money farming section updated with reinvest priorities and offline income optimization." }
       ]
     }
   },
   "faq": {
-    "title": "Frequently Asked",
-    "titleHighlight": "Questions",
-    "subtitle": "Everything you need to know about Build A Ring Farm",
+    "title": "Build A Ring Farm",
+    "titleHighlight": "FAQ",
+    "subtitle": "Common player questions about Build A Ring Farm progression and rewards.",
     "questions": [
-      {
-        "question": "Is Build A Ring Farm a singleplayer game?",
-        "answer": "Yes. Build A Ring Farm is a singleplayer-only game with no multiplayer or co-op planned."
-      },
-      {
-        "question": "What is the Apotheosis system in Build A Ring Farm?",
-        "answer": "Apotheosis is Build A Ring Farm' freeform fusion crafting system. Instead of following fixed recipes, you combine materials and discover your own crafting paths."
-      },
-      {
-        "question": "Where can I play Build A Ring Farm?",
-        "answer": "Build A Ring Farm is currently available on Roblox for Windows. Linux and Roblox Deck support is available through Proton 9.0."
-      },
-      {
-        "question": "How much does Build A Ring Farm cost?",
-        "answer": "Build A Ring Farm costs $9.99 on Roblox."
-      },
-      {
-        "question": "Does Build A Ring Farm support controllers?",
-        "answer": "Yes, but controller play is not recommended because the menus are not designed around it. Keyboard and mouse is the smoother option."
-      },
-      {
-        "question": "Will Build A Ring Farm receive updates?",
-        "answer": "Yes. Some content updates are planned after release, but they are not intended to continue on an indefinite regular schedule."
-      }
+      { "question": "How often are Build A Ring Farm codes updated?", "answer": "Build A Ring Farm codes usually update around milestones, patches, and engagement goals. Check the codes module regularly for the latest list." },
+      { "question": "What should I upgrade first in Build A Ring Farm?", "answer": "In Build A Ring Farm, prioritize Saw Yield and Sprinkler Power first, then expand range and seed quality as your income stabilizes." },
+      { "question": "Are mutations important in Build A Ring Farm?", "answer": "Yes, Build A Ring Farm mutations are a major part of high-income farming and should be applied to top-value crops." },
+      { "question": "Can Build A Ring Farm earn progress while offline?", "answer": "Build A Ring Farm supports offline earnings, so preparing your best crop layout before logout improves passive gains." }
     ]
   },
   "cta": {
-    "title": "Ready to Grow in Build a Ring Farm?",
-    "description": "Join the Build a Ring Farm community for code drops, farming tips, and update alerts.",
-    "joinCommunity": "Join Discord",
-    "joinGame": "Play Build a Ring Farm on Roblox"
-  },
-  "footer": {
-    "title": "Build a Ring Farm Wiki",
-    "description": "Your complete resource hub for Build a Ring Farm codes, seeds, crops, upgrades, and offline income guides.",
-    "resources": "Resources",
-    "community": "Community",
-    "legal": "Legal",
-    "discord": "Discord",
-    "twitter": "Roblox Community",
-    "steamCommunity": "YouTube Gameplay",
-    "steamStore": "Play on Roblox",
-    "about": "About",
-    "privacy": "Privacy Policy",
-    "terms": "Terms of Service",
-    "copyrightNotice": "Copyright",
-    "copyright": "© 2026 Build a Ring Farm Wiki. Not affiliated with Roblox or the game developers.",
-    "disclaimer": "Unofficial fan-made resource website."
-  },
-  "pages": {
-    "guides": {
-      "title": "Build A Ring Farm Guides",
-      "description": "Complete gameplay guides from beginner basics to advanced Apotheosis strategies. Master survival and crafting.",
-      "metaTitle": "Build A Ring Farm Guides - Beginner to Advanced Strategies",
-      "metaDescription": "Complete Build A Ring Farm guides covering beginner tips, Apotheosis system, survival strategies, and expert tactics for mastering the surreal sandbox.",
-      "categoryLabel": "GAME GUIDES",
-      "whatIs": "What are Guides?",
-      "whatIsDescription": "Comprehensive guides covering gameplay mechanics, survival strategies, and the Apotheosis crafting system. Learn everything from first steps to advanced techniques.",
-      "why": "Why read guides?",
-      "whySteps": {
-        "step1Title": "Learn Core Mechanics",
-        "step1Description": "Understand the Apotheosis system and avoid common beginner mistakes",
-        "step2Title": "Fast Progression",
-        "step2Description": "Follow proven paths to survive and thrive in the surreal world",
-        "step3Title": "Master Strategies",
-        "step3Description": "Develop advanced tactics for exploration and crafting"
-      },
-      "featured": "Featured & Essential",
-      "all": "All Guides"
-    },
-    "crafting": {
-      "title": "Build A Ring Farm Crafting",
-      "description": "Master the Apotheosis fusion system with essence mechanics, recipes, and crafting strategies for powerful items.",
-      "metaTitle": "Build A Ring Farm Crafting - Apotheosis System & Recipes",
-      "metaDescription": "Master Build A Ring Farm Apotheosis crafting system. Learn essence mechanics, fusion recipes, and strategies for creating powerful tools and weapons.",
-      "categoryLabel": "CRAFTING SYSTEM",
-      "whatIs": "What is Crafting?",
-      "whatIsDescription": "The Apotheosis system is a unique essence-driven fusion mechanic where you combine up to six items to discover new recipes. No fixed crafting menus—experimentation is key.",
-      "why": "Why master crafting?",
-      "whySteps": {
-        "step1Title": "Unlock Powerful Items",
-        "step1Description": "Discover essential tools, weapons, and mobility gear through fusion",
-        "step2Title": "Understand Essences",
-        "step2Description": "Learn how item essences combine to create predictable results",
-        "step3Title": "Optimize Resources",
-        "step3Description": "Use dilution mechanics to maximize output from cheap materials"
-      },
-      "featured": "Featured & Essential",
-      "all": "All Crafting Guides"
-    },
-    "items": {
-      "title": "Build A Ring Farm Items",
-      "description": "Detailed item guides covering tools, weapons, mobility gear, and storage solutions with crafting recipes and usage tips.",
-      "metaTitle": "Build A Ring Farm Items - Tools, Weapons & Gear Guide",
-      "metaDescription": "Complete item database for Build A Ring Farm including tools, weapons, mobility gear, and storage. Learn how to craft and use every item effectively.",
-      "categoryLabel": "ITEMS & EQUIPMENT",
-      "whatIs": "What are Items?",
-      "whatIsDescription": "Comprehensive guides for tools, weapons, mobility gear, and functional items. Learn crafting recipes, usage strategies, and optimal combinations.",
-      "why": "Why check item guides?",
-      "whySteps": {
-        "step1Title": "Learn Crafting Recipes",
-        "step1Description": "Discover how to craft essential tools and weapons using Apotheosis",
-        "step2Title": "Optimize Equipment",
-        "step2Description": "Choose the best items for your playstyle and progression stage",
-        "step3Title": "Improve Survival",
-        "step3Description": "Equip mobility gear and weapons to navigate the dangerous world"
-      },
-      "featured": "Featured & Essential",
-      "all": "All Items"
-    },
-    "biomes": {
-      "title": "Build A Ring Farm Biomes",
-      "description": "Explore world regions, environmental features, resource locations, and survival tips for each biome.",
-      "metaTitle": "Build A Ring Farm Biomes - World Regions & Exploration",
-      "metaDescription": "Explore Build A Ring Farm biomes including Tiamana Leylines, Fog Meadow, and surreal regions. Find resources, avoid dangers, and navigate the infinite world.",
-      "categoryLabel": "WORLD REGIONS",
-      "whatIs": "What are Biomes?",
-      "whatIsDescription": "Guides to different world regions, environmental features, resource distribution, and danger zones. Learn what to expect and how to prepare for each area.",
-      "why": "Why explore biomes?",
-      "whySteps": {
-        "step1Title": "Find Resources",
-        "step1Description": "Locate rare materials and essences specific to each region",
-        "step2Title": "Avoid Dangers",
-        "step2Description": "Understand environmental hazards and hostile creatures",
-        "step3Title": "Plan Exploration",
-        "step3Description": "Prepare the right tools and gear for each biome type"
-      },
-      "featured": "Featured & Essential",
-      "all": "All Biomes"
-    },
-    "building": {
-      "title": "Build A Ring Farm Building",
-      "description": "Master Qualia personal dimensions, base building, storage management, and creative construction techniques.",
-      "metaTitle": "Build A Ring Farm Building - Qualia & Base Construction",
-      "metaDescription": "Master Build A Ring Farm building with Qualia personal dimensions, base construction, storage solutions, and creative building techniques.",
-      "categoryLabel": "BUILDING & BASES",
-      "whatIs": "What is Building?",
-      "whatIsDescription": "Guides to the Qualia personal dimension system, base construction, storage management, and creative building. Learn to create your safe haven in the surreal world.",
-      "why": "Why build bases?",
-      "whySteps": {
-        "step1Title": "Create Safe Spaces",
-        "step1Description": "Establish secure bases for storage and crafting operations",
-        "step2Title": "Manage Resources",
-        "step2Description": "Organize materials efficiently with storage solutions",
-        "step3Title": "Unlock Qualia",
-        "step3Description": "Access personal pocket dimensions for ultimate convenience"
-      },
-      "featured": "Featured & Essential",
-      "all": "All Building Guides"
-    },
-    "support": {
-      "title": "Build A Ring Farm Support",
-      "description": "Technical support, platform compatibility, performance optimization, and troubleshooting for common issues.",
-      "metaTitle": "Build A Ring Farm Support - Technical Help & Fixes",
-      "metaDescription": "Get technical support for Build A Ring Farm including Roblox Deck setup, crash fixes, performance optimization, and platform compatibility guides.",
-      "categoryLabel": "TECHNICAL SUPPORT",
-      "whatIs": "What is Support?",
-      "whatIsDescription": "Technical guides covering platform compatibility, performance optimization, crash fixes, and common issues. Get help with Roblox Deck, multiplayer questions, and settings.",
-      "why": "Why check support?",
-      "whySteps": {
-        "step1Title": "Fix Technical Issues",
-        "step1Description": "Resolve crashes, performance problems, and compatibility issues",
-        "step2Title": "Optimize Performance",
-        "step2Description": "Configure settings for best experience on your platform",
-        "step3Title": "Platform Compatibility",
-        "step3Description": "Learn about Roblox Deck, controller support, and system requirements"
-      },
-      "featured": "Featured & Essential",
-      "all": "All Support Articles"
-    }
+    "title": "Build A Ring Farm Wiki Updates",
+    "description": "Follow Build A Ring Farm strategy updates, reward changes, and module refreshes.",
+    "joinCommunity": "Join Community",
+    "joinGame": "Play Build A Ring Farm"
   }
 }
