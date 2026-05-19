@@ -1,12 +1,13 @@
 {
-  "name": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-  "short_name": "Lucid Blocks",
-  "description": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, endings, and survival tips for the surreal voxel sandbox adventure on Steam.",
+  "name": "Build A Ring Farm Wiki - Codes, Seeds & Upgrades",
+  "short_name": "Ring Farm Wiki",
+  "description": "Build A Ring Farm Wiki with active codes, seed packs, crop values, upgrades, mutations, expansion tips, and offline income strategies.",
   "start_url": "/",
+  "scope": "/",
   "display": "standalone",
-  "orientation": "any",
-  "theme_color": "#1a7a7a",
-  "background_color": "#0a0a0a",
+  "orientation": "portrait-primary",
+  "theme_color": "#f7c320",
+  "background_color": "#102611",
   "icons": [
     {
       "src": "/android-chrome-192x192.png",
