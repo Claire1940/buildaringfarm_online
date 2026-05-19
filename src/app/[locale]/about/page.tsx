@@ -13,8 +13,8 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const path = '/about'
 
   return {
-    title: 'About Build A Ring Farm Wiki - Your Ultimate Steam Game Resource',
-    description: 'Learn about Build A Ring Farm Wiki, a community-driven resource hub providing comprehensive guides, crafting tips, creature info, and strategies for the Build A Ring Farm Steam game.',
+    title: 'About Build A Ring Farm Wiki - Your Ultimate Roblox Game Resource',
+    description: 'Learn about Build A Ring Farm Wiki, a community-driven resource hub providing comprehensive guides, crafting tips, creature info, and strategies for the Build A Ring Farm Roblox game.',
     robots: {
       index: false,
       follow: true,
@@ -74,7 +74,7 @@ export default function About() {
             <h2>Welcome to Build A Ring Farm Wiki</h2>
             <p>
               Build A Ring Farm Wiki is an <strong>unofficial, fan-made resource website</strong> dedicated to helping players
-              master the Steam game "Build A Ring Farm". We are a community-driven platform that provides comprehensive guides,
+              master the Roblox game "Build A Ring Farm". We are a community-driven platform that provides comprehensive guides,
               crafting tips, biome information, creature details, and strategic insights to enhance your gaming experience.
             </p>
             <p>

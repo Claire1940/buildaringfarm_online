@@ -379,20 +379,20 @@ export default function HomePageClient({
           <div className="text-center mb-8 md:mb-12 scroll-reveal">
             <h2 className="text-3xl md:text-5xl font-bold mb-3 md:mb-4">
               <LinkedTitle
-                linkData={moduleLinkMap["lucidBlocksBeginnerGuide"]}
+                linkData={moduleLinkMap["buildARingFarmBeginnerGuide"]}
                 locale={locale}
               >
-                {t.modules.lucidBlocksBeginnerGuide.title}
+                {t.modules.buildARingFarmBeginnerGuide.title}
               </LinkedTitle>
             </h2>
             <p className="text-base md:text-lg text-muted-foreground max-w-3xl mx-auto">
-              {t.modules.lucidBlocksBeginnerGuide.intro}
+              {t.modules.buildARingFarmBeginnerGuide.intro}
             </p>
           </div>
 
           {/* Steps */}
           <div className="scroll-reveal space-y-3 md:space-y-4 mb-8 md:mb-10">
-            {t.modules.lucidBlocksBeginnerGuide.steps.map(
+            {t.modules.buildARingFarmBeginnerGuide.steps.map(
               (step: any, index: number) => (
                 <div
                   key={index}
@@ -408,7 +408,7 @@ export default function HomePageClient({
                       <LinkedTitle
                         linkData={
                           moduleLinkMap[
-                            `lucidBlocksBeginnerGuide::steps::${index}`
+                            `buildARingFarmBeginnerGuide::steps::${index}`
                           ]
                         }
                         locale={locale}
@@ -432,7 +432,7 @@ export default function HomePageClient({
               <h3 className="font-bold text-base md:text-lg">Quick Tips</h3>
             </div>
             <ul className="space-y-2">
-              {t.modules.lucidBlocksBeginnerGuide.quickTips.map(
+              {t.modules.buildARingFarmBeginnerGuide.quickTips.map(
                 (tip: string, index: number) => (
                   <li key={index} className="flex items-start gap-2">
                     <Check className="w-4 h-4 text-[hsl(var(--nav-theme-light))] mt-1 flex-shrink-0" />
@@ -466,18 +466,18 @@ export default function HomePageClient({
           <div className="text-center mb-12 scroll-reveal">
             <h2 className="text-4xl md:text-5xl font-bold mb-4">
               <LinkedTitle
-                linkData={moduleLinkMap["lucidBlocksApotheosisCrafting"]}
+                linkData={moduleLinkMap["buildARingFarmApotheosisCrafting"]}
                 locale={locale}
               >
-                {t.modules.lucidBlocksApotheosisCrafting.title}
+                {t.modules.buildARingFarmApotheosisCrafting.title}
               </LinkedTitle>
             </h2>
             <p className="text-muted-foreground text-lg max-w-3xl mx-auto">
-              {t.modules.lucidBlocksApotheosisCrafting.intro}
+              {t.modules.buildARingFarmApotheosisCrafting.intro}
             </p>
           </div>
           <div className="scroll-reveal grid grid-cols-1 md:grid-cols-2 gap-4 mb-8">
-            {t.modules.lucidBlocksApotheosisCrafting.cards.map(
+            {t.modules.buildARingFarmApotheosisCrafting.cards.map(
               (card: any, index: number) => (
                 <div
                   key={index}
@@ -487,7 +487,7 @@ export default function HomePageClient({
                     <LinkedTitle
                       linkData={
                         moduleLinkMap[
-                          `lucidBlocksApotheosisCrafting::cards::${index}`
+                          `buildARingFarmApotheosisCrafting::cards::${index}`
                         ]
                       }
                       locale={locale}
@@ -503,7 +503,7 @@ export default function HomePageClient({
             )}
           </div>
           <div className="scroll-reveal flex flex-wrap gap-3 justify-center">
-            {t.modules.lucidBlocksApotheosisCrafting.milestones.map(
+            {t.modules.buildARingFarmApotheosisCrafting.milestones.map(
               (m: string, i: number) => (
                 <span
                   key={i}
@@ -524,18 +524,18 @@ export default function HomePageClient({
           <div className="text-center mb-12 scroll-reveal">
             <h2 className="text-4xl md:text-5xl font-bold mb-4">
               <LinkedTitle
-                linkData={moduleLinkMap["lucidBlocksToolsAndWeapons"]}
+                linkData={moduleLinkMap["buildARingFarmToolsAndWeapons"]}
                 locale={locale}
               >
-                {t.modules.lucidBlocksToolsAndWeapons.title}
+                {t.modules.buildARingFarmToolsAndWeapons.title}
               </LinkedTitle>
             </h2>
             <p className="text-muted-foreground text-lg max-w-3xl mx-auto">
-              {t.modules.lucidBlocksToolsAndWeapons.intro}
+              {t.modules.buildARingFarmToolsAndWeapons.intro}
             </p>
           </div>
           <div className="scroll-reveal grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
-            {t.modules.lucidBlocksToolsAndWeapons.items.map(
+            {t.modules.buildARingFarmToolsAndWeapons.items.map(
               (item: any, index: number) => (
                 <div
                   key={index}
@@ -551,7 +551,7 @@ export default function HomePageClient({
                     <LinkedTitle
                       linkData={
                         moduleLinkMap[
-                          `lucidBlocksToolsAndWeapons::items::${index}`
+                          `buildARingFarmToolsAndWeapons::items::${index}`
                         ]
                       }
                       locale={locale}
@@ -578,18 +578,18 @@ export default function HomePageClient({
           <div className="text-center mb-12 scroll-reveal">
             <h2 className="text-4xl md:text-5xl font-bold mb-4">
               <LinkedTitle
-                linkData={moduleLinkMap["lucidBlocksStorageAndInventory"]}
+                linkData={moduleLinkMap["buildARingFarmStorageAndInventory"]}
                 locale={locale}
               >
-                {t.modules.lucidBlocksStorageAndInventory.title}
+                {t.modules.buildARingFarmStorageAndInventory.title}
               </LinkedTitle>
             </h2>
             <p className="text-muted-foreground text-lg max-w-3xl mx-auto">
-              {t.modules.lucidBlocksStorageAndInventory.intro}
+              {t.modules.buildARingFarmStorageAndInventory.intro}
             </p>
           </div>
           <div className="scroll-reveal grid grid-cols-1 md:grid-cols-2 gap-4 mb-8">
-            {t.modules.lucidBlocksStorageAndInventory.solutions.map(
+            {t.modules.buildARingFarmStorageAndInventory.solutions.map(
               (s: any, index: number) => (
                 <div
                   key={index}
@@ -600,7 +600,7 @@ export default function HomePageClient({
                       <LinkedTitle
                         linkData={
                           moduleLinkMap[
-                            `lucidBlocksStorageAndInventory::solutions::${index}`
+                            `buildARingFarmStorageAndInventory::solutions::${index}`
                           ]
                         }
                         locale={locale}
@@ -625,7 +625,7 @@ export default function HomePageClient({
               <h3 className="font-bold">Management Tips</h3>
             </div>
             <ul className="space-y-2">
-              {t.modules.lucidBlocksStorageAndInventory.managementTips.map(
+              {t.modules.buildARingFarmStorageAndInventory.managementTips.map(
                 (tip: string, i: number) => (
                   <li key={i} className="flex items-start gap-2">
                     <Check className="w-4 h-4 text-[hsl(var(--nav-theme-light))] mt-1 flex-shrink-0" />
@@ -647,18 +647,18 @@ export default function HomePageClient({
           <div className="text-center mb-12 scroll-reveal">
             <h2 className="text-4xl md:text-5xl font-bold mb-4">
               <LinkedTitle
-                linkData={moduleLinkMap["lucidBlocksQualiaAndBaseBuilding"]}
+                linkData={moduleLinkMap["buildARingFarmQualiaAndBaseBuilding"]}
                 locale={locale}
               >
-                {t.modules.lucidBlocksQualiaAndBaseBuilding.title}
+                {t.modules.buildARingFarmQualiaAndBaseBuilding.title}
               </LinkedTitle>
             </h2>
             <p className="text-muted-foreground text-lg max-w-3xl mx-auto">
-              {t.modules.lucidBlocksQualiaAndBaseBuilding.intro}
+              {t.modules.buildARingFarmQualiaAndBaseBuilding.intro}
             </p>
           </div>
           <div className="scroll-reveal grid grid-cols-1 md:grid-cols-2 gap-4 mb-8">
-            {t.modules.lucidBlocksQualiaAndBaseBuilding.cards.map(
+            {t.modules.buildARingFarmQualiaAndBaseBuilding.cards.map(
               (card: any, index: number) => (
                 <div
                   key={index}
@@ -668,7 +668,7 @@ export default function HomePageClient({
                     <LinkedTitle
                       linkData={
                         moduleLinkMap[
-                          `lucidBlocksQualiaAndBaseBuilding::cards::${index}`
+                          `buildARingFarmQualiaAndBaseBuilding::cards::${index}`
                         ]
                       }
                       locale={locale}
@@ -684,7 +684,7 @@ export default function HomePageClient({
             )}
           </div>
           <div className="scroll-reveal grid grid-cols-2 md:grid-cols-4 gap-4">
-            {t.modules.lucidBlocksQualiaAndBaseBuilding.highlights.map(
+            {t.modules.buildARingFarmQualiaAndBaseBuilding.highlights.map(
               (h: string, i: number) => (
                 <div
                   key={i}
@@ -705,18 +705,18 @@ export default function HomePageClient({
           <div className="text-center mb-12 scroll-reveal">
             <h2 className="text-4xl md:text-5xl font-bold mb-4">
               <LinkedTitle
-                linkData={moduleLinkMap["lucidBlocksWorldRegions"]}
+                linkData={moduleLinkMap["buildARingFarmWorldRegions"]}
                 locale={locale}
               >
-                {t.modules.lucidBlocksWorldRegions.title}
+                {t.modules.buildARingFarmWorldRegions.title}
               </LinkedTitle>
             </h2>
             <p className="text-muted-foreground text-lg max-w-3xl mx-auto">
-              {t.modules.lucidBlocksWorldRegions.intro}
+              {t.modules.buildARingFarmWorldRegions.intro}
             </p>
           </div>
           <div className="scroll-reveal grid grid-cols-1 md:grid-cols-2 gap-4">
-            {t.modules.lucidBlocksWorldRegions.regions.map(
+            {t.modules.buildARingFarmWorldRegions.regions.map(
               (region: any, index: number) => (
                 <div
                   key={index}
@@ -728,7 +728,7 @@ export default function HomePageClient({
                       <LinkedTitle
                         linkData={
                           moduleLinkMap[
-                            `lucidBlocksWorldRegions::regions::${index}`
+                            `buildARingFarmWorldRegions::regions::${index}`
                           ]
                         }
                         locale={locale}
@@ -759,18 +759,18 @@ export default function HomePageClient({
           <div className="text-center mb-12 scroll-reveal">
             <h2 className="text-4xl md:text-5xl font-bold mb-4">
               <LinkedTitle
-                linkData={moduleLinkMap["lucidBlocksCreaturesAndEnemies"]}
+                linkData={moduleLinkMap["buildARingFarmCreaturesAndEnemies"]}
                 locale={locale}
               >
-                {t.modules.lucidBlocksCreaturesAndEnemies.title}
+                {t.modules.buildARingFarmCreaturesAndEnemies.title}
               </LinkedTitle>
             </h2>
             <p className="text-muted-foreground text-lg max-w-3xl mx-auto">
-              {t.modules.lucidBlocksCreaturesAndEnemies.intro}
+              {t.modules.buildARingFarmCreaturesAndEnemies.intro}
             </p>
           </div>
           <div className="scroll-reveal grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
-            {t.modules.lucidBlocksCreaturesAndEnemies.creatures.map(
+            {t.modules.buildARingFarmCreaturesAndEnemies.creatures.map(
               (c: any, index: number) => (
                 <div
                   key={index}
@@ -787,7 +787,7 @@ export default function HomePageClient({
                     <LinkedTitle
                       linkData={
                         moduleLinkMap[
-                          `lucidBlocksCreaturesAndEnemies::creatures::${index}`
+                          `buildARingFarmCreaturesAndEnemies::creatures::${index}`
                         ]
                       }
                       locale={locale}
@@ -811,18 +811,18 @@ export default function HomePageClient({
           <div className="text-center mb-12 scroll-reveal">
             <h2 className="text-4xl md:text-5xl font-bold mb-4">
               <LinkedTitle
-                linkData={moduleLinkMap["lucidBlocksMobilityGear"]}
+                linkData={moduleLinkMap["buildARingFarmMobilityGear"]}
                 locale={locale}
               >
-                {t.modules.lucidBlocksMobilityGear.title}
+                {t.modules.buildARingFarmMobilityGear.title}
               </LinkedTitle>
             </h2>
             <p className="text-muted-foreground text-lg max-w-3xl mx-auto">
-              {t.modules.lucidBlocksMobilityGear.intro}
+              {t.modules.buildARingFarmMobilityGear.intro}
             </p>
           </div>
           <div className="scroll-reveal grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 mb-8">
-            {t.modules.lucidBlocksMobilityGear.items.map(
+            {t.modules.buildARingFarmMobilityGear.items.map(
               (item: any, index: number) => (
                 <div
                   key={index}
@@ -838,7 +838,7 @@ export default function HomePageClient({
                     <LinkedTitle
                       linkData={
                         moduleLinkMap[
-                          `lucidBlocksMobilityGear::items::${index}`
+                          `buildARingFarmMobilityGear::items::${index}`
                         ]
                       }
                       locale={locale}
@@ -854,7 +854,7 @@ export default function HomePageClient({
             )}
           </div>
           <div className="scroll-reveal flex flex-wrap gap-3 justify-center">
-            {t.modules.lucidBlocksMobilityGear.unlockMilestones.map(
+            {t.modules.buildARingFarmMobilityGear.unlockMilestones.map(
               (m: string, i: number) => (
                 <span
                   key={i}
@@ -884,18 +884,18 @@ export default function HomePageClient({
           <div className="text-center mb-12 scroll-reveal">
             <h2 className="text-4xl md:text-5xl font-bold mb-4">
               <LinkedTitle
-                linkData={moduleLinkMap["lucidBlocksFarmingAndGrowth"]}
+                linkData={moduleLinkMap["buildARingFarmFarmingAndGrowth"]}
                 locale={locale}
               >
-                {t.modules.lucidBlocksFarmingAndGrowth.title}
+                {t.modules.buildARingFarmFarmingAndGrowth.title}
               </LinkedTitle>
             </h2>
             <p className="text-muted-foreground text-lg max-w-3xl mx-auto">
-              {t.modules.lucidBlocksFarmingAndGrowth.intro}
+              {t.modules.buildARingFarmFarmingAndGrowth.intro}
             </p>
           </div>
           <div className="scroll-reveal grid grid-cols-1 md:grid-cols-2 gap-4 mb-8">
-            {t.modules.lucidBlocksFarmingAndGrowth.sections.map(
+            {t.modules.buildARingFarmFarmingAndGrowth.sections.map(
               (s: any, index: number) => (
                 <div
                   key={index}
@@ -907,7 +907,7 @@ export default function HomePageClient({
                       <LinkedTitle
                         linkData={
                           moduleLinkMap[
-                            `lucidBlocksFarmingAndGrowth::sections::${index}`
+                            `buildARingFarmFarmingAndGrowth::sections::${index}`
                           ]
                         }
                         locale={locale}
@@ -924,7 +924,7 @@ export default function HomePageClient({
             )}
           </div>
           <div className="scroll-reveal flex flex-wrap gap-3 justify-center">
-            {t.modules.lucidBlocksFarmingAndGrowth.growthMilestones.map(
+            {t.modules.buildARingFarmFarmingAndGrowth.growthMilestones.map(
               (m: string, i: number) => (
                 <span
                   key={i}
@@ -948,18 +948,18 @@ export default function HomePageClient({
           <div className="text-center mb-12 scroll-reveal">
             <h2 className="text-4xl md:text-5xl font-bold mb-4">
               <LinkedTitle
-                linkData={moduleLinkMap["lucidBlocksBestEarlyUnlocks"]}
+                linkData={moduleLinkMap["buildARingFarmBestEarlyUnlocks"]}
                 locale={locale}
               >
-                {t.modules.lucidBlocksBestEarlyUnlocks.title}
+                {t.modules.buildARingFarmBestEarlyUnlocks.title}
               </LinkedTitle>
             </h2>
             <p className="text-muted-foreground text-lg max-w-3xl mx-auto">
-              {t.modules.lucidBlocksBestEarlyUnlocks.intro}
+              {t.modules.buildARingFarmBestEarlyUnlocks.intro}
             </p>
           </div>
           <div className="scroll-reveal grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
-            {t.modules.lucidBlocksBestEarlyUnlocks.priorities.map(
+            {t.modules.buildARingFarmBestEarlyUnlocks.priorities.map(
               (p: any, index: number) => (
                 <div
                   key={index}
@@ -977,7 +977,7 @@ export default function HomePageClient({
                     <LinkedTitle
                       linkData={
                         moduleLinkMap[
-                          `lucidBlocksBestEarlyUnlocks::priorities::${index}`
+                          `buildARingFarmBestEarlyUnlocks::priorities::${index}`
                         ]
                       }
                       locale={locale}
@@ -1001,18 +1001,18 @@ export default function HomePageClient({
           <div className="text-center mb-12 scroll-reveal">
             <h2 className="text-4xl md:text-5xl font-bold mb-4">
               <LinkedTitle
-                linkData={moduleLinkMap["lucidBlocksAchievementTracker"]}
+                linkData={moduleLinkMap["buildARingFarmAchievementTracker"]}
                 locale={locale}
               >
-                {t.modules.lucidBlocksAchievementTracker.title}
+                {t.modules.buildARingFarmAchievementTracker.title}
               </LinkedTitle>
             </h2>
             <p className="text-muted-foreground text-lg max-w-3xl mx-auto">
-              {t.modules.lucidBlocksAchievementTracker.intro}
+              {t.modules.buildARingFarmAchievementTracker.intro}
             </p>
           </div>
           <div className="scroll-reveal space-y-6">
-            {t.modules.lucidBlocksAchievementTracker.groups.map(
+            {t.modules.buildARingFarmAchievementTracker.groups.map(
               (group: any, gi: number) => (
                 <div
                   key={gi}
@@ -1024,7 +1024,7 @@ export default function HomePageClient({
                       <LinkedTitle
                         linkData={
                           moduleLinkMap[
-                            `lucidBlocksAchievementTracker::groups::${gi}`
+                            `buildARingFarmAchievementTracker::groups::${gi}`
                           ]
                         }
                         locale={locale}
@@ -1065,19 +1065,19 @@ export default function HomePageClient({
             <h2 className="text-4xl md:text-5xl font-bold mb-4">
               <LinkedTitle
                 linkData={
-                  moduleLinkMap["lucidBlocksSingleplayerAndPlatformFAQ"]
+                  moduleLinkMap["buildARingFarmSingleplayerAndPlatformFAQ"]
                 }
                 locale={locale}
               >
-                {t.modules.lucidBlocksSingleplayerAndPlatformFAQ.title}
+                {t.modules.buildARingFarmSingleplayerAndPlatformFAQ.title}
               </LinkedTitle>
             </h2>
             <p className="text-muted-foreground text-lg max-w-3xl mx-auto">
-              {t.modules.lucidBlocksSingleplayerAndPlatformFAQ.intro}
+              {t.modules.buildARingFarmSingleplayerAndPlatformFAQ.intro}
             </p>
           </div>
           <div className="scroll-reveal space-y-2">
-            {t.modules.lucidBlocksSingleplayerAndPlatformFAQ.faqs.map(
+            {t.modules.buildARingFarmSingleplayerAndPlatformFAQ.faqs.map(
               (faq: any, index: number) => (
                 <div
                   key={index}
@@ -1114,19 +1114,19 @@ export default function HomePageClient({
               <Gamepad2 className="w-8 h-8 text-[hsl(var(--nav-theme-light))]" />
               <h2 className="text-4xl md:text-5xl font-bold">
                 <LinkedTitle
-                  linkData={moduleLinkMap["lucidBlocksRobloxDeckAndController"]}
+                  linkData={moduleLinkMap["buildARingFarmRobloxDeckAndController"]}
                   locale={locale}
                 >
-                  {t.modules.lucidBlocksRobloxDeckAndController.title}
+                  {t.modules.buildARingFarmRobloxDeckAndController.title}
                 </LinkedTitle>
               </h2>
             </div>
             <p className="text-muted-foreground text-lg max-w-3xl mx-auto">
-              {t.modules.lucidBlocksRobloxDeckAndController.intro}
+              {t.modules.buildARingFarmRobloxDeckAndController.intro}
             </p>
           </div>
           <div className="scroll-reveal space-y-2">
-            {t.modules.lucidBlocksRobloxDeckAndController.faqs.map(
+            {t.modules.buildARingFarmRobloxDeckAndController.faqs.map(
               (faq: any, index: number) => (
                 <div
                   key={index}
@@ -1164,18 +1164,18 @@ export default function HomePageClient({
           <div className="text-center mb-12 scroll-reveal">
             <h2 className="text-4xl md:text-5xl font-bold mb-4">
               <LinkedTitle
-                linkData={moduleLinkMap["lucidBlocksSettingsAndAccessibility"]}
+                linkData={moduleLinkMap["buildARingFarmSettingsAndAccessibility"]}
                 locale={locale}
               >
-                {t.modules.lucidBlocksSettingsAndAccessibility.title}
+                {t.modules.buildARingFarmSettingsAndAccessibility.title}
               </LinkedTitle>
             </h2>
             <p className="text-muted-foreground text-lg max-w-3xl mx-auto">
-              {t.modules.lucidBlocksSettingsAndAccessibility.intro}
+              {t.modules.buildARingFarmSettingsAndAccessibility.intro}
             </p>
           </div>
           <div className="scroll-reveal grid grid-cols-1 md:grid-cols-2 gap-4">
-            {t.modules.lucidBlocksSettingsAndAccessibility.settings.map(
+            {t.modules.buildARingFarmSettingsAndAccessibility.settings.map(
               (s: any, index: number) => (
                 <div
                   key={index}
@@ -1187,7 +1187,7 @@ export default function HomePageClient({
                       <LinkedTitle
                         linkData={
                           moduleLinkMap[
-                            `lucidBlocksSettingsAndAccessibility::settings::${index}`
+                            `buildARingFarmSettingsAndAccessibility::settings::${index}`
                           ]
                         }
                         locale={locale}
@@ -1215,18 +1215,18 @@ export default function HomePageClient({
           <div className="text-center mb-12 scroll-reveal">
             <h2 className="text-4xl md:text-5xl font-bold mb-4">
               <LinkedTitle
-                linkData={moduleLinkMap["lucidBlocksUpdatesAndPatchNotes"]}
+                linkData={moduleLinkMap["buildARingFarmUpdatesAndPatchNotes"]}
                 locale={locale}
               >
-                {t.modules.lucidBlocksUpdatesAndPatchNotes.title}
+                {t.modules.buildARingFarmUpdatesAndPatchNotes.title}
               </LinkedTitle>
             </h2>
             <p className="text-muted-foreground text-lg max-w-3xl mx-auto">
-              {t.modules.lucidBlocksUpdatesAndPatchNotes.intro}
+              {t.modules.buildARingFarmUpdatesAndPatchNotes.intro}
             </p>
           </div>
           <div className="scroll-reveal relative pl-6 border-l-2 border-[hsl(var(--nav-theme)/0.3)] space-y-8">
-            {t.modules.lucidBlocksUpdatesAndPatchNotes.entries.map(
+            {t.modules.buildARingFarmUpdatesAndPatchNotes.entries.map(
               (entry: any, index: number) => (
                 <div key={index} className="relative">
                   <div className="absolute -left-[1.4rem] w-4 h-4 rounded-full bg-[hsl(var(--nav-theme))] border-2 border-background" />
@@ -1241,7 +1241,7 @@ export default function HomePageClient({
                       <LinkedTitle
                         linkData={
                           moduleLinkMap[
-                            `lucidBlocksUpdatesAndPatchNotes::entries::${index}`
+                            `buildARingFarmUpdatesAndPatchNotes::entries::${index}`
                           ]
                         }
                         locale={locale}
@@ -1270,19 +1270,19 @@ export default function HomePageClient({
             <h2 className="text-4xl md:text-5xl font-bold mb-4">
               <LinkedTitle
                 linkData={
-                  moduleLinkMap["lucidBlocksCrashFixAndTroubleshooting"]
+                  moduleLinkMap["buildARingFarmCrashFixAndTroubleshooting"]
                 }
                 locale={locale}
               >
-                {t.modules.lucidBlocksCrashFixAndTroubleshooting.title}
+                {t.modules.buildARingFarmCrashFixAndTroubleshooting.title}
               </LinkedTitle>
             </h2>
             <p className="text-muted-foreground text-lg max-w-3xl mx-auto">
-              {t.modules.lucidBlocksCrashFixAndTroubleshooting.intro}
+              {t.modules.buildARingFarmCrashFixAndTroubleshooting.intro}
             </p>
           </div>
           <div className="scroll-reveal space-y-4 mb-8">
-            {t.modules.lucidBlocksCrashFixAndTroubleshooting.steps.map(
+            {t.modules.buildARingFarmCrashFixAndTroubleshooting.steps.map(
               (step: any, index: number) => (
                 <div
                   key={index}
@@ -1298,7 +1298,7 @@ export default function HomePageClient({
                       <LinkedTitle
                         linkData={
                           moduleLinkMap[
-                            `lucidBlocksCrashFixAndTroubleshooting::steps::${index}`
+                            `buildARingFarmCrashFixAndTroubleshooting::steps::${index}`
                           ]
                         }
                         locale={locale}

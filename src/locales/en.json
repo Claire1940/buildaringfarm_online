@@ -150,7 +150,7 @@
     ]
   },
   "modules": {
-    "lucidBlocksBeginnerGuide": {
+    "buildARingFarmBeginnerGuide": {
       "title": "Build A Ring Farm Beginner Guide",
       "displayType": "steps",
       "intro": "Start by learning how exploration, fusion, and progression connect. Build A Ring Farm rewards experimentation, so early progress comes from gathering unusual materials, testing combinations, and unlocking your personal Qualia.",
@@ -179,7 +179,7 @@
         "Getting lost early is normal, but useful tools, storage, and movement options snowball fast once your first good fusions start working."
       ]
     },
-    "lucidBlocksApotheosisCrafting": {
+    "buildARingFarmApotheosisCrafting": {
       "title": "Build A Ring Farm Apotheosis Crafting",
       "displayType": "cards",
       "intro": "Apotheosis is the game's unrestricted fusion system. Instead of memorizing a traditional recipe book, you combine materials, watch the result, and build your own crafting knowledge over time.",
@@ -207,7 +207,7 @@
         "Fuse a divine artifact"
       ]
     },
-    "lucidBlocksToolsAndWeapons": {
+    "buildARingFarmToolsAndWeapons": {
       "title": "Build A Ring Farm Tools and Weapons",
       "displayType": "itemCards",
       "intro": "Build A Ring Farm mixes official utility gear with community-discovered early weapons. The best setup is usually a blend of fast mining, safe traversal, and one dependable combat option.",
@@ -254,7 +254,7 @@
         }
       ]
     },
-    "lucidBlocksStorageAndInventory": {
+    "buildARingFarmStorageAndInventory": {
       "title": "Build A Ring Farm Storage and Inventory",
       "displayType": "solutionCards",
       "intro": "Inventory pressure starts early in Build A Ring Farm, so building storage should be one of your first goals. Several real player-tested solutions already stand out.",
@@ -287,7 +287,7 @@
         "Use your journal as part of inventory management, not just crafting discovery."
       ]
     },
-    "lucidBlocksQualiaAndBaseBuilding": {
+    "buildARingFarmQualiaAndBaseBuilding": {
       "title": "Build A Ring Farm Qualia and Base Building",
       "displayType": "cards",
       "intro": "Qualia is one of the most important progression milestones in Build A Ring Farm. It gives you a personal space to regroup, store materials, and gradually turn exploration progress into a real home base.",
@@ -316,7 +316,7 @@
         "Use base space to support crafting and farming"
       ]
     },
-    "lucidBlocksWorldRegions": {
+    "buildARingFarmWorldRegions": {
       "title": "Build A Ring Farm World Regions",
       "displayType": "regionCards",
       "intro": "Build A Ring Farm uses infinite world generation, so players keep discovering new environments and structures. A few named places are already showing up in achievements and community discussions.",
@@ -343,7 +343,7 @@
         }
       ]
     },
-    "lucidBlocksCreaturesAndEnemies": {
+    "buildARingFarmCreaturesAndEnemies": {
       "title": "Build A Ring Farm Creatures and Enemies",
       "displayType": "creatureCards",
       "intro": "Build A Ring Farm mixes surreal creatures with real danger. Official descriptions and community posts point to a world full of strange life, hostile threats, and a few standout encounters players remember quickly.",
@@ -385,7 +385,7 @@
         }
       ]
     },
-    "lucidBlocksMobilityGear": {
+    "buildARingFarmMobilityGear": {
       "title": "Build A Ring Farm Mobility Gear",
       "displayType": "itemCards",
       "intro": "Movement upgrades are one of the biggest quality-of-life jumps in Build A Ring Farm. Once you unlock your first traversal tools, exploration becomes faster, safer, and much more rewarding.",
@@ -428,7 +428,7 @@
         "Brandish an explosive"
       ]
     },
-    "lucidBlocksFarmingAndGrowth": {
+    "buildARingFarmFarmingAndGrowth": {
       "title": "Build A Ring Farm Farming and Growth",
       "displayType": "mixedCards",
       "intro": "Growth is part of real progression in Build A Ring Farm. Farming is not only about planting and harvesting, but also about setting up repeatable material routes that keep your tools, weapons, and crafting options flowing.",
@@ -457,7 +457,7 @@
         "Turn farming into long-term progression"
       ]
     },
-    "lucidBlocksBestEarlyUnlocks": {
+    "buildARingFarmBestEarlyUnlocks": {
       "title": "Build A Ring Farm Best Early Unlocks",
       "displayType": "priorityCards",
       "intro": "The strongest early unlocks are the ones that improve safety, storage, and movement. In Build A Ring Farm, a few practical upgrades can make the entire rest of the game much smoother.",
@@ -494,7 +494,7 @@
         }
       ]
     },
-    "lucidBlocksAchievementTracker": {
+    "buildARingFarmAchievementTracker": {
       "title": "Build A Ring Farm Achievement Tracker",
       "displayType": "achievementGrid",
       "intro": "Build A Ring Farm currently has 19 Roblox achievements, and they naturally split into exploration, crafting, mobility, combat, and growth progression.",
@@ -602,7 +602,7 @@
         }
       ]
     },
-    "lucidBlocksSingleplayerAndPlatformFAQ": {
+    "buildARingFarmSingleplayerAndPlatformFAQ": {
       "title": "Build A Ring Farm Singleplayer and Platform FAQ",
       "displayType": "accordion",
       "intro": "These are the core platform and access questions players keep asking before buying Build A Ring Farm.",
@@ -649,7 +649,7 @@
         }
       ]
     },
-    "lucidBlocksRobloxDeckAndController": {
+    "buildARingFarmRobloxDeckAndController": {
       "title": "Build A Ring Farm Roblox Deck and Controller",
       "displayType": "accordion",
       "intro": "Build A Ring Farm can run on Roblox Deck, but the default setup may need adjustment. Keyboard and mouse remains the smoother option for menus and general play.",
@@ -676,7 +676,7 @@
         }
       ]
     },
-    "lucidBlocksSettingsAndAccessibility": {
+    "buildARingFarmSettingsAndAccessibility": {
       "title": "Build A Ring Farm Settings and Accessibility",
       "displayType": "settingCards",
       "intro": "Build A Ring Farm already has a few practical settings and compatibility notes that matter immediately when players first launch the game.",
@@ -703,7 +703,7 @@
         }
       ]
     },
-    "lucidBlocksUpdatesAndPatchNotes": {
+    "buildARingFarmUpdatesAndPatchNotes": {
       "title": "Build A Ring Farm Updates and Patch Notes",
       "displayType": "timeline",
       "intro": "Build A Ring Farm is already receiving quick post-launch fixes and small usability updates.",
@@ -725,7 +725,7 @@
         }
       ]
     },
-    "lucidBlocksCrashFixAndTroubleshooting": {
+    "buildARingFarmCrashFixAndTroubleshooting": {
       "title": "Build A Ring Farm Crash Fix and Troubleshooting",
       "displayType": "steps",
       "intro": "Most immediate launch and crash issues should be checked in a simple order: patch level, graphics support, platform compatibility, and logs.",
