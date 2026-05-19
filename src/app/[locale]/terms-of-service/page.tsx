@@ -87,7 +87,7 @@ export default function TermsOfService() {
             <h2>2. Description of Service</h2>
             <p>
               Build A Ring Farm Wiki is an unofficial, community-driven fan website that provides information, guides, tools,
-              and resources related to the Steam game "Build A Ring Farm". Our services include, but are not limited to:
+              and resources related to the Roblox game "Build A Ring Farm". Our services include, but are not limited to:
             </p>
             <ul>
               <li>Game guides and survival strategies</li>
@@ -165,7 +165,7 @@ export default function TermsOfService() {
 
             <h2>6. Limitation of Liability</h2>
             <p>
-              TO THE FULLEST EXTENT PERMITTED BY LAW, LUCID BLOCKS WIKI SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL,
+              TO THE FULLEST EXTENT PERMITTED BY LAW, BUILD A RING FARM WIKI SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL,
               SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, OR ANY LOSS OF PROFITS OR REVENUES, WHETHER INCURRED DIRECTLY
               OR INDIRECTLY, OR ANY LOSS OF DATA, USE, GOODWILL, OR OTHER INTANGIBLE LOSSES, RESULTING FROM:
             </p>

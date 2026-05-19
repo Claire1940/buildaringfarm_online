@@ -91,7 +91,7 @@ export default function Copyright() {
               endorsed by, or associated with:
             </p>
             <ul>
-              <li><strong>Roblox</strong> - Owner of the Roblox platform</li>
+              <li><strong>Roblox</strong> - Operator of the Roblox platform and owner of the ROBLOX trademark</li>
               <li><strong>Build A Ring Farm Developers</strong> - Creators of the Build A Ring Farm game</li>
             </ul>
             <p>
