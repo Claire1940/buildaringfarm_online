@@ -14,46 +14,30 @@ interface ArticleWithType extends ContentItem {
 
 // Module sub-field mapping: moduleKey -> { field, nameKey }
 const MODULE_FIELDS: Record<string, { field: string; nameKey: string }> = {
-  buildARingFarmBeginnerGuide: { field: 'steps', nameKey: 'title' },
-  buildARingFarmApotheosisCrafting: { field: 'cards', nameKey: 'name' },
-  buildARingFarmToolsAndWeapons: { field: 'items', nameKey: 'name' },
-  buildARingFarmStorageAndInventory: { field: 'solutions', nameKey: 'name' },
-  buildARingFarmQualiaAndBaseBuilding: { field: 'cards', nameKey: 'name' },
-  buildARingFarmWorldRegions: { field: 'regions', nameKey: 'name' },
-  buildARingFarmCreaturesAndEnemies: { field: 'creatures', nameKey: 'name' },
-  buildARingFarmMobilityGear: { field: 'items', nameKey: 'name' },
-  buildARingFarmFarmingAndGrowth: { field: 'sections', nameKey: 'name' },
-  buildARingFarmBestEarlyUnlocks: { field: 'priorities', nameKey: 'name' },
-  buildARingFarmAchievementTracker: { field: 'groups', nameKey: 'name' },
-  buildARingFarmSingleplayerAndPlatformFAQ: { field: 'faqs', nameKey: 'question' },
-  buildARingFarmRobloxDeckAndController: { field: 'faqs', nameKey: 'question' },
-  buildARingFarmSettingsAndAccessibility: { field: 'settings', nameKey: 'name' },
-  buildARingFarmUpdatesAndPatchNotes: { field: 'entries', nameKey: 'title' },
-  buildARingFarmCrashFixAndTroubleshooting: { field: 'steps', nameKey: 'title' },
+  ringFarmCodes: { field: 'items', nameKey: 'code' },
+  ringFarmBeginnerGuide: { field: 'steps', nameKey: 'title' },
+  ringFarmSeedsTierList: { field: 'tiers', nameKey: 'name' },
+  ringFarmMutationsGuide: { field: 'entries', nameKey: 'name' },
+  ringFarmMoneyFarming: { field: 'items', nameKey: 'title' },
+  ringFarmUpgradesGuide: { field: 'items', nameKey: 'title' },
+  ringFarmGearAndSprays: { field: 'items', nameKey: 'item' },
+  ringFarmUpdateLog: { field: 'entries', nameKey: 'title' },
 }
 
 // Extra semantic keywords per module to boost matching for h2 titles
 // These supplement the module title text when matching against articles
 const MODULE_EXTRA_KEYWORDS: Record<string, string[]> = {
-  buildARingFarmBeginnerGuide: ['guide', 'mastering', 'progression', 'crafting', 'starter'],
-  buildARingFarmApotheosisCrafting: ['apotheosis', 'fusion', 'essence'],
-  buildARingFarmToolsAndWeapons: ['crafting recipes', 'frost pick', 'osmium', 'azrael', 'faith wand'],
-  buildARingFarmStorageAndInventory: ['chest', 'cache cube', 'cabinet', 'storage'],
-  buildARingFarmQualiaAndBaseBuilding: ['qualia', 'clonaqualia', 'personal dimensions'],
-  buildARingFarmWorldRegions: ['tiamana', 'leyline', 'biomes', 'regions'],
-  buildARingFarmCreaturesAndEnemies: ['survival', 'combat', 'surreal creatures'],
-  buildARingFarmMobilityGear: ['bee glider', 'hookshot', 'glider', 'movement'],
-  buildARingFarmFarmingAndGrowth: ['seed', 'farming', 'growth', 'material', 'progression', 'crafting'],
-  buildARingFarmBestEarlyUnlocks: ['early', 'osmium', 'frost pick', 'starter', 'progression'],
-  buildARingFarmAchievementTracker: ['achievement', 'tiamana', 'leyline'],
-  buildARingFarmSingleplayerAndPlatformFAQ: ['multiplayer', 'platform', 'co op'],
-  buildARingFarmRobloxDeckAndController: ['roblox mobile', 'controller', 'platform'],
-  buildARingFarmSettingsAndAccessibility: ['full screen', 'controls', 'display'],
-  buildARingFarmUpdatesAndPatchNotes: ['update', 'patch', 'fix'],
-  buildARingFarmCrashFixAndTroubleshooting: ['crash', 'vulkan', 'troubleshooting', 'full screen', 'controls', 'gameplay'],
+  ringFarmCodes: ['codes', 'redeem', 'update2', 'thankyou', 'barf', '100kvisits'],
+  ringFarmBeginnerGuide: ['beginner', 'saw yield', 'sprinkler power', 'seed luck', 'starter'],
+  ringFarmSeedsTierList: ['seed tier', 's tier', 'a tier', 'rarity', 'starter seeds'],
+  ringFarmMutationsGuide: ['mutations', 'value multipliers', 'spray timing', 'mutation routing', 'recovery'],
+  ringFarmMoneyFarming: ['money farming', 'sawmill', 'sell crops', 'ring expansion', 'cash loop'],
+  ringFarmUpgradesGuide: ['upgrades', 'saw yield', 'sprinkler range', 'seed luck', 'ring expansion'],
+  ringFarmGearAndSprays: ['gear', 'sprays', 'fertilizer', 'wet spray', 'frozen spray', 'void spray'],
+  ringFarmUpdateLog: ['update log', 'patch notes', 'upd 2', 'balance changes', 'changelog'],
 }
 
-const FILLER_WORDS = ['lucid', 'blocks', '2026', '2025', 'complete', 'the', 'and', 'for', 'how', 'with', 'our', 'this', 'your', 'all', 'from', 'learn', 'master']
+const FILLER_WORDS = ['build', 'a', 'ring', 'farm', '2026', '2025', 'complete', 'the', 'and', 'for', 'how', 'with', 'our', 'this', 'your', 'all', 'from', 'learn', 'master']
 
 function normalize(text: string): string {
   return text
