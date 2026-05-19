@@ -1,13 +1,13 @@
 {
   "seo": {
     "home": {
-      "title": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-      "description": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, endings, and survival tips for the surreal voxel sandbox adventure on Steam.",
-      "keywords": "Lucid Blocks, Lucid Blocks wiki, crafting, biomes, achievements, survival, Steam",
-      "ogTitle": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-      "ogDescription": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, endings, and survival tips for the surreal voxel sandbox adventure on Steam.",
-      "twitterTitle": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-      "twitterDescription": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, and survival tips for the surreal voxel sandbox on Steam."
+      "title": "Build A Ring Farm Wiki - Crafting, Biomes & Achievements",
+      "description": "Build A Ring Farm Wiki covers crafting, biomes, creatures, items, achievements, endings, and survival tips for the surreal voxel sandbox adventure on Roblox.",
+      "keywords": "Build A Ring Farm, Build A Ring Farm wiki, crafting, biomes, achievements, survival, Roblox",
+      "ogTitle": "Build A Ring Farm Wiki - Crafting, Biomes & Achievements",
+      "ogDescription": "Build A Ring Farm Wiki covers crafting, biomes, creatures, items, achievements, endings, and survival tips for the surreal voxel sandbox adventure on Roblox.",
+      "twitterTitle": "Build A Ring Farm Wiki - Crafting, Biomes & Achievements",
+      "twitterDescription": "Build A Ring Farm Wiki covers crafting, biomes, creatures, items, achievements, and survival tips for the surreal voxel sandbox on Roblox."
     }
   },
   "nav": {
@@ -21,7 +21,7 @@
   "common": {
     "home": "Home",
     "more": "More",
-    "playNow": "Play on Steam",
+    "playNow": "Play on Roblox",
     "switchLanguage": "Switch Language",
     "switchTheme": "Switch Theme",
     "lightMode": "Light Mode",
@@ -34,38 +34,38 @@
     "articlesComingSoon": "Articles coming soon"
   },
   "hero": {
-    "badge": "Surreal Voxel Survival Sandbox",
-    "title": "Lucid Blocks Wiki",
-    "description": "Explore dreamlike biomes, fuse items with Apotheosis, build freely, and survive strange creatures in this surreal open-world sandbox on Steam.",
-    "getFreeCodesCTA": "Explore Crafting Guide",
-    "playOnSteamCTA": "Play on Steam",
+    "badge": "Roblox farming tycoon with crops, upgrades, offline income, and seed-pack rewards",
+    "title": "Build a Ring Farm Wiki",
+    "description": "Grow crops, unlock seeds, upgrade machines, expand your ring farm, redeem codes, and optimize offline income in Build a Ring Farm.",
+    "getFreeCodesCTA": "Explore Beginner Guide",
+    "playOnRobloxCTA": "Play on Roblox",
     "stats": {
       "stat1": {
-        "value": "1,325",
+        "value": "18,027",
         "label": "Players Online"
       },
       "stat2": {
-        "value": "1,986",
-        "label": "Peak CCU"
+        "value": "5,930,222",
+        "label": "Total Visits"
       },
       "stat3": {
-        "value": "97%",
-        "label": "Positive Reviews"
+        "value": "98.511%",
+        "label": "Approval Rating"
       },
       "stat4": {
-        "value": "Mar 12, 2026",
-        "label": "Release Date"
+        "value": "6",
+        "label": "Active Codes"
       }
     }
   },
   "gameFeature": {
-    "title": "Lucid Blocks Gameplay",
-    "description": "Explore surreal biomes, fuse items with Apotheosis, and survive strange creatures in this dreamlike voxel sandbox on Steam."
+    "title": "Build A Ring Farm Gameplay",
+    "description": "Explore surreal biomes, fuse items with Apotheosis, and survive strange creatures in this dreamlike voxel sandbox on Roblox."
   },
   "tools": {
-    "title": "Lucid Blocks",
+    "title": "Build A Ring Farm",
     "titleHighlight": "Resources",
-    "subtitle": "Everything you need to explore, craft, and survive in Lucid Blocks",
+    "subtitle": "Everything you need to explore, craft, and survive in Build A Ring Farm",
     "cards": [
       {
         "icon": "BookOpen",
@@ -120,7 +120,7 @@
       {
         "icon": "ClipboardCheck",
         "title": "Achievement Tracker",
-        "description": "All 19 Steam achievements and conditions"
+        "description": "All 19 Roblox achievements and conditions"
       },
       {
         "icon": "MessageCircle",
@@ -129,7 +129,7 @@
       },
       {
         "icon": "Gamepad2",
-        "title": "Steam Deck and Controller",
+        "title": "Roblox Deck and Controller",
         "description": "Proton 9.0.4 setup and controller tips"
       },
       {
@@ -151,9 +151,9 @@
   },
   "modules": {
     "lucidBlocksBeginnerGuide": {
-      "title": "Lucid Blocks Beginner Guide",
+      "title": "Build A Ring Farm Beginner Guide",
       "displayType": "steps",
-      "intro": "Start by learning how exploration, fusion, and progression connect. Lucid Blocks rewards experimentation, so early progress comes from gathering unusual materials, testing combinations, and unlocking your personal Qualia.",
+      "intro": "Start by learning how exploration, fusion, and progression connect. Build A Ring Farm rewards experimentation, so early progress comes from gathering unusual materials, testing combinations, and unlocking your personal Qualia.",
       "steps": [
         {
           "title": "Explore Before You Commit",
@@ -169,7 +169,7 @@
         },
         {
           "title": "Record Good Fusions",
-          "description": "Keep track of successful combinations in your journal. Lucid Blocks has many possible fusion paths, so writing down useful results saves a lot of time."
+          "description": "Keep track of successful combinations in your journal. Build A Ring Farm has many possible fusion paths, so writing down useful results saves a lot of time."
         }
       ],
       "quickTips": [
@@ -180,7 +180,7 @@
       ]
     },
     "lucidBlocksApotheosisCrafting": {
-      "title": "Lucid Blocks Apotheosis Crafting",
+      "title": "Build A Ring Farm Apotheosis Crafting",
       "displayType": "cards",
       "intro": "Apotheosis is the game's unrestricted fusion system. Instead of memorizing a traditional recipe book, you combine materials, watch the result, and build your own crafting knowledge over time.",
       "cards": [
@@ -208,9 +208,9 @@
       ]
     },
     "lucidBlocksToolsAndWeapons": {
-      "title": "Lucid Blocks Tools and Weapons",
+      "title": "Build A Ring Farm Tools and Weapons",
       "displayType": "itemCards",
-      "intro": "Lucid Blocks mixes official utility gear with community-discovered early weapons. The best setup is usually a blend of fast mining, safe traversal, and one dependable combat option.",
+      "intro": "Build A Ring Farm mixes official utility gear with community-discovered early weapons. The best setup is usually a blend of fast mining, safe traversal, and one dependable combat option.",
       "items": [
         {
           "name": "Frost Pick",
@@ -255,9 +255,9 @@
       ]
     },
     "lucidBlocksStorageAndInventory": {
-      "title": "Lucid Blocks Storage and Inventory",
+      "title": "Build A Ring Farm Storage and Inventory",
       "displayType": "solutionCards",
-      "intro": "Inventory pressure starts early in Lucid Blocks, so building storage should be one of your first goals. Several real player-tested solutions already stand out.",
+      "intro": "Inventory pressure starts early in Build A Ring Farm, so building storage should be one of your first goals. Several real player-tested solutions already stand out.",
       "solutions": [
         {
           "name": "Cache Cube",
@@ -288,9 +288,9 @@
       ]
     },
     "lucidBlocksQualiaAndBaseBuilding": {
-      "title": "Lucid Blocks Qualia and Base Building",
+      "title": "Build A Ring Farm Qualia and Base Building",
       "displayType": "cards",
-      "intro": "Qualia is one of the most important progression milestones in Lucid Blocks. It gives you a personal space to regroup, store materials, and gradually turn exploration progress into a real home base.",
+      "intro": "Qualia is one of the most important progression milestones in Build A Ring Farm. It gives you a personal space to regroup, store materials, and gradually turn exploration progress into a real home base.",
       "cards": [
         {
           "name": "Personal Qualia",
@@ -302,7 +302,7 @@
         },
         {
           "name": "Creative Home Building",
-          "description": "Lucid Blocks supports creative building, and players are already using Qualia spaces to make houses and personalized layouts."
+          "description": "Build A Ring Farm supports creative building, and players are already using Qualia spaces to make houses and personalized layouts."
         },
         {
           "name": "Progression Hub",
@@ -317,9 +317,9 @@
       ]
     },
     "lucidBlocksWorldRegions": {
-      "title": "Lucid Blocks World Regions",
+      "title": "Build A Ring Farm World Regions",
       "displayType": "regionCards",
-      "intro": "Lucid Blocks uses infinite world generation, so players keep discovering new environments and structures. A few named places are already showing up in achievements and community discussions.",
+      "intro": "Build A Ring Farm uses infinite world generation, so players keep discovering new environments and structures. A few named places are already showing up in achievements and community discussions.",
       "regions": [
         {
           "name": "Fog Meadow",
@@ -344,9 +344,9 @@
       ]
     },
     "lucidBlocksCreaturesAndEnemies": {
-      "title": "Lucid Blocks Creatures and Enemies",
+      "title": "Build A Ring Farm Creatures and Enemies",
       "displayType": "creatureCards",
-      "intro": "Lucid Blocks mixes surreal creatures with real danger. Official descriptions and community posts point to a world full of strange life, hostile threats, and a few standout encounters players remember quickly.",
+      "intro": "Build A Ring Farm mixes surreal creatures with real danger. Official descriptions and community posts point to a world full of strange life, hostile threats, and a few standout encounters players remember quickly.",
       "creatures": [
         {
           "name": "Manikins",
@@ -386,9 +386,9 @@
       ]
     },
     "lucidBlocksMobilityGear": {
-      "title": "Lucid Blocks Mobility Gear",
+      "title": "Build A Ring Farm Mobility Gear",
       "displayType": "itemCards",
-      "intro": "Movement upgrades are one of the biggest quality-of-life jumps in Lucid Blocks. Once you unlock your first traversal tools, exploration becomes faster, safer, and much more rewarding.",
+      "intro": "Movement upgrades are one of the biggest quality-of-life jumps in Build A Ring Farm. Once you unlock your first traversal tools, exploration becomes faster, safer, and much more rewarding.",
       "items": [
         {
           "name": "Hookshot",
@@ -429,9 +429,9 @@
       ]
     },
     "lucidBlocksFarmingAndGrowth": {
-      "title": "Lucid Blocks Farming and Growth",
+      "title": "Build A Ring Farm Farming and Growth",
       "displayType": "mixedCards",
-      "intro": "Growth is part of real progression in Lucid Blocks. Farming is not only about planting and harvesting, but also about setting up repeatable material routes that keep your tools, weapons, and crafting options flowing.",
+      "intro": "Growth is part of real progression in Build A Ring Farm. Farming is not only about planting and harvesting, but also about setting up repeatable material routes that keep your tools, weapons, and crafting options flowing.",
       "sections": [
         {
           "name": "Seed Progression",
@@ -458,9 +458,9 @@
       ]
     },
     "lucidBlocksBestEarlyUnlocks": {
-      "title": "Lucid Blocks Best Early Unlocks",
+      "title": "Build A Ring Farm Best Early Unlocks",
       "displayType": "priorityCards",
-      "intro": "The strongest early unlocks are the ones that improve safety, storage, and movement. In Lucid Blocks, a few practical upgrades can make the entire rest of the game much smoother.",
+      "intro": "The strongest early unlocks are the ones that improve safety, storage, and movement. In Build A Ring Farm, a few practical upgrades can make the entire rest of the game much smoother.",
       "priorities": [
         {
           "name": "Personal Qualia",
@@ -495,9 +495,9 @@
       ]
     },
     "lucidBlocksAchievementTracker": {
-      "title": "Lucid Blocks Achievement Tracker",
+      "title": "Build A Ring Farm Achievement Tracker",
       "displayType": "achievementGrid",
-      "intro": "Lucid Blocks currently has 19 Steam achievements, and they naturally split into exploration, crafting, mobility, combat, and growth progression.",
+      "intro": "Build A Ring Farm currently has 19 Roblox achievements, and they naturally split into exploration, crafting, mobility, combat, and growth progression.",
       "groups": [
         {
           "name": "Exploration",
@@ -603,72 +603,72 @@
       ]
     },
     "lucidBlocksSingleplayerAndPlatformFAQ": {
-      "title": "Lucid Blocks Singleplayer and Platform FAQ",
+      "title": "Build A Ring Farm Singleplayer and Platform FAQ",
       "displayType": "accordion",
-      "intro": "These are the core platform and access questions players keep asking before buying Lucid Blocks.",
+      "intro": "These are the core platform and access questions players keep asking before buying Build A Ring Farm.",
       "faqs": [
         {
-          "question": "Is Lucid Blocks singleplayer?",
-          "answer": "Yes. Lucid Blocks is a singleplayer game."
+          "question": "Is Build A Ring Farm singleplayer?",
+          "answer": "Yes. Build A Ring Farm is a singleplayer game."
         },
         {
           "question": "Is multiplayer or co-op planned?",
           "answer": "No. Multiplayer is not planned for release or future updates."
         },
         {
-          "question": "Where can I play Lucid Blocks?",
-          "answer": "It is currently available on Steam for Windows."
+          "question": "Where can I play Build A Ring Farm?",
+          "answer": "It is currently available on Roblox for Windows."
         },
         {
-          "question": "How much does Lucid Blocks cost?",
-          "answer": "$9.99 on Steam."
+          "question": "How much does Build A Ring Farm cost?",
+          "answer": "$9.99 on Roblox."
         },
         {
-          "question": "Does Lucid Blocks support controllers?",
+          "question": "Does Build A Ring Farm support controllers?",
           "answer": "Yes, but controller play is not recommended because the menus are not designed around it."
         },
         {
-          "question": "Does Lucid Blocks work on Steam Deck?",
-          "answer": "Yes. Proton 9.0 or 9.0.4 is the commonly recommended setup for Steam Deck."
+          "question": "Does Build A Ring Farm work on Roblox Deck?",
+          "answer": "Yes. Proton 9.0 or 9.0.4 is the commonly recommended setup for Roblox Deck."
         },
         {
-          "question": "Does Lucid Blocks work on Linux?",
-          "answer": "Yes. Proton 9.0 is reported to work well for Linux and Steam Deck."
+          "question": "Does Build A Ring Farm work on Linux?",
+          "answer": "Yes. Proton 9.0 is reported to work well for Linux and Roblox Deck."
         },
         {
           "question": "Will Mac or Android be supported?",
           "answer": "They may be supported in the future, but they are not current launch platforms."
         },
         {
-          "question": "Does Lucid Blocks have translations?",
+          "question": "Does Build A Ring Farm have translations?",
           "answer": "No. There are currently no translations planned."
         },
         {
-          "question": "Will Lucid Blocks keep getting updates?",
+          "question": "Will Build A Ring Farm keep getting updates?",
           "answer": "Yes. Some content updates are planned after release, but they are not intended to continue on an indefinite regular schedule."
         }
       ]
     },
-    "lucidBlocksSteamDeckAndController": {
-      "title": "Lucid Blocks Steam Deck and Controller",
+    "lucidBlocksRobloxDeckAndController": {
+      "title": "Build A Ring Farm Roblox Deck and Controller",
       "displayType": "accordion",
-      "intro": "Lucid Blocks can run on Steam Deck, but the default setup may need adjustment. Keyboard and mouse remains the smoother option for menus and general play.",
+      "intro": "Build A Ring Farm can run on Roblox Deck, but the default setup may need adjustment. Keyboard and mouse remains the smoother option for menus and general play.",
       "faqs": [
         {
-          "question": "Does Lucid Blocks work on Steam Deck?",
-          "answer": "Yes. Proton 9.0 works well, and Proton 9.0.4 is a commonly shared fix for Steam Deck issues."
+          "question": "Does Build A Ring Farm work on Roblox Deck?",
+          "answer": "Yes. Proton 9.0 works well, and Proton 9.0.4 is a commonly shared fix for Roblox Deck issues."
         },
         {
-          "question": "What should I do if Steam Deck controls are not working?",
+          "question": "What should I do if Roblox Deck controls are not working?",
           "answer": "Force compatibility and switch the game to Proton 9.0.4. The default configuration may not accept controller input correctly."
         },
         {
-          "question": "Does Lucid Blocks support controllers?",
+          "question": "Does Build A Ring Farm support controllers?",
           "answer": "Yes, but controller play is not recommended because the game's menus are not designed around it."
         },
         {
           "question": "Is Linux support possible?",
-          "answer": "Yes. Proton 9.0 is reported to work well for Linux and Steam Deck."
+          "answer": "Yes. Proton 9.0 is reported to work well for Linux and Roblox Deck."
         },
         {
           "question": "What is the best input setup?",
@@ -677,9 +677,9 @@
       ]
     },
     "lucidBlocksSettingsAndAccessibility": {
-      "title": "Lucid Blocks Settings and Accessibility",
+      "title": "Build A Ring Farm Settings and Accessibility",
       "displayType": "settingCards",
-      "intro": "Lucid Blocks already has a few practical settings and compatibility notes that matter immediately when players first launch the game.",
+      "intro": "Build A Ring Farm already has a few practical settings and compatibility notes that matter immediately when players first launch the game.",
       "settings": [
         {
           "name": "Display Settings",
@@ -704,9 +704,9 @@
       ]
     },
     "lucidBlocksUpdatesAndPatchNotes": {
-      "title": "Lucid Blocks Updates and Patch Notes",
+      "title": "Build A Ring Farm Updates and Patch Notes",
       "displayType": "timeline",
-      "intro": "Lucid Blocks is already receiving quick post-launch fixes and small usability updates.",
+      "intro": "Build A Ring Farm is already receiving quick post-launch fixes and small usability updates.",
       "entries": [
         {
           "title": "Update 2.8.2",
@@ -726,7 +726,7 @@
       ]
     },
     "lucidBlocksCrashFixAndTroubleshooting": {
-      "title": "Lucid Blocks Crash Fix and Troubleshooting",
+      "title": "Build A Ring Farm Crash Fix and Troubleshooting",
       "displayType": "steps",
       "intro": "Most immediate launch and crash issues should be checked in a simple order: patch level, graphics support, platform compatibility, and logs.",
       "steps": [
@@ -736,19 +736,19 @@
         },
         {
           "title": "Check Vulkan Support",
-          "description": "Lucid Blocks requires Vulkan support. Systems without Vulkan can suffer from crashes or major rendering problems."
+          "description": "Build A Ring Farm requires Vulkan support. Systems without Vulkan can suffer from crashes or major rendering problems."
         },
         {
-          "title": "Use Proton 9.0.4 on Steam Deck",
-          "description": "If Steam Deck input or launch behavior is broken, force compatibility and switch to Proton 9.0.4."
+          "title": "Use Proton 9.0.4 on Roblox Deck",
+          "description": "If Roblox Deck input or launch behavior is broken, force compatibility and switch to Proton 9.0.4."
         },
         {
           "title": "Collect Crash Logs",
-          "description": "Open Windows Run, paste %APPDATA%, go to lucid blocks/logs, and gather the .txt files for troubleshooting."
+          "description": "Open Windows Run, paste %APPDATA%, go to build a ring farm/logs, and gather the .txt files for troubleshooting."
         },
         {
           "title": "Report the Issue Properly",
-          "description": "Share the logs and device details through the official Discord bug-reports forum or on the Steam community page."
+          "description": "Share the logs and device details through the official Discord bug-reports forum or on the Roblox community page."
         }
       ]
     }
@@ -756,63 +756,63 @@
   "faq": {
     "title": "Frequently Asked",
     "titleHighlight": "Questions",
-    "subtitle": "Everything you need to know about Lucid Blocks",
+    "subtitle": "Everything you need to know about Build A Ring Farm",
     "questions": [
       {
-        "question": "Is Lucid Blocks a singleplayer game?",
-        "answer": "Yes. Lucid Blocks is a singleplayer-only game with no multiplayer or co-op planned."
+        "question": "Is Build A Ring Farm a singleplayer game?",
+        "answer": "Yes. Build A Ring Farm is a singleplayer-only game with no multiplayer or co-op planned."
       },
       {
-        "question": "What is the Apotheosis system in Lucid Blocks?",
-        "answer": "Apotheosis is Lucid Blocks' freeform fusion crafting system. Instead of following fixed recipes, you combine materials and discover your own crafting paths."
+        "question": "What is the Apotheosis system in Build A Ring Farm?",
+        "answer": "Apotheosis is Build A Ring Farm' freeform fusion crafting system. Instead of following fixed recipes, you combine materials and discover your own crafting paths."
       },
       {
-        "question": "Where can I play Lucid Blocks?",
-        "answer": "Lucid Blocks is currently available on Steam for Windows. Linux and Steam Deck support is available through Proton 9.0."
+        "question": "Where can I play Build A Ring Farm?",
+        "answer": "Build A Ring Farm is currently available on Roblox for Windows. Linux and Roblox Deck support is available through Proton 9.0."
       },
       {
-        "question": "How much does Lucid Blocks cost?",
-        "answer": "Lucid Blocks costs $9.99 on Steam."
+        "question": "How much does Build A Ring Farm cost?",
+        "answer": "Build A Ring Farm costs $9.99 on Roblox."
       },
       {
-        "question": "Does Lucid Blocks support controllers?",
+        "question": "Does Build A Ring Farm support controllers?",
         "answer": "Yes, but controller play is not recommended because the menus are not designed around it. Keyboard and mouse is the smoother option."
       },
       {
-        "question": "Will Lucid Blocks receive updates?",
+        "question": "Will Build A Ring Farm receive updates?",
         "answer": "Yes. Some content updates are planned after release, but they are not intended to continue on an indefinite regular schedule."
       }
     ]
   },
   "cta": {
-    "title": "Ready to Explore Lucid Blocks?",
-    "description": "Join the Lucid Blocks community on Discord for guides, updates, and discussions!",
+    "title": "Ready to Grow in Build a Ring Farm?",
+    "description": "Join the Build a Ring Farm community for code drops, farming tips, and update alerts.",
     "joinCommunity": "Join Discord",
-    "joinGame": "Play on Steam"
+    "joinGame": "Play Build a Ring Farm on Roblox"
   },
   "footer": {
-    "title": "Lucid Blocks Wiki",
-    "description": "Your complete resource hub for Lucid Blocks crafting, biomes, creatures, achievements, and survival guides.",
+    "title": "Build a Ring Farm Wiki",
+    "description": "Your complete resource hub for Build a Ring Farm codes, seeds, crops, upgrades, and offline income guides.",
     "resources": "Resources",
     "community": "Community",
     "legal": "Legal",
     "discord": "Discord",
-    "twitter": "X / Twitter",
-    "steamCommunity": "Steam Community",
-    "steamStore": "Steam Store",
+    "twitter": "Roblox Community",
+    "steamCommunity": "YouTube Gameplay",
+    "steamStore": "Play on Roblox",
     "about": "About",
     "privacy": "Privacy Policy",
     "terms": "Terms of Service",
     "copyrightNotice": "Copyright",
-    "copyright": "© 2026 Lucid Blocks Wiki. Not affiliated with the developers of Lucid Blocks.",
+    "copyright": "© 2026 Build a Ring Farm Wiki. Not affiliated with Roblox or the game developers.",
     "disclaimer": "Unofficial fan-made resource website."
   },
   "pages": {
     "guides": {
-      "title": "Lucid Blocks Guides",
+      "title": "Build A Ring Farm Guides",
       "description": "Complete gameplay guides from beginner basics to advanced Apotheosis strategies. Master survival and crafting.",
-      "metaTitle": "Lucid Blocks Guides - Beginner to Advanced Strategies",
-      "metaDescription": "Complete Lucid Blocks guides covering beginner tips, Apotheosis system, survival strategies, and expert tactics for mastering the surreal sandbox.",
+      "metaTitle": "Build A Ring Farm Guides - Beginner to Advanced Strategies",
+      "metaDescription": "Complete Build A Ring Farm guides covering beginner tips, Apotheosis system, survival strategies, and expert tactics for mastering the surreal sandbox.",
       "categoryLabel": "GAME GUIDES",
       "whatIs": "What are Guides?",
       "whatIsDescription": "Comprehensive guides covering gameplay mechanics, survival strategies, and the Apotheosis crafting system. Learn everything from first steps to advanced techniques.",
@@ -829,10 +829,10 @@
       "all": "All Guides"
     },
     "crafting": {
-      "title": "Lucid Blocks Crafting",
+      "title": "Build A Ring Farm Crafting",
       "description": "Master the Apotheosis fusion system with essence mechanics, recipes, and crafting strategies for powerful items.",
-      "metaTitle": "Lucid Blocks Crafting - Apotheosis System & Recipes",
-      "metaDescription": "Master Lucid Blocks Apotheosis crafting system. Learn essence mechanics, fusion recipes, and strategies for creating powerful tools and weapons.",
+      "metaTitle": "Build A Ring Farm Crafting - Apotheosis System & Recipes",
+      "metaDescription": "Master Build A Ring Farm Apotheosis crafting system. Learn essence mechanics, fusion recipes, and strategies for creating powerful tools and weapons.",
       "categoryLabel": "CRAFTING SYSTEM",
       "whatIs": "What is Crafting?",
       "whatIsDescription": "The Apotheosis system is a unique essence-driven fusion mechanic where you combine up to six items to discover new recipes. No fixed crafting menus—experimentation is key.",
@@ -849,10 +849,10 @@
       "all": "All Crafting Guides"
     },
     "items": {
-      "title": "Lucid Blocks Items",
+      "title": "Build A Ring Farm Items",
       "description": "Detailed item guides covering tools, weapons, mobility gear, and storage solutions with crafting recipes and usage tips.",
-      "metaTitle": "Lucid Blocks Items - Tools, Weapons & Gear Guide",
-      "metaDescription": "Complete item database for Lucid Blocks including tools, weapons, mobility gear, and storage. Learn how to craft and use every item effectively.",
+      "metaTitle": "Build A Ring Farm Items - Tools, Weapons & Gear Guide",
+      "metaDescription": "Complete item database for Build A Ring Farm including tools, weapons, mobility gear, and storage. Learn how to craft and use every item effectively.",
       "categoryLabel": "ITEMS & EQUIPMENT",
       "whatIs": "What are Items?",
       "whatIsDescription": "Comprehensive guides for tools, weapons, mobility gear, and functional items. Learn crafting recipes, usage strategies, and optimal combinations.",
@@ -869,10 +869,10 @@
       "all": "All Items"
     },
     "biomes": {
-      "title": "Lucid Blocks Biomes",
+      "title": "Build A Ring Farm Biomes",
       "description": "Explore world regions, environmental features, resource locations, and survival tips for each biome.",
-      "metaTitle": "Lucid Blocks Biomes - World Regions & Exploration",
-      "metaDescription": "Explore Lucid Blocks biomes including Tiamana Leylines, Fog Meadow, and surreal regions. Find resources, avoid dangers, and navigate the infinite world.",
+      "metaTitle": "Build A Ring Farm Biomes - World Regions & Exploration",
+      "metaDescription": "Explore Build A Ring Farm biomes including Tiamana Leylines, Fog Meadow, and surreal regions. Find resources, avoid dangers, and navigate the infinite world.",
       "categoryLabel": "WORLD REGIONS",
       "whatIs": "What are Biomes?",
       "whatIsDescription": "Guides to different world regions, environmental features, resource distribution, and danger zones. Learn what to expect and how to prepare for each area.",
@@ -889,10 +889,10 @@
       "all": "All Biomes"
     },
     "building": {
-      "title": "Lucid Blocks Building",
+      "title": "Build A Ring Farm Building",
       "description": "Master Qualia personal dimensions, base building, storage management, and creative construction techniques.",
-      "metaTitle": "Lucid Blocks Building - Qualia & Base Construction",
-      "metaDescription": "Master Lucid Blocks building with Qualia personal dimensions, base construction, storage solutions, and creative building techniques.",
+      "metaTitle": "Build A Ring Farm Building - Qualia & Base Construction",
+      "metaDescription": "Master Build A Ring Farm building with Qualia personal dimensions, base construction, storage solutions, and creative building techniques.",
       "categoryLabel": "BUILDING & BASES",
       "whatIs": "What is Building?",
       "whatIsDescription": "Guides to the Qualia personal dimension system, base construction, storage management, and creative building. Learn to create your safe haven in the surreal world.",
@@ -909,13 +909,13 @@
       "all": "All Building Guides"
     },
     "support": {
-      "title": "Lucid Blocks Support",
+      "title": "Build A Ring Farm Support",
       "description": "Technical support, platform compatibility, performance optimization, and troubleshooting for common issues.",
-      "metaTitle": "Lucid Blocks Support - Technical Help & Fixes",
-      "metaDescription": "Get technical support for Lucid Blocks including Steam Deck setup, crash fixes, performance optimization, and platform compatibility guides.",
+      "metaTitle": "Build A Ring Farm Support - Technical Help & Fixes",
+      "metaDescription": "Get technical support for Build A Ring Farm including Roblox Deck setup, crash fixes, performance optimization, and platform compatibility guides.",
       "categoryLabel": "TECHNICAL SUPPORT",
       "whatIs": "What is Support?",
-      "whatIsDescription": "Technical guides covering platform compatibility, performance optimization, crash fixes, and common issues. Get help with Steam Deck, multiplayer questions, and settings.",
+      "whatIsDescription": "Technical guides covering platform compatibility, performance optimization, crash fixes, and common issues. Get help with Roblox Deck, multiplayer questions, and settings.",
       "why": "Why check support?",
       "whySteps": {
         "step1Title": "Fix Technical Issues",
@@ -923,7 +923,7 @@
         "step2Title": "Optimize Performance",
         "step2Description": "Configure settings for best experience on your platform",
         "step3Title": "Platform Compatibility",
-        "step3Description": "Learn about Steam Deck, controller support, and system requirements"
+        "step3Description": "Learn about Roblox Deck, controller support, and system requirements"
       },
       "featured": "Featured & Essential",
       "all": "All Support Articles"

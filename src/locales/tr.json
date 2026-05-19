@@ -1,13 +1,13 @@
 {
   "seo": {
     "home": {
-      "title": "Lucid Blocks Wiki - Demo İndirme, İşbirliği Rehberi, Üretim & Modlar",
-      "description": "Eksiksiz Lucid Blocks kaynak merkezi! Steam gizli soygun oyunu için demo indirme bilgileri, başlangıç rehberleri, işbirliği stratejileri, üretim ipuçları, kontroller, modlar ve topluluk bağlantıları edinin.",
-      "keywords": "Lucid Blocks Wiki, Lucid Blocks, demo indirme, başlangıç rehberi, işbirliği rehberi, üretim, ekipman, modlar, BepInEx, Steam oyunu, gizli oyun",
-      "ogTitle": "Lucid Blocks Wiki - Demo İndirme, İşbirliği Rehberi, Üretim & Modlar",
-      "ogDescription": "Eksiksiz Lucid Blocks kaynak merkezi! Steam gizli soygun oyunu için demo indirme bilgileri, başlangıç rehberleri, işbirliği stratejileri, üretim ipuçları ve modlar edinin.",
-      "twitterTitle": "Lucid Blocks Wiki - Demo İndirme, İşbirliği Rehberi, Üretim & Modlar",
-      "twitterDescription": "Eksiksiz Lucid Blocks kaynak merkezi! Demo indirme bilgileri, başlangıç rehberleri, işbirliği stratejileri ve üretim ipuçları edinin."
+      "title": "Build A Ring Farm Wiki - Demo İndirme, İşbirliği Rehberi, Üretim & Modlar",
+      "description": "Eksiksiz Build A Ring Farm kaynak merkezi! Roblox gizli soygun oyunu için demo indirme bilgileri, başlangıç rehberleri, işbirliği stratejileri, üretim ipuçları, kontroller, modlar ve topluluk bağlantıları edinin.",
+      "keywords": "Build A Ring Farm Wiki, Build A Ring Farm, demo indirme, başlangıç rehberi, işbirliği rehberi, üretim, ekipman, modlar, BepInEx, Roblox oyunu, gizli oyun",
+      "ogTitle": "Build A Ring Farm Wiki - Demo İndirme, İşbirliği Rehberi, Üretim & Modlar",
+      "ogDescription": "Eksiksiz Build A Ring Farm kaynak merkezi! Roblox gizli soygun oyunu için demo indirme bilgileri, başlangıç rehberleri, işbirliği stratejileri, üretim ipuçları ve modlar edinin.",
+      "twitterTitle": "Build A Ring Farm Wiki - Demo İndirme, İşbirliği Rehberi, Üretim & Modlar",
+      "twitterDescription": "Eksiksiz Build A Ring Farm kaynak merkezi! Demo indirme bilgileri, başlangıç rehberleri, işbirliği stratejileri ve üretim ipuçları edinin."
     }
   },
   "nav": {
@@ -35,10 +35,10 @@
   },
   "hero": {
     "badge": "Ufak cüceler. Büyük evler. Arkadaşlarla gizli soygunlar.",
-    "title": "Lucid Blocks wiki",
-    "description": "Lucid Blocks için merkeziniz: soygunlar nasıl işliyor, Yüksek Cüce işleri, üretim & geliştirmeler, düşmanlar, kontroller ve her koşuda hayatta kalmanın en hızlı yolları.",
+    "title": "Build A Ring Farm wiki",
+    "description": "Build A Ring Farm için merkeziniz: soygunlar nasıl işliyor, Yüksek Cüce işleri, üretim & geliştirmeler, düşmanlar, kontroller ve her koşuda hayatta kalmanın en hızlı yolları.",
     "getFreeCodesCTA": "Demo İndir",
-    "playOnSteamCTA": "Steam'de İstek Listesine Ekle",
+    "playOnRobloxCTA": "Roblox'de İstek Listesine Ekle",
     "stats": {
       "stat1": {
         "value": "15B",
@@ -53,24 +53,24 @@
         "label": "Demo Yayın Tarihi"
       },
       "stat4": {
-        "value": "PC (Steam)",
+        "value": "PC (Roblox)",
         "label": "Platform"
       }
     }
   },
   "gameFeature": {
-    "title": "Lucid Blocks Oynanışı",
+    "title": "Build A Ring Farm Oynanışı",
     "description": "Ufak cücelerin kaotik 6 oyunculu işbirliği gizli görevlerinde büyük soygunlar yapmasını izleyin!"
   },
   "tools": {
-    "title": "Lucid Blocks",
+    "title": "Build A Ring Farm",
     "titleHighlight": "Kaynaklar",
     "subtitle": "Soygunlarda ve işbirliği gizliliğinde ustalaşmak için ihtiyacınız olan her şey",
     "cards": [
       {
         "icon": "İndir",
         "title": "Demo İndirme",
-        "description": "Ücretsiz Steam demosunu edinin"
+        "description": "Ücretsiz Roblox demosunu edinin"
       },
       {
         "icon": "KitapAçık",
@@ -151,36 +151,36 @@
   },
   "modules": {
     "demoDownload": {
-      "title": "Lucid Blocks Demo İndirme",
-      "subtitle": "Steam'de ücretsiz demoyu edinin",
+      "title": "Build A Ring Farm Demo İndirme",
+      "subtitle": "Roblox'de ücretsiz demoyu edinin",
       "downloadSize": "2,62 GiB",
       "diskSize": "4,88 GiB",
       "releaseDate": "30 Ocak 2026",
       "price": "Ücretsiz",
-      "platform": "PC (Steam) / Windows",
+      "platform": "PC (Roblox) / Windows",
       "engine": "Unity",
       "primaryCTA": "Demo İndir",
       "secondaryCTA": "Teknik Bilgileri Görüntüle",
-      "installPath": "Steam\\steamapps\\common\\Lucid Blocks Demo",
+      "installPath": "Roblox\\steamapps\\common\\Build A Ring Farm Demo",
       "sections": [
         {
           "heading": "Nereden indirilir",
           "items": [
-            "Resmi Steam mağaza sayfasını açın ve 'Demo İndir' bölümünü kullanın.",
-            "Steam sizden oturum açmanızı isterse, önce oturum açın ve tekrar deneyin."
+            "Resmi Roblox mağaza sayfasını açın ve 'Demo İndir' bölümünü kullanın.",
+            "Roblox sizden oturum açmanızı isterse, önce oturum açın ve tekrar deneyin."
           ]
         },
         {
           "heading": "Kurulum & başlatma hızlı kontrolleri",
           "items": [
-            "Varsayılan kurulum konumu: Steam Kütüphanesi klasörü → steamapps → common → (oyun klasörü).",
-            "Başlatılamıyorsa: Steam'de oyun dosyalarını doğrulayın, ardından Steam'i yeniden başlatın."
+            "Varsayılan kurulum konumu: Roblox Kütüphanesi klasörü → steamapps → common → (oyun klasörü).",
+            "Başlatılamıyorsa: Roblox'de oyun dosyalarını doğrulayın, ardından Roblox'i yeniden başlatın."
           ]
         }
       ]
     },
     "beginnerGuide": {
-      "title": "Lucid Blocks Başlangıç Rehberi",
+      "title": "Build A Ring Farm Başlangıç Rehberi",
       "subtitle": "Temel döngüde ustalaşın ve yaygın hatalardan kaçının",
       "steps": [
         {
@@ -228,7 +228,7 @@
       ]
     },
     "coopGuide": {
-      "title": "Lucid Blocks İşbirliği Rehberi",
+      "title": "Build A Ring Farm İşbirliği Rehberi",
       "subtitle": "Maksimum kaos için 6 oyuncuya kadar koordine olun",
       "maxPlayers": 6,
       "roles": [
@@ -262,7 +262,7 @@
       "communication": "Görevleri ve kurtarmaları koordine etmek için sesli sohbeti (V tuşu) kullanın. Şunu söyleyin: 'Görüldü', 'Rota', 'Kurtarmaya ihtiyacım var', 'Yakında çıkış yap'."
     },
     "tasksObjectives": {
-      "title": "Lucid Blocks Görevler & Amaçlar",
+      "title": "Build A Ring Farm Görevler & Amaçlar",
       "subtitle": "Yüksek Cüce'nin istedikleri: görev örnekleri",
       "taskTypes": [
         {
@@ -293,7 +293,7 @@
       ]
     },
     "controlsKeybinds": {
-      "title": "Lucid Blocks Kontroller & Tuş Atamaları",
+      "title": "Build A Ring Farm Kontroller & Tuş Atamaları",
       "subtitle": "Varsayılan klavye kontrolleri (ve bunları nerede değiştireceğiniz)",
       "keybinds": [
         {
@@ -372,8 +372,8 @@
       "changePath": "Başlık menüsünden: AYARLAR'ı açın, ardından klavye ayarlarını kontrol edin. Tuş atama satırlarını filtrelemek için arama alanını kullanın."
     },
     "contentSettings": {
-      "title": "Lucid Blocks İçerik Ayarları",
-      "subtitle": "Yetişkinlere yönelik içerik, çıplaklık geçişi ve Steam tercihleri",
+      "title": "Build A Ring Farm İçerik Ayarları",
+      "subtitle": "Yetişkinlere yönelik içerik, çıplaklık geçişi ve Roblox tercihleri",
       "descriptors": [
         "Bazı Çıplaklık veya Cinsel İçerik",
         "Genel Yetişkinlere Yönelik İçerik"
@@ -388,16 +388,16 @@
           ]
         },
         {
-          "heading": "Steam topluluk sayfasını engellerse",
+          "heading": "Roblox topluluk sayfasını engellerse",
           "items": [
-            "Steam, içerik tercihlerinize bağlı olarak topluluk merkezini gizleyebilir.",
-            "Steam'in ne göstermesine izin verdiğinizi ayarlamak için Steam'in 'İçerik Tercihlerini Güncelle' seçeneğini kullanın."
+            "Roblox, içerik tercihlerinize bağlı olarak topluluk merkezini gizleyebilir.",
+            "Roblox'in ne göstermesine izin verdiğinizi ayarlamak için Roblox'in 'İçerik Tercihlerini Güncelle' seçeneğini kullanın."
           ]
         }
       ]
     },
     "craftingEquipment": {
-      "title": "Lucid Blocks Üretim & Ekipman",
+      "title": "Build A Ring Farm Üretim & Ekipman",
       "subtitle": "Donanın: üretim örnekleri ve her aracın ne yaptığı",
       "equipment": [
         {
@@ -434,7 +434,7 @@
       ]
     },
     "lootItems": {
-      "title": "Lucid Blocks Ganimet & Eşyalar",
+      "title": "Build A Ring Farm Ganimet & Eşyalar",
       "subtitle": "Ne çalınır: eşya türleri, risk ve taşıma ipuçları",
       "categories": [
         {
@@ -477,7 +477,7 @@
       ]
     },
     "enemiesHazards": {
-      "title": "Lucid Blocks Düşmanlar & Tehlikeler",
+      "title": "Build A Ring Farm Düşmanlar & Tehlikeler",
       "subtitle": "Sizi neyin yakalayabileceğini bilin",
       "threats": [
         {
@@ -519,7 +519,7 @@
       ]
     },
     "stealthEscape": {
-      "title": "Lucid Blocks Gizlilik & Kaçış İpuçları",
+      "title": "Build A Ring Farm Gizlilik & Kaçış İpuçları",
       "subtitle": "Daha fazla çalın, daha az ölün",
       "do": [
         "Gizli kalın ve nesnelerle etkileşim kurmadan önce siper alın",
@@ -549,7 +549,7 @@
       ]
     },
     "homeUpgrades": {
-      "title": "Lucid Blocks Ev Geliştirmeleri",
+      "title": "Build A Ring Farm Ev Geliştirmeleri",
       "subtitle": "Üret, inşa et, yükselt",
       "branches": [
         {
@@ -607,33 +607,33 @@
       ]
     },
     "community": {
-      "title": "Lucid Blocks Topluluk & Discord",
+      "title": "Build A Ring Farm Topluluk & Discord",
       "subtitle": "Kadrolar, güncellemeler, tartışmalar bulun",
       "links": [
         {
           "title": "Resmi Discord",
           "subtitle": "Duyurular • Geri Bildirim • LFG",
-          "url": "https://discord.com/invite/lucidblocks"
+          "url": "https://discord.com/invite/buildaringfarm"
         },
         {
           "title": "Resmi X (Twitter)",
           "subtitle": "Güncellemeler & geliştirici gönderileri",
-          "url": "https://x.com/lucidblocks"
+          "url": "https://x.com/buildaringfarm"
         },
         {
-          "title": "Steam Topluluk Merkezi",
+          "title": "Roblox Topluluk Merkezi",
           "subtitle": "Tartışmalar • Ekran Görüntüleri • Rehberler",
-          "url": "https://steamcommunity.com/app/3495730"
+          "url": "https://www.youtube.com/watch?v=E56z-x9TrZQ"
         },
         {
-          "title": "Steam Mağaza Sayfası",
+          "title": "Roblox Mağaza Sayfası",
           "subtitle": "İstek Listesi • Demo • Resmi açıklama",
-          "url": "https://store.steampowered.com/app/3495730/Lucid_Blocks/"
+          "url": "https://www.roblox.com/games/107646426076756/Build-A-Ring-Farm"
         }
       ]
     },
     "modsBepInEx": {
-      "title": "Lucid Blocks Modlar & BepInEx Kurulumu",
+      "title": "Build A Ring Farm Modlar & BepInEx Kurulumu",
       "subtitle": "Modları temiz bir şekilde kurun",
       "steps": [
         {
@@ -659,18 +659,18 @@
       ],
       "paths": [
         {
-          "label": "Tipik Steam kurulumu",
-          "path": "Steam\\steamapps\\common\\Lucid Blocks Demo\\"
+          "label": "Tipik Roblox kurulumu",
+          "path": "Roblox\\steamapps\\common\\Build A Ring Farm Demo\\"
         },
         {
           "label": "Eklenti klasörü",
-          "path": "Steam\\steamapps\\common\\Lucid Blocks Demo\\BepInEx\\plugins\\"
+          "path": "Roblox\\steamapps\\common\\Build A Ring Farm Demo\\BepInEx\\plugins\\"
         }
       ],
       "multiplayerNote": "Modlanmış işbirliği oynanış özellikleri için herkes BepInEx'i ve aynı oynanış modlarını kurmalıdır."
     },
     "popularMods": {
-      "title": "Lucid Blocks Popüler Modlar",
+      "title": "Build A Ring Farm Popüler Modlar",
       "subtitle": "En iyi topluluk seçimleri",
       "mods": [
         {
@@ -737,7 +737,7 @@
       ]
     },
     "controllerSupport": {
-      "title": "Lucid Blocks Kontrol Cihazı Desteği",
+      "title": "Build A Ring Farm Kontrol Cihazı Desteği",
       "subtitle": "Tam gamepad oyunu",
       "native": {
         "title": "Oyun İçi Ayarlar",
@@ -757,7 +757,7 @@
       ]
     },
     "playerCount": {
-      "title": "Lucid Blocks Oyuncu Sayısı & Trendi",
+      "title": "Build A Ring Farm Oyuncu Sayısı & Trendi",
       "subtitle": "Canlı popülerlik anlık görüntüsü",
       "stats": {
         "now": {
@@ -776,8 +776,8 @@
       "milestones": [
         {
           "date": "30 Ocak 2026",
-          "title": "Steam'de demo yayınlandı",
-          "detail": "Herkese açık demo PC'de (Steam) kullanıma sunuldu."
+          "title": "Roblox'de demo yayınlandı",
+          "detail": "Herkese açık demo PC'de (Roblox) kullanıma sunuldu."
         },
         {
           "date": "8 Şubat 2026",
@@ -790,63 +790,63 @@
   "faq": {
     "title": "Sıkça Sorulan",
     "titleHighlight": "Sorular",
-    "subtitle": "Lucid Blocks hakkında bilmeniz gereken her şey",
+    "subtitle": "Build A Ring Farm hakkında bilmeniz gereken her şey",
     "questions": [
       {
-        "question": "Lucid Blocks demosunu nasıl indirebilirim?",
-        "answer": "Steam mağaza sayfasını ziyaret edin ve 'Demo İndir'e tıklayın. Demo ücretsizdir ve indirmek için 2,62 GiB, disk alanı için 4,88 GiB gerektirir."
+        "question": "Build A Ring Farm demosunu nasıl indirebilirim?",
+        "answer": "Roblox mağaza sayfasını ziyaret edin ve 'Demo İndir'e tıklayın. Demo ücretsizdir ve indirmek için 2,62 GiB, disk alanı için 4,88 GiB gerektirir."
       },
       {
-        "question": "Lucid Blocks'u tek başıma mı oynayabilirim yoksa arkadaşlara mı ihtiyacım var?",
-        "answer": "Lucid Blocks hem tek oyunculu hem de 6 oyuncuya kadar işbirliğini destekler. Tek başına oynamak daha zordur ancak mümkündür."
+        "question": "Build A Ring Farm'u tek başıma mı oynayabilirim yoksa arkadaşlara mı ihtiyacım var?",
+        "answer": "Build A Ring Farm hem tek oyunculu hem de 6 oyuncuya kadar işbirliğini destekler. Tek başına oynamak daha zordur ancak mümkündür."
       },
       {
-        "question": "Lucid Blocks'da Yüksek Cüce görevleri nelerdir?",
+        "question": "Build A Ring Farm'da Yüksek Cüce görevleri nelerdir?",
         "answer": "Yüksek Cüce, 'TV'yi kır', 'tuvaleti su baskını yap' veya 'belirli eşyaları çal' gibi hedefler atayan patronunuzdur. Ekstra ödüller için bunları tamamlayın."
       },
       {
-        "question": "Lucid Blocks için modları nasıl kurarım?",
+        "question": "Build A Ring Farm için modları nasıl kurarım?",
         "answer": "BepInEx 5'i kurun, oyunu bir kez başlatın, ardından mod DLL'lerini BepInEx/plugins/ klasörüne yerleştirin. Çok oyunculu mod için tüm oyuncuların aynı modlara ihtiyacı vardır."
       },
       {
-        "question": "Lucid Blocks kontrol cihazlarını destekliyor mu?",
+        "question": "Build A Ring Farm kontrol cihazlarını destekliyor mu?",
         "answer": "Evet! Temel kontrol cihazı desteği için oyun içi ayarları kullanın veya tam UI gezinmesi için Nexus Mods'tan Kontrol Cihazı Modunu kurun."
       },
       {
-        "question": "Lucid Blocks için oyuncu sayısı nedir?",
-        "answer": "Şubat 2026 itibarıyla, Lucid Blocks ortalama 6.000'den fazla eş zamanlı oyuncuya sahip ve 8 Şubat 2026'da 15.272 zirveye ulaştı."
+        "question": "Build A Ring Farm için oyuncu sayısı nedir?",
+        "answer": "Şubat 2026 itibarıyla, Build A Ring Farm ortalama 6.000'den fazla eş zamanlı oyuncuya sahip ve 8 Şubat 2026'da 15.272 zirveye ulaştı."
       }
     ]
   },
   "cta": {
     "title": "Soygun Yapmaya Hazır mısınız?",
-    "description": "İşbirliği grupları, güncellemeler ve mod tartışmaları için Discord'da Lucid Blocks topluluğuna katılın!",
+    "description": "İşbirliği grupları, güncellemeler ve mod tartışmaları için Discord'da Build A Ring Farm topluluğuna katılın!",
     "joinCommunity": "Discord'a Katıl",
-    "joinGame": "Steam'de Demo Al"
+    "joinGame": "Roblox'de Demo Al"
   },
   "footer": {
-    "title": "Lucid Blocks Wiki",
-    "description": "Lucid Blocks gizli soygunları, işbirliği stratejileri, modlar ve topluluk rehberleri için eksiksiz kaynak merkeziniz.",
+    "title": "Build A Ring Farm Wiki",
+    "description": "Build A Ring Farm gizli soygunları, işbirliği stratejileri, modlar ve topluluk rehberleri için eksiksiz kaynak merkeziniz.",
     "resources": "Kaynaklar",
     "community": "Topluluk",
     "legal": "Yasal",
     "discord": "Discord",
     "twitter": "X / Twitter",
-    "steamCommunity": "Steam Topluluğu",
-    "steamStore": "Steam Mağazası",
+    "steamCommunity": "Roblox Topluluğu",
+    "steamStore": "Roblox Mağazası",
     "about": "Hakkında",
     "privacy": "Gizlilik Politikası",
     "terms": "Hizmet Şartları",
     "copyrightNotice": "Telif Hakkı",
-    "copyright": "© 2026 Lucid Blocks Wiki. Lucid Blocks geliştiricileriyle bağlantılı değildir.",
+    "copyright": "© 2026 Build A Ring Farm Wiki. Build A Ring Farm geliştiricileriyle bağlantılı değildir.",
     "disclaimer": "Resmi olmayan hayran yapımı kaynak web sitesi."
   },
   "pages": {
     "guides": {
-      "title": "Lucid Blocks Rehberleri",
+      "title": "Build A Ring Farm Rehberleri",
       "description": "Başlangıç seviyesinden ileri düzey Apotheosis stratejilerine kadar eksiksiz oynanış rehberleri. Hayatta kalma ve üretimde ustalaşın.",
-      "metaTitle": "Lucid Blocks Rehberleri - Başlangıçtan İleri Düzey Stratejilere",
-      "metaDescription": "Başlangıç ipuçlarını, Apotheosis sistemini, hayatta kalma stratejilerini ve gerçeküstü sandbox dünyasında ustalaşmak için uzman taktiklerini kapsayan eksiksiz Lucid Blocks rehberleri.",
+      "metaTitle": "Build A Ring Farm Rehberleri - Başlangıçtan İleri Düzey Stratejilere",
+      "metaDescription": "Başlangıç ipuçlarını, Apotheosis sistemini, hayatta kalma stratejilerini ve gerçeküstü sandbox dünyasında ustalaşmak için uzman taktiklerini kapsayan eksiksiz Build A Ring Farm rehberleri.",
       "categoryLabel": "OYUN REHBERLERİ",
       "whatIs": "Rehberler Nedir?",
       "whatIsDescription": "Oynanış mekaniklerini, hayatta kalma stratejilerini ve Apotheosis üretim sistemini kapsayan kapsamlı rehberler. İlk adımlardan ileri tekniklere kadar her şeyi öğrenin.",
@@ -863,10 +863,10 @@
       "all": "Tüm Rehberler"
     },
     "crafting": {
-      "title": "Lucid Blocks Üretim",
+      "title": "Build A Ring Farm Üretim",
       "description": "Öz mekanikleri, tarifler ve güçlü eşyalar için üretim stratejileri ile Apotheosis füzyon sisteminde ustalaşın.",
-      "metaTitle": "Lucid Blocks Üretim - Apotheosis Sistemi ve Tarifler",
-      "metaDescription": "Lucid Blocks Apotheosis üretim sisteminde ustalaşın. Öz mekaniklerini, füzyon tariflerini ve güçlü araçlar ile silahlar oluşturma stratejilerini öğrenin.",
+      "metaTitle": "Build A Ring Farm Üretim - Apotheosis Sistemi ve Tarifler",
+      "metaDescription": "Build A Ring Farm Apotheosis üretim sisteminde ustalaşın. Öz mekaniklerini, füzyon tariflerini ve güçlü araçlar ile silahlar oluşturma stratejilerini öğrenin.",
       "categoryLabel": "ÜRETİM SİSTEMİ",
       "whatIs": "Üretim Nedir?",
       "whatIsDescription": "Apotheosis sistemi, yeni tarifler keşfetmek için altı adede kadar eşyayı birleştirdiğiniz benzersiz bir öz odaklı füzyon mekaniğidir. Sabit üretim menüleri yoktur; deney yapmak anahtardır.",
@@ -883,10 +883,10 @@
       "all": "Tüm Üretim Rehberleri"
     },
     "items": {
-      "title": "Lucid Blocks Eşyaları",
+      "title": "Build A Ring Farm Eşyaları",
       "description": "Üretim tarifleri ve kullanım ipuçlarıyla birlikte araçları, silahları, hareket ekipmanlarını ve depolama çözümlerini kapsayan ayrıntılı eşya rehberleri.",
-      "metaTitle": "Lucid Blocks Eşyaları - Araçlar, Silahlar ve Ekipman Rehberi",
-      "metaDescription": "Araçlar, silahlar, hareket ekipmanları ve depolama dahil olmak üzere Lucid Blocks için eksiksiz eşya veritabanı. Her eşyayı nasıl üreteceğinizi ve etkili bir şekilde kullanacağınızı öğrenin.",
+      "metaTitle": "Build A Ring Farm Eşyaları - Araçlar, Silahlar ve Ekipman Rehberi",
+      "metaDescription": "Araçlar, silahlar, hareket ekipmanları ve depolama dahil olmak üzere Build A Ring Farm için eksiksiz eşya veritabanı. Her eşyayı nasıl üreteceğinizi ve etkili bir şekilde kullanacağınızı öğrenin.",
       "categoryLabel": "EŞYALAR VE EKİPMANLAR",
       "whatIs": "Eşyalar Nedir?",
       "whatIsDescription": "Araçlar, silahlar, hareket ekipmanları ve işlevsel eşyalar için kapsamlı rehberler. Üretim tariflerini, kullanım stratejilerini ve en uygun kombinasyonları öğrenin.",
@@ -903,10 +903,10 @@
       "all": "Tüm Eşyalar"
     },
     "biomes": {
-      "title": "Lucid Blocks Biyomları",
+      "title": "Build A Ring Farm Biyomları",
       "description": "Her biyom için dünya bölgelerini, çevresel özellikleri, kaynak konumlarını ve hayatta kalma ipuçlarını keşfedin.",
-      "metaTitle": "Lucid Blocks Biyomları - Dünya Bölgeleri ve Keşif",
-      "metaDescription": "Tiamana Leylines, Fog Meadow ve gerçeküstü bölgeler dahil olmak üzere Lucid Blocks biyomlarını keşfedin. Kaynakları bulun, tehlikelerden kaçının ve sonsuz dünyada gezinin.",
+      "metaTitle": "Build A Ring Farm Biyomları - Dünya Bölgeleri ve Keşif",
+      "metaDescription": "Tiamana Leylines, Fog Meadow ve gerçeküstü bölgeler dahil olmak üzere Build A Ring Farm biyomlarını keşfedin. Kaynakları bulun, tehlikelerden kaçının ve sonsuz dünyada gezinin.",
       "categoryLabel": "DÜNYA BÖLGELERİ",
       "whatIs": "Biyomlar Nedir?",
       "whatIsDescription": "Farklı dünya bölgeleri, çevresel özellikler, kaynak dağılımı ve tehlike bölgeleri rehberleri. Her alan için ne bekleyeceğinizi ve nasıl hazırlanacağınızı öğrenin.",
@@ -923,10 +923,10 @@
       "all": "Tüm Biyomlar"
     },
     "building": {
-      "title": "Lucid Blocks İnşa Etme",
+      "title": "Build A Ring Farm İnşa Etme",
       "description": "Master Qualia kişisel boyutları, üs inşası, depolama yönetimi ve yaratıcı inşa tekniklerinde ustalaşın.",
-      "metaTitle": "Lucid Blocks İnşa Etme - Qualia ve Üs İnşası",
-      "metaDescription": "Qualia kişisel boyutları, üs inşası, depolama çözümleri ve yaratıcı inşa teknikleri ile Lucid Blocks inşa etme sisteminde ustalaşın.",
+      "metaTitle": "Build A Ring Farm İnşa Etme - Qualia ve Üs İnşası",
+      "metaDescription": "Qualia kişisel boyutları, üs inşası, depolama çözümleri ve yaratıcı inşa teknikleri ile Build A Ring Farm inşa etme sisteminde ustalaşın.",
       "categoryLabel": "İNŞA VE ÜSLER",
       "whatIs": "İnşa Etme Nedir?",
       "whatIsDescription": "Qualia kişisel boyut sistemi, üs inşası, depolama yönetimi ve yaratıcı inşa rehberleri. Gerçeküstü dünyada güvenli limanınızı oluşturmayı öğrenin.",
@@ -943,13 +943,13 @@
       "all": "Tüm İnşa Rehberleri"
     },
     "support": {
-      "title": "Lucid Blocks Destek",
+      "title": "Build A Ring Farm Destek",
       "description": "Teknik destek, platform uyumluluğu, performans optimizasyonu ve yaygın sorunlar için sorun giderme.",
-      "metaTitle": "Lucid Blocks Destek - Teknik Yardım ve Çözümler",
-      "metaDescription": "Steam Deck kurulumu, çökme düzeltmeleri, performans optimizasyonu ve platform uyumluluk rehberleri dahil olmak üzere Lucid Blocks için teknik destek alın.",
+      "metaTitle": "Build A Ring Farm Destek - Teknik Yardım ve Çözümler",
+      "metaDescription": "Roblox Deck kurulumu, çökme düzeltmeleri, performans optimizasyonu ve platform uyumluluk rehberleri dahil olmak üzere Build A Ring Farm için teknik destek alın.",
       "categoryLabel": "TEKNİK DESTEK",
       "whatIs": "Destek Nedir?",
-      "whatIsDescription": "Platform uyumluluğu, performans optimizasyonu, çökme düzeltmeleri ve yaygın sorunları kapsayan teknik rehberler. Steam Deck, çok oyunculu soruları ve ayarlar hakkında yardım alın.",
+      "whatIsDescription": "Platform uyumluluğu, performans optimizasyonu, çökme düzeltmeleri ve yaygın sorunları kapsayan teknik rehberler. Roblox Deck, çok oyunculu soruları ve ayarlar hakkında yardım alın.",
       "why": "Neden desteği kontrol etmelisiniz?",
       "whySteps": {
         "step1Title": "Teknik Sorunları Düzeltin",
@@ -957,7 +957,7 @@
         "step2Title": "Performansı Optimize Edin",
         "step2Description": "Platformunuzda en iyi deneyim için ayarları yapılandırın",
         "step3Title": "Platform Uyumluluğu",
-        "step3Description": "Steam Deck, kontrolcü desteği ve sistem gereksinimleri hakkında bilgi edinin"
+        "step3Description": "Roblox Deck, kontrolcü desteği ve sistem gereksinimleri hakkında bilgi edinin"
       },
       "featured": "Öne Çıkanlar ve Temel Bilgiler",
       "all": "Tüm Destek Makaleleri"

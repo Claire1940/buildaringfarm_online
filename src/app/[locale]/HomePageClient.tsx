@@ -246,14 +246,14 @@ export default function HomePageClient({
                 {t.hero.getFreeCodesCTA}
               </button>
               <a
-                href="https://store.steampowered.com/app/3495730/Lucid_Blocks/"
+                href="https://www.roblox.com/games/107646426076756/Build-A-Ring-Farm"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center justify-center gap-2 px-6 py-3.5 md:px-8 md:py-4
                            border border-border hover:bg-white/10 rounded-lg
                            font-semibold text-base md:text-lg transition-colors"
               >
-                {t.hero.playOnSteamCTA}
+                {t.hero.playOnRobloxCTA}
                 <ArrowRight className="w-5 h-5" />
               </a>
             </div>
@@ -1106,7 +1106,7 @@ export default function HomePageClient({
         </div>
       </section>
 
-      {/* Module 13: Steam Deck and Controller */}
+      {/* Module 13: Roblox Deck and Controller */}
       <section id="steam-deck-controller" className="scroll-mt-24 px-4 py-20">
         <div className="container mx-auto max-w-5xl">
           <div className="text-center mb-12 scroll-reveal">
@@ -1114,19 +1114,19 @@ export default function HomePageClient({
               <Gamepad2 className="w-8 h-8 text-[hsl(var(--nav-theme-light))]" />
               <h2 className="text-4xl md:text-5xl font-bold">
                 <LinkedTitle
-                  linkData={moduleLinkMap["lucidBlocksSteamDeckAndController"]}
+                  linkData={moduleLinkMap["lucidBlocksRobloxDeckAndController"]}
                   locale={locale}
                 >
-                  {t.modules.lucidBlocksSteamDeckAndController.title}
+                  {t.modules.lucidBlocksRobloxDeckAndController.title}
                 </LinkedTitle>
               </h2>
             </div>
             <p className="text-muted-foreground text-lg max-w-3xl mx-auto">
-              {t.modules.lucidBlocksSteamDeckAndController.intro}
+              {t.modules.lucidBlocksRobloxDeckAndController.intro}
             </p>
           </div>
           <div className="scroll-reveal space-y-2">
-            {t.modules.lucidBlocksSteamDeckAndController.faqs.map(
+            {t.modules.lucidBlocksRobloxDeckAndController.faqs.map(
               (faq: any, index: number) => (
                 <div
                   key={index}
@@ -1324,7 +1324,7 @@ export default function HomePageClient({
                 </p>
                 <div className="flex flex-wrap gap-3">
                   <a
-                    href="https://discord.com/invite/lucidblocks"
+                    href="https://discord.com/invite/T6VuJ5QD6c"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="inline-flex items-center gap-2 px-4 py-2 rounded-lg bg-[hsl(var(--nav-theme)/0.1)] border border-[hsl(var(--nav-theme)/0.3)] text-sm hover:bg-[hsl(var(--nav-theme)/0.2)] transition-colors"
@@ -1333,12 +1333,12 @@ export default function HomePageClient({
                     <ExternalLink className="w-3 h-3" />
                   </a>
                   <a
-                    href="https://store.steampowered.com/app/3495730/Lucid_Blocks/"
+                    href="https://www.roblox.com/games/107646426076756/Build-A-Ring-Farm"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="inline-flex items-center gap-2 px-4 py-2 rounded-lg bg-[hsl(var(--nav-theme)/0.1)] border border-[hsl(var(--nav-theme)/0.3)] text-sm hover:bg-[hsl(var(--nav-theme)/0.2)] transition-colors"
                   >
-                    Steam Community <ExternalLink className="w-3 h-3" />
+                    Roblox Community <ExternalLink className="w-3 h-3" />
                   </a>
                 </div>
               </div>
@@ -1399,7 +1399,7 @@ export default function HomePageClient({
               <ul className="space-y-2 text-sm">
                 <li>
                   <a
-                    href="https://discord.com/invite/lucidblocks"
+                    href="https://discord.com/invite/T6VuJ5QD6c"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-muted-foreground hover:text-[hsl(var(--nav-theme-light))] transition"
@@ -1409,7 +1409,7 @@ export default function HomePageClient({
                 </li>
                 <li>
                   <a
-                    href="https://x.com/lucidblocks"
+                    href="https://www.roblox.com/communities/989438225/Gamecreates"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-muted-foreground hover:text-[hsl(var(--nav-theme-light))] transition"
@@ -1419,7 +1419,7 @@ export default function HomePageClient({
                 </li>
                 <li>
                   <a
-                    href="https://steamcommunity.com/app/3495730"
+                    href="https://www.youtube.com/watch?v=E56z-x9TrZQ"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-muted-foreground hover:text-[hsl(var(--nav-theme-light))] transition"
@@ -1429,7 +1429,7 @@ export default function HomePageClient({
                 </li>
                 <li>
                   <a
-                    href="https://store.steampowered.com/app/3495730/Lucid_Blocks/"
+                    href="https://www.roblox.com/games/107646426076756/Build-A-Ring-Farm"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-muted-foreground hover:text-[hsl(var(--nav-theme-light))] transition"
