@@ -48,13 +48,13 @@
     "titleHighlight": "Modules",
     "subtitle": "Jump to any Build A Ring Farm guide section below.",
     "cards": [
-      { "icon": "BadgeDollarSign", "title": "Build A Ring Farm Codes", "description": "Active rewards, redemption steps, and quick fixes" },
-      { "icon": "BookOpen", "title": "Build A Ring Farm Beginner Guide", "description": "First-hour route and early mistakes to avoid" },
-      { "icon": "Leaf", "title": "Build A Ring Farm Seeds Tier List", "description": "What to keep, replace, and level first" },
-      { "icon": "FlaskConical", "title": "Build A Ring Farm Mutations Guide", "description": "Mutation multipliers and best farming targets" },
-      { "icon": "Coins", "title": "Build A Ring Farm Money Farming", "description": "Fast cash loops and reinvestment priorities" },
-      { "icon": "Wrench", "title": "Build A Ring Farm Upgrades Guide", "description": "Saw, sprinkler, luck, and ring expansion priorities" },
-      { "icon": "Gift", "title": "Build A Ring Farm Gear and Sprays", "description": "When to use sprays, fertilizer, and boost items" },
+      { "icon": "BookOpen", "title": "Build A Ring Farm Codes", "description": "Active rewards, redemption steps, and quick fixes" },
+      { "icon": "Sparkles", "title": "Build A Ring Farm Beginner Guide", "description": "First-hour route and early mistakes to avoid" },
+      { "icon": "Hammer", "title": "Build A Ring Farm Seeds Tier List", "description": "What to keep, replace, and level first" },
+      { "icon": "Package", "title": "Build A Ring Farm Mutations Guide", "description": "Mutation multipliers and best farming targets" },
+      { "icon": "Eye", "title": "Build A Ring Farm Money Farming", "description": "Fast cash loops and reinvestment priorities" },
+      { "icon": "Settings", "title": "Build A Ring Farm Upgrades Guide", "description": "Saw, sprinkler, luck, and ring expansion priorities" },
+      { "icon": "Star", "title": "Build A Ring Farm Gear and Sprays", "description": "When to use sprays, fertilizer, and boost items" },
       { "icon": "Clock", "title": "Build A Ring Farm Update Log", "description": "Recent code and feature changes" }
     ]
   },
